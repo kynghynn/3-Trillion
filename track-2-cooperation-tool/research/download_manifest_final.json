@@ -1,0 +1,115 @@
+[
+  {
+    "file": "raw/koica_qhealth.pdf",
+    "url": "https://www.koica.go.kr/sites/evaluation_kr/common/filedownload/1927",
+    "retrieved_at": "2026-11-04T11:40:55.722102+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf; charset=UTF-8;",
+    "final_url": "https://www.koica.go.kr/sites/evaluation_kr/common/filedownload/1927",
+    "bytes": 20808625,
+    "sha256": "619207b987b977d7515c5fb1d0ab17692003cb8c394d16ba89922c5e821b3b20",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/dfat_png_evaluation.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/png-burnet-institute-medical-supply-evaluation.pdf",
+    "retrieved_at": "2026-11-04T11:40:55.722419+00:00",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "file": "raw/obs_2025.xlsx",
+    "url": "https://internationalbudget.org/sites/default/files/2026-09/IBP_OBS2025_Global_Data_Launch.xlsx",
+    "retrieved_at": "2026-11-04T11:40:55.722489+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "final_url": "https://internationalbudget.org/sites/default/files/2026-09/IBP_OBS2025_Global_Data_Launch.xlsx",
+    "bytes": 8056388,
+    "sha256": "e07170082ca692766d2174cb82806f67740c54dad993fc026b38ec21e1795a1e",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/korea_iati_script.js",
+    "url": "https://www.oda.go.kr/opo/statics/js/views/nnstat/opoNstatInfoOthBcList.js",
+    "retrieved_at": "2026-11-04T11:40:55.722541+00:00",
+    "http_status": 200,
+    "content_type": "application/x-javascript",
+    "final_url": "https://www.oda.go.kr/opo/statics/js/views/nnstat/opoNstatInfoOthBcList.js",
+    "bytes": 1419,
+    "sha256": "96a388a3ebd76464a034b740ced7784b802dcb69c970158831bd3cc9ab824c04",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/oecd_crs_flow.xml",
+    "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.DCD.FSD/DSD_CRS@DF_CRS/?references=none",
+    "retrieved_at": "2026-11-04T11:40:55.722593+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.structure+xml; charset=utf-8; version=2.1",
+    "final_url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.DCD.FSD/DSD_CRS@DF_CRS/?references=none",
+    "bytes": 23454,
+    "sha256": "d96f3d6507d4ad6b9f1cad432416e47754776b1fd5a63a244ccedffa1d186c71",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/cdi_method.pdf",
+    "url": "https://www.cgdev.org/sites/default/files/cdi-2025-methodology.pdf",
+    "retrieved_at": "2026-11-04T11:40:55.722637+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://www.cgdev.org/sites/default/files/cdi-2025-methodology.pdf",
+    "bytes": 1073764,
+    "sha256": "fd45a3d63777bffe11737644ee23a5089b8a4cb657c1ed6ffbe2f7b1bb7af8b1",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/pefa_guidance.html",
+    "url": "https://www.pefa.org/node/5592",
+    "retrieved_at": "2026-11-04T11:40:55.979170+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "raw/iati_api_docs.html",
+    "url": "https://docs.datastore.iatistandard.org/en/latest/api/",
+    "retrieved_at": "2026-11-04T11:40:56.022798+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://docs.datastore.iatistandard.org/en/latest/api/",
+    "bytes": 18866,
+    "sha256": "e7d634f306fa4b1c8fce3ce1d2568337565ed6330c2b6af604ffc48f3e3b097d",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/lowy_methodology.html",
+    "url": "https://pacificaidmap.lowyinstitute.org/methodology/",
+    "retrieved_at": "2026-11-04T11:40:56.262094+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://pacificaidmap.lowyinstitute.org/methodology/",
+    "bytes": 316144,
+    "sha256": "19640cba13fc735a36299e635f550a941d1043607793bc6b69cedae5ff72d8e9",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_SH_UHC_SCI.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH_UHC_SCI?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:40:56.621484+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SH_UHC_SCI?format=json&per_page=20000&date=2015:2025",
+    "bytes": 602500,
+    "sha256": "cfa068e672ebd36df4e19ae7fdc853c222a0eda20b9b6132c9d8a9490bf58853",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_SH_UHC_SCI_CAPACITY.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH_UHC_SCI_CAPACITY?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:40:57.257349+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SH_UHC_SCI_CAPACITY?format=json&per_page=20000&date=2015:2025",
+    "bytes": 726919,
+    "sha256": "f37c347f07dedd104d00f3d460a4dc39cea271f257a60e9ee88a036f9a3abe20",
+    "status": "downloaded"
+  }
+]

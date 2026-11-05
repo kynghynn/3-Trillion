@@ -1,0 +1,256 @@
+[
+  {
+    "donor": "AUS",
+    "recipient": "PNG",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 7,
+    "satisfactory_count": 5,
+    "satisfactory_share": 0.7142857142857143,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 5,
+      "5": 0,
+      "6": 0
+    },
+    "display_percent": true,
+    "activity_ids": [
+      "AU-5-INM000",
+      "AU-5-INN030",
+      "AU-5-INN147",
+      "AU-5-INN958",
+      "AU-5-INN959",
+      "AU-5-INO406",
+      "AU-5-INO847"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "SLB",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 1,
+    "satisfactory_count": 1,
+    "satisfactory_share": 1.0,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0
+    },
+    "display_percent": false,
+    "activity_ids": [
+      "AU-5-INL121"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "VUT",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 1,
+    "satisfactory_count": 1,
+    "satisfactory_share": 1.0,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0
+    },
+    "display_percent": false,
+    "activity_ids": [
+      "AU-5-INN061"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "FJI",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 1,
+    "satisfactory_count": 1,
+    "satisfactory_share": 1.0,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0
+    },
+    "display_percent": false,
+    "activity_ids": [
+      "AU-5-INO403"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "WSM",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 1,
+    "satisfactory_count": 1,
+    "satisfactory_share": 1.0,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0
+    },
+    "display_percent": false,
+    "activity_ids": [
+      "AU-5-INN610"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "TON",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 2,
+    "satisfactory_count": 2,
+    "satisfactory_share": 1.0,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 0
+    },
+    "display_percent": false,
+    "activity_ids": [
+      "AU-5-INN472",
+      "AU-5-INN776"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "TLS",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 3,
+    "satisfactory_count": 3,
+    "satisfactory_share": 1.0,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 1,
+      "6": 0
+    },
+    "display_percent": true,
+    "activity_ids": [
+      "AU-5-INL676",
+      "AU-5-INL910",
+      "AU-5-INO848"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "KHM",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 1,
+    "satisfactory_count": 1,
+    "satisfactory_share": 1.0,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0
+    },
+    "display_percent": false,
+    "activity_ids": [
+      "AU-5-INN072"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "IDN",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 3,
+    "satisfactory_count": 1,
+    "satisfactory_share": 0.3333333333333333,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 1,
+      "5": 0,
+      "6": 0
+    },
+    "display_percent": true,
+    "activity_ids": [
+      "AU-5-INL548",
+      "AU-5-INN089",
+      "AU-5-INN941"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  },
+  {
+    "donor": "AUS",
+    "recipient": "MMR",
+    "period_end": "2025-06-30",
+    "label": "관측 보건투자의 효과성 평가 분포",
+    "n_distinct_activities": 4,
+    "satisfactory_count": 4,
+    "satisfactory_share": 1.0,
+    "ordinal_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 2,
+      "6": 0
+    },
+    "display_percent": true,
+    "activity_ids": [
+      "AU-5-INN881",
+      "AU-5-INN889",
+      "AU-5-INN890",
+      "AU-5-INO114"
+    ],
+    "comparability": "same publisher scale, selected rated investments only; years may differ across recipients",
+    "chemistry_score": null,
+    "caution": "3 cases is an editorial display threshold, not statistical reliability; excludes multi-country investments and unassessed small investments"
+  }
+]

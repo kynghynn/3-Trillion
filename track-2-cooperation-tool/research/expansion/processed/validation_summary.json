@@ -1,0 +1,30 @@
+{
+  "json_parse": "pass",
+  "unique_activity_ids": true,
+  "provider_identity_conflicts": true,
+  "coverage_matrix_unique_pairs": true,
+  "null_full_chemistry": true,
+  "xml_audit_errors": 0,
+  "gpdec_current_actual_periods": true,
+  "raw_xml_health_PNG": {
+    "raw": 72,
+    "normalized": 72,
+    "match": true
+  },
+  "raw_xml_health_SLB": {
+    "raw": 43,
+    "normalized": 43,
+    "match": true
+  },
+  "rating_AU-5-INL121": true,
+  "rating_AU-5-INN147": true,
+  "ati_agency_rows": true,
+  "solomon_tor_pdf_pages": 7,
+  "jica_pdf_pages": 35,
+  "html_challenge_excluded": true,
+  "limitations": [
+    "No semantic harmonization across agency outcome scales",
+    "No national portfolio census or reconciled finance totals",
+    "No validated full chemistry or prediction"
+  ]
+}

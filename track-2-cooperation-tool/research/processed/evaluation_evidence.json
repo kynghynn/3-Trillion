@@ -1,0 +1,33 @@
+[
+  {
+    "id": "KOICA-QHEALTH-2024",
+    "donor": "KOR",
+    "recipient": "VNM",
+    "sector": "health",
+    "title": "베트남 중부지역병원 사후관리 기술협력(Q-health)",
+    "source_file": "raw/koica_qhealth.pdf",
+    "source_url": "https://www.koica.go.kr/sites/evaluation_kr/common/filedownload/1927",
+    "pdf_page": 5,
+    "evaluation_completed": "2023-10-31",
+    "quality_review_completed": "2024-05-09",
+    "scores_as_published": {
+      "relevance": 3,
+      "coherence": 3.5,
+      "effectiveness": 2.6,
+      "sustainability_readiness": 3.6,
+      "total": 14.7
+    },
+    "scale_max": 4,
+    "total_max": 20,
+    "published_overall_label": "성공적",
+    "report_quality_grade": "C",
+    "important": "C is report quality grade, not national/project success grade. Sustainability is readiness, not longitudinal measured persistence. Published rounding retained.",
+    "budget_conflict": {
+      "cover": "400백만불",
+      "summary_pdf_page_6": "400만불",
+      "use": "USD 4 million only with discrepancy note; not silently repaired"
+    },
+    "interpretation": "다낭과 후에의 이행·성과 차이를 분리하여 설명. 단일 사업으로 국가쌍 케미 산출 금지.",
+    "chemistry_score": null
+  }
+]

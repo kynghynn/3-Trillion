@@ -2,10 +2,11 @@
 
 Team 3-Trillion research project for International Political Economy of Development and Cooperation at SNU.
 
-서울대학교 「개발과 협력의 국제정치경제」 수업의 개발협력 사업 및 AidXray 연구 프로젝트입니다.
+서울대학교 「개발과 협력의 국제정치경제」 수업의 개발협력 사업 및 개발협력 분석 도구 연구 프로젝트입니다.
 
 ## 주요 작업물
 
+- [트랙2 도구 설계·지표·자료 준비](track-2-cooperation-tool/): 국가 협력관행 등급과 분야별 케미 연구, 다국가 데이터 및 시연 설계.
 - [팀 홈페이지 전체 소스](site/): 2026년 10월 21일 제작한 Project · People · Contact, 한국어/영어 전환.
 - [마누스주 필수의약품 공급망 사업기획서](track-1-aid-project/docs/project-proposal.md): 2026년 10월 20일 작성한 공개자료 조사 및 실행설계 초안.
 - [3주차 개인 아이디어](docs/ideas/week-03/): 초기 구상 기록을 보존합니다.
@@ -14,7 +15,7 @@ Team 3-Trillion research project for International Political Economy of Developm
 
 ## 프로젝트 구성
 
-트랙 1은 파푸아뉴기니 마누스주의 필수의약품 공급망 개선 사업안입니다. 트랙 2는 AidXray 도구와 방법론 연구이며, 향후 사업안에 적용한 통합 결과물을 개발할 예정입니다. 현재 홈페이지는 트랙 1 기획을 소개하며 통합 분석이 완료됐다는 의미는 아닙니다.
+트랙 1은 파푸아뉴기니 마누스주의 필수의약품 공급망 개선 사업안입니다. 트랙 2는 기존 AidXray 구상을 폐기하고 국가 협력관행 등급과 국가쌍·분야별 케미 도구를 설계하는 연구입니다. 설계와 데이터 준비를 진행했으며 웹사이트와 검증된 케미 종합점수는 아직 구현하지 않았습니다. 현재 홈페이지는 트랙 1 기획을 소개하며 통합 분석이 완료됐다는 의미는 아닙니다.
 
 ## 홈페이지 실행
 

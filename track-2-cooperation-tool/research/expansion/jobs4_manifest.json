@@ -1,0 +1,25 @@
+[
+  {
+    "file": "raw/ausdevportal_faq.html",
+    "url": "https://adp.dfat.gov.au/faqs",
+    "retrieved_at": "2026-11-04T12:17:36.669859+00:00",
+    "status": "failed",
+    "error": "curl: (28) Operation timed out after 90005 milliseconds with 0 bytes received\n"
+  },
+  {
+    "file": "raw/solomon_health_2025.html",
+    "url": "https://solomons.gov.sb/launch-of-150-million-solomon-islands-australia-health-partnership/",
+    "retrieved_at": "2026-11-04T12:16:07.423900+00:00",
+    "status": "downloaded",
+    "bytes": 1303,
+    "sha256": "4b892330f91f51236c49a4738e9a37b67b97252981eafdff9141caae7deb5e62"
+  },
+  {
+    "file": "raw/solomon_health_tor_2025.pdf",
+    "url": "https://solomons.gov.sb/wp-content/uploads/2025/04/TOR_ASIPS-Template_Public-Finance-Managemnt-Adviser_final.pdf",
+    "retrieved_at": "2026-11-04T12:16:09.292518+00:00",
+    "status": "downloaded",
+    "bytes": 406718,
+    "sha256": "6e6c09a159cb422d5124061dd2c08b6526b4810ad1db0394a45c52015d01b655"
+  }
+]

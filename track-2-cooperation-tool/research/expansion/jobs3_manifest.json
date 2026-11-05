@@ -1,0 +1,37 @@
+[
+  {
+    "file": "raw/dfat_aihss.html",
+    "url": "https://www.dfat.gov.au/publications/development/accelerated-immunisation-and-health-systems-strengthening-program",
+    "retrieved_at": "2026-11-04T12:12:03.860786+00:00",
+    "status": "failed",
+    "error": "curl: (28) Operation timed out after 90008 milliseconds with 0 bytes received\n"
+  },
+  {
+    "file": "raw/dfat_png_health_review.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/papua-new-guinea-health-portfolio-plan-mid-term-review-2022-report.pdf",
+    "retrieved_at": "2026-11-04T12:12:03.860633+00:00",
+    "status": "failed",
+    "error": "curl: (28) Operation timed out after 90009 milliseconds with 0 bytes received\n"
+  },
+  {
+    "file": "raw/dfat_png_supply.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/png-burnet-institute-medical-supply-evaluation.pdf",
+    "retrieved_at": "2026-11-04T12:12:03.861085+00:00",
+    "status": "failed",
+    "error": "curl: (28) Operation timed out after 90008 milliseconds with 0 bytes received\n"
+  },
+  {
+    "file": "raw/dfat_aihss.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/hdmes-aihss-evaluation-2023.pdf",
+    "retrieved_at": "2026-11-04T12:12:03.860826+00:00",
+    "status": "failed",
+    "error": "curl: (28) Operation timed out after 90008 milliseconds with 0 bytes received\n"
+  },
+  {
+    "file": "raw/dfat_solomon.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/solomon-islands-health-sector-support-program-independent-performance-assessment-and-management-response-2019.pdf",
+    "retrieved_at": "2026-11-04T12:12:03.860021+00:00",
+    "status": "failed",
+    "error": "curl: (28) Operation timed out after 90008 milliseconds with 0 bytes received\n"
+  }
+]

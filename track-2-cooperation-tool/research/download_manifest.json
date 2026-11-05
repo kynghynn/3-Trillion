@@ -1,0 +1,393 @@
+[
+  {
+    "file": "raw/quoda_2021.xlsx",
+    "url": "https://www.cgdev.org/sites/default/files/quoda-2021-results.xlsx",
+    "retrieved_at": "2026-11-04T11:38:38.785136+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "final_url": "https://www.cgdev.org/sites/default/files/quoda-2021-results.xlsx",
+    "bytes": 289514,
+    "sha256": "542cc375eb2788f2c606f81815a787332d46e91450129c4507994658a0281ddb",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/quoda_method.pdf",
+    "url": "https://www.cgdev.org/sites/default/files/QuODA-2021-methodology-paper.pdf",
+    "retrieved_at": "2026-11-04T11:38:38.785757+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://www.cgdev.org/sites/default/files/QuODA-2021-methodology-paper.pdf",
+    "bytes": 920031,
+    "sha256": "ac105e378a80dbf5706c438322ae6e3641d7448fba3b7b8627f7b5cbfb40b3de",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/gpedc_archive.html",
+    "url": "https://www.effectivecooperation.org/content/gpedc-monitoring-excel-database",
+    "retrieved_at": "2026-11-04T11:38:38.785840+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://www.effectivecooperation.org/content/gpedc-monitoring-excel-database",
+    "bytes": 38296,
+    "sha256": "6e19947adc60cd3c6638bf7944136f566fd566ae8af93e5c44fd873076d429bc",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/gpedc_2026.html",
+    "url": "https://www.effectivecooperation.org/resources/progressreport2026",
+    "retrieved_at": "2026-11-04T11:38:38.785892+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://www.effectivecooperation.org/resources/progressreport2026",
+    "bytes": 50389,
+    "sha256": "4806fb8ced36496e7e8ab32293c07a83a4cf189d0a217850a8a1215f3d7d23b6",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/gpedc_guide.pdf",
+    "url": "https://www.effectivecooperation.org/system/files/2024-02/Main%20Guide%20%28ENG%29.pdf",
+    "retrieved_at": "2026-11-04T11:38:38.785944+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://www.effectivecooperation.org/system/files/2024-02/Main%20Guide%20%28ENG%29.pdf",
+    "bytes": 1480621,
+    "sha256": "8563ab9f45c8b83b8f8a445815c2ed9820aa3a1d2486c7eb6763b8ea771fa4bf",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/ati_2024.xlsx",
+    "url": "https://www.publishwhatyoufund.org/download/index-results-data/",
+    "retrieved_at": "2026-11-04T11:38:38.785980+00:00",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "file": "raw/obs_download.html",
+    "url": "https://internationalbudget.org/open-budget-survey/download",
+    "retrieved_at": "2026-11-04T11:38:39.670201+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://internationalbudget.org/open-budget-survey/download",
+    "bytes": 11974093,
+    "sha256": "05ef8ffa08b5bd508b774a3aa01992ccbc9d285ab0f4f39f101c9c0dedbebcd2",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/koica_qhealth.html",
+    "url": "https://koica.go.kr/sites/evaluation_kr/article/view/1265",
+    "retrieved_at": "2026-11-04T11:38:40.125891+00:00",
+    "status": "failed",
+    "error": "<urlopen error [Errno 54] Connection reset by peer>"
+  },
+  {
+    "file": "raw/dfat_png.html",
+    "url": "https://www.dfat.gov.au/about-us/publications/Pages/medical-supply-reform-impact-evaluation-papua-new-guinea",
+    "retrieved_at": "2026-11-04T11:38:40.168884+00:00",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "file": "raw/jica_vietnam.pdf",
+    "url": "https://www2.jica.go.jp/en/evaluation/pdf/2013_0601704_4_f.pdf",
+    "retrieved_at": "2026-11-04T11:38:40.331008+00:00",
+    "status": "failed",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "file": "raw/png_health_plan.pdf",
+    "url": "https://health.gov.pg/pdf/NHP_2A.pdf",
+    "retrieved_at": "2026-11-04T11:38:40.438125+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://health.gov.pg/pdf/NHP_2A.pdf",
+    "bytes": 6188352,
+    "sha256": "7b978b9b7238c27ea27f2a6e293f92c010d754658373acfa085f07c93cda4085",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/who_png_2026.html",
+    "url": "https://www.who.int/papuanewguinea/news/detail/29-07-2026-strengthening-papua-new-guinea-s-medical-supply-system",
+    "retrieved_at": "2026-11-04T11:38:41.316032+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://www.who.int/papuanewguinea/news/detail/29-07-2026-strengthening-papua-new-guinea-s-medical-supply-system",
+    "bytes": 88697,
+    "sha256": "8900d4755ba7549cc35bf9c0bba804e0e2b3aa8a5db1476f7dc599ed49e88ea0",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/aiddata_ltl_2025.pdf",
+    "url": "https://docs.aiddata.org/reports/ltl-2025/Listening_to_Leaders_2025.pdf",
+    "retrieved_at": "2026-11-04T11:38:44.411037+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://docs.aiddata.org/reports/ltl-2025/Listening_to_Leaders_2025.pdf",
+    "bytes": 8375010,
+    "sha256": "fe8f61e34959b883989576fc3b289df0450a7182a74d9b2e8316ab7cafc12ff0",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/oecd_composite.pdf",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf",
+    "retrieved_at": "2026-11-04T11:38:45.233286+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf",
+    "bytes": 3105577,
+    "sha256": "8b82c5b5563122960170f3dff0607ba47eaeab5e7c4b85c9edaf28d58cf5eca7",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/oecd_evaluation.pdf",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/03/applying-evaluation-criteria-thoughtfully_45a54ea7/543e84ed-en.pdf",
+    "retrieved_at": "2026-11-04T11:38:46.233208+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/03/applying-evaluation-criteria-thoughtfully_45a54ea7/543e84ed-en.pdf",
+    "bytes": 2104242,
+    "sha256": "9dd2b6a03f78168588762c3d2aa325e0be353261e887ecb7738049e975642fbe",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_countries.json",
+    "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+    "retrieved_at": "2026-11-04T11:38:46.624268+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+    "bytes": 113954,
+    "sha256": "c9acf3932785191a649cbc04c3056af4cf64a236e5c3b49d49be25ddb0440bce",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_indicators.json",
+    "url": "https://api.worldbank.org/v2/indicator?format=json&per_page=30000",
+    "retrieved_at": "2026-11-04T11:38:46.754277+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/indicator?format=json&per_page=30000",
+    "bytes": 14934352,
+    "sha256": "4a5d22515529a49a4d5b7d4e8ac80cdca182311d520d8b0aef8d704334a81789",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wgi_home.html",
+    "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+    "retrieved_at": "2026-11-04T11:38:46.926949+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "final_url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+    "bytes": 56616,
+    "sha256": "52a8f4ecfd983dbf0a25e3ea42cb4922d96a6786e2cd9437eed201c520e421ec",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/spi_home.html",
+    "url": "https://www.worldbank.org/en/programs/statistical-performance-indicators/explore-data",
+    "retrieved_at": "2026-11-04T11:38:47.093574+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "final_url": "https://www.worldbank.org/en/programs/statistical-performance-indicators/explore-data",
+    "bytes": 80087,
+    "sha256": "63c9124925e786d2869af55e6eae84aea03f6133878a941811221a90974fafb2",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_GE.EST.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/GE.EST?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:47.246061+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/GE.EST?format=json&per_page=20000&date=2015:2025",
+    "bytes": 128,
+    "sha256": "531cfc2a89937bfd09e7b2a4aeac3a5c55b79767ee4dd60ae770fd3629115f38",
+    "status": "api_error",
+    "error": [
+      {
+        "message": [
+          {
+            "id": "175",
+            "key": "Invalid format",
+            "value": "The indicator was not found. It may have been deleted or archived."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file": "raw/wb_CC.EST.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/CC.EST?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:47.524456+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/CC.EST?format=json&per_page=20000&date=2015:2025",
+    "bytes": 128,
+    "sha256": "531cfc2a89937bfd09e7b2a4aeac3a5c55b79767ee4dd60ae770fd3629115f38",
+    "status": "api_error",
+    "error": [
+      {
+        "message": [
+          {
+            "id": "175",
+            "key": "Invalid format",
+            "value": "The indicator was not found. It may have been deleted or archived."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file": "raw/wb_VA.EST.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/VA.EST?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:47.662676+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/VA.EST?format=json&per_page=20000&date=2015:2025",
+    "bytes": 128,
+    "sha256": "531cfc2a89937bfd09e7b2a4aeac3a5c55b79767ee4dd60ae770fd3629115f38",
+    "status": "api_error",
+    "error": [
+      {
+        "message": [
+          {
+            "id": "175",
+            "key": "Invalid format",
+            "value": "The indicator was not found. It may have been deleted or archived."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file": "raw/wb_IQ.SPI.OVRL.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/IQ.SPI.OVRL?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:47.871433+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/IQ.SPI.OVRL?format=json&per_page=20000&date=2015:2025",
+    "bytes": 745241,
+    "sha256": "28a607239db71ab83824029b38112d2fc5f6f0516b6960d27c60e7be22e9be31",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_IQ.CPA.PUBS.XQ.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/IQ.CPA.PUBS.XQ?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:48.008534+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/IQ.CPA.PUBS.XQ?format=json&per_page=20000&date=2015:2025",
+    "bytes": 773359,
+    "sha256": "99db6a2b48af514db489e8d947603ef8c4d520c0f42d94652a205571b9de47ef",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_SH.UHC.SRVS.CV.XD.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.UHC.SRVS.CV.XD?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:48.507652+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SH.UHC.SRVS.CV.XD?format=json&per_page=20000&date=2015:2025",
+    "bytes": 128,
+    "sha256": "531cfc2a89937bfd09e7b2a4aeac3a5c55b79767ee4dd60ae770fd3629115f38",
+    "status": "api_error",
+    "error": [
+      {
+        "message": [
+          {
+            "id": "175",
+            "key": "Invalid format",
+            "value": "The indicator was not found. It may have been deleted or archived."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file": "raw/wb_SH.UHC.SRVS.CV.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.UHC.SRVS.CV?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:48.642086+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SH.UHC.SRVS.CV?format=json&per_page=20000&date=2015:2025",
+    "bytes": 102,
+    "sha256": "f230e5b6d8f652aa544aec29624faa117c27571ce309a7a474584e1cfeb45c1b",
+    "status": "api_error",
+    "error": [
+      {
+        "message": [
+          {
+            "id": "120",
+            "key": "Invalid value",
+            "value": "The provided parameter value is not valid"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file": "raw/wb_SH.DYN.MORT.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.DYN.MORT?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:48.856479+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SH.DYN.MORT?format=json&per_page=20000&date=2015:2025",
+    "bytes": 669458,
+    "sha256": "82dd4745be6dd8acd07ee68e9186606bbfea7c196ac0b89518054e0757b0ed77",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_SH.XPD.OOPC.CH.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:48.963112+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.OOPC.CH.ZS?format=json&per_page=20000&date=2015:2025",
+    "bytes": 735871,
+    "sha256": "57669aa476232e9c01990024602350d4d5734cd32221ff3ee3ed342f1c13c905",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_SP.RUR.TOTL.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.RUR.TOTL.ZS?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:49.503306+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SP.RUR.TOTL.ZS?format=json&per_page=20000&date=2015:2025",
+    "bytes": 687044,
+    "sha256": "8a8369b603d84070c2de2af714db9cff4c207574581632d5ed1916b1e8c8391e",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_NY.GNP.PCAP.CD.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GNP.PCAP.CD?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:49.671930+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/NY.GNP.PCAP.CD?format=json&per_page=20000&date=2015:2025",
+    "bytes": 667289,
+    "sha256": "a23ec8f336a21a049e2e71b030255b51ef2cd4c56127d2f5c04ef31ad90a4f41",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_SP.POP.TOTL.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:49.781743+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json&per_page=20000&date=2015:2025",
+    "bytes": 588710,
+    "sha256": "d6d1bbb1c104a4d6ee9636d6b7a99a4d03ae6b938ef1497608997586149027ba",
+    "status": "downloaded"
+  },
+  {
+    "file": "raw/wb_SH.MED.PHYS.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.MED.PHYS.ZS?format=json&per_page=20000&date=2015:2025",
+    "retrieved_at": "2026-11-04T11:38:49.873648+00:00",
+    "http_status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://api.worldbank.org/v2/country/all/indicator/SH.MED.PHYS.ZS?format=json&per_page=20000&date=2015:2025",
+    "bytes": 623895,
+    "sha256": "9729f89f6d0281812a19389df6b98b06453e8097e48117af2af5a5b8b44543da",
+    "status": "downloaded"
+  }
+]

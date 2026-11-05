@@ -1,0 +1,73 @@
+[
+  {
+    "source": "GPEDC",
+    "use": [
+      "country_role_practice_rating",
+      "bilateral_process_evidence",
+      "institutional_context",
+      "qualitative_sector_evaluation_background"
+    ],
+    "rule": "Same observation may appear in multiple panels. Do not add node aggregate and its constituent edge observation to one final score. For incremental predictive value use leave-one-partner-out donor/recipient aggregates and temporal holdout. All-sector rows cannot stand in for health-specific outcomes."
+  },
+  {
+    "source": "IATI",
+    "use": [
+      "activity_inventory",
+      "sector_experience",
+      "funding_history",
+      "document_discovery",
+      "publisher_reported_results",
+      "data_completeness_diagnostics"
+    ],
+    "rule": "Separate publication completeness from outcome quality. One shared project is one intervention cluster. API/XML reporting is not independent corroboration of an evaluation it republishes."
+  },
+  {
+    "source": "ATI2024",
+    "use": [
+      "agency_disclosure_profile",
+      "donor_rating_disclosure_subdimension_candidate",
+      "IATI_availability_diagnostic"
+    ],
+    "rule": "Agency-level and 2024 edition. No national average without matched agency coverage and defensible weights; do not count ATI publication and IATI completeness as two independent achievements."
+  },
+  {
+    "source": "WGI_SPI_OBS_CPIA",
+    "use": [
+      "recipient_operational_context",
+      "similarity_features",
+      "external_convergent_validation",
+      "alternative_capacity_composite_candidate"
+    ],
+    "rule": "Changing from cooperation practice to capacity changes construct. Do not add total indices and shared constituent variables. Overlap source check, correlations and sensitivity required; fragility/need is not lack of cooperation willingness."
+  },
+  {
+    "source": "QuODA_CDI",
+    "use": [
+      "construct_design",
+      "external_comparison",
+      "historical_benchmark"
+    ],
+    "rule": "Inspect components and years. QuODA may already reuse GPEDC/ATI. CDI total includes policy domains outside aid, so use relevant components only."
+  },
+  {
+    "source": "OECD_CRS_Lowy_AidData",
+    "use": [
+      "portfolio_denominator",
+      "sector_specialisation",
+      "recipient_exposure",
+      "financial_crosscheck"
+    ],
+    "rule": "Definitions differ: ODA vs OOF, commitments vs disbursements, current vs constant prices. Mirrors are alternative access routes to same observations, not extra evidence."
+  },
+  {
+    "source": "independent_evaluation_national_strategy",
+    "use": [
+      "priority_fit",
+      "joint_delivery",
+      "outcomes",
+      "sustainability",
+      "project_risk_lessons"
+    ],
+    "rule": "Record page, evaluator, financing and coverage. Priority statements demonstrate alignment, not success; pre-completion sustainability readiness differs from post-completion persistence."
+  }
+]

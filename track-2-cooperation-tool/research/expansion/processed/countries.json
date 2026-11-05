@@ -1,0 +1,240 @@
+[
+  {
+    "iso3": "AUS",
+    "name": "Australia",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "BGD",
+    "name": "Bangladesh",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "CAN",
+    "name": "Canada",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "name": "Germany",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "FJI",
+    "name": "Fiji",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "name": "France",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "GHA",
+    "name": "Ghana",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "JPN",
+    "name": "Japan",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "KEN",
+    "name": "Kenya",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "KHM",
+    "name": "Cambodia",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "KOR",
+    "name": "Korea, Rep.",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "LAO",
+    "name": "Lao PDR",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "MMR",
+    "name": "Myanmar",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "NPL",
+    "name": "Nepal",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "PAK",
+    "name": "Pakistan",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "PHL",
+    "name": "Philippines",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "PNG",
+    "name": "Papua New Guinea",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "RWA",
+    "name": "Rwanda",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "SEN",
+    "name": "Senegal",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "SLB",
+    "name": "Solomon Islands",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "name": "Sweden",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "TLS",
+    "name": "Timor-Leste",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "TON",
+    "name": "Tonga",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "TZA",
+    "name": "Tanzania",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "UGA",
+    "name": "Uganda",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "USA",
+    "name": "United States",
+    "roles": [
+      "donor"
+    ]
+  },
+  {
+    "iso3": "VNM",
+    "name": "Viet Nam",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "VUT",
+    "name": "Vanuatu",
+    "roles": [
+      "recipient"
+    ]
+  },
+  {
+    "iso3": "WSM",
+    "name": "Samoa",
+    "roles": [
+      "recipient"
+    ]
+  }
+]

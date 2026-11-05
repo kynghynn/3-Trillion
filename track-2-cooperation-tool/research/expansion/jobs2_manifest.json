@@ -1,0 +1,328 @@
+[
+  {
+    "file": "raw/afd-bd.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/30655c61-d081-4b74-b567-3632d720e1a7",
+    "retrieved_at": "2026-11-04T12:08:24.215945+00:00",
+    "status": "downloaded",
+    "bytes": 252373,
+    "sha256": "cf32e97a00198792095fb542ca53ed2f2d570fbf7e0eb35673e39e799ac4ceb9"
+  },
+  {
+    "file": "raw/afd-et.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/a370a413-8cb8-4ef9-a74e-8812536a2f5f",
+    "retrieved_at": "2026-11-04T12:08:24.383421+00:00",
+    "status": "downloaded",
+    "bytes": 356265,
+    "sha256": "3c134312885b952b7adb7b9aedeb6bd1e563d86f162647b447e649c5c086e103"
+  },
+  {
+    "file": "raw/afd-fj.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3200ab51-65b3-42d7-8d2b-162c09355aee",
+    "retrieved_at": "2026-11-04T12:08:23.418664+00:00",
+    "status": "downloaded",
+    "bytes": 12589,
+    "sha256": "1adbd1c0fd5067597b2254b775d395edcedda16cbd661c58dadf6a62b1a84289"
+  },
+  {
+    "file": "raw/afd-gh.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c03b11e5-54ac-4673-8522-d826801182f9",
+    "retrieved_at": "2026-11-04T12:08:24.006241+00:00",
+    "status": "downloaded",
+    "bytes": 144522,
+    "sha256": "bf6ebfa9be1489597f04bddc2c1ea32bcd596e689e969bdaf793832005ec9407"
+  },
+  {
+    "file": "raw/afd-id.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/92993872-4df0-4546-b096-bb347d4cd6f3",
+    "retrieved_at": "2026-11-04T12:08:24.315820+00:00",
+    "status": "downloaded",
+    "bytes": 256876,
+    "sha256": "dc7a3ac300beea29d5b0dc7c9ccbbf3beaf74f773f3cd838b6b3c202b00e3a31"
+  },
+  {
+    "file": "raw/afd-ke.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/a7f3d9d2-d2a5-424c-8e6a-eb8d314dbe8d",
+    "retrieved_at": "2026-11-04T12:08:24.162062+00:00",
+    "status": "downloaded",
+    "bytes": 161117,
+    "sha256": "319a8727fce3849d3afc90808ccb371590b59a8820a194196181d8b8c683c015"
+  },
+  {
+    "file": "raw/afd-kh.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/5ea87c74-bf3b-4cb7-a138-e398bf9d2f3a",
+    "retrieved_at": "2026-11-04T12:08:26.531731+00:00",
+    "status": "downloaded",
+    "bytes": 450127,
+    "sha256": "c8db6c557ebbf95ff159c34c7ac372581411fcd7a4b9bce3196fa454833d9bb4"
+  },
+  {
+    "file": "raw/afd-la.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/9b660fdc-17b0-4097-9238-51a217a40a7e",
+    "retrieved_at": "2026-11-04T12:08:27.189316+00:00",
+    "status": "downloaded",
+    "bytes": 371156,
+    "sha256": "5e54bc5369037000fbb3a1115382d2e234f9e6eb4cdb7bc2cad7b7983201288c"
+  },
+  {
+    "file": "raw/afd-mm.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/daae8b8a-39e0-4be0-ad16-4f05340cd263",
+    "retrieved_at": "2026-11-04T12:08:26.489679+00:00",
+    "status": "downloaded",
+    "bytes": 80876,
+    "sha256": "8f10787760a1cea02a4664dc9f95ac535b83301f1222dec7b5afa1b93899efe2"
+  },
+  {
+    "file": "raw/afd-pg.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3d75b2cb-bd33-4bd2-bcab-d27422e3c7d6",
+    "retrieved_at": "2026-11-04T12:08:26.291291+00:00",
+    "status": "downloaded",
+    "bytes": 26069,
+    "sha256": "4514a7a4346bad2696414830cd3c4ca5c61c89e63b3a8e2e9f0dbe13009f130b"
+  },
+  {
+    "file": "raw/afd-ph.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/8a4d1b92-d916-4acd-8382-27796efc61a6",
+    "retrieved_at": "2026-11-04T12:08:27.034231+00:00",
+    "status": "downloaded",
+    "bytes": 210142,
+    "sha256": "bdabb7f6682f53460b8db15001300d75742c4b9c689812ef254607a04a0afa4a"
+  },
+  {
+    "file": "raw/afd-pk.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7b4e7ce0-70a2-44ca-95fa-0da8c46a0e61",
+    "retrieved_at": "2026-11-04T12:08:26.952109+00:00",
+    "status": "downloaded",
+    "bytes": 123243,
+    "sha256": "4384d1ad9ec65fe204636f02bf2b19be1ac4fe1a9c51d62f330242bf3709e190"
+  },
+  {
+    "file": "raw/afd-rw.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/36038f95-8ed4-4a28-8576-aae5fe77c25a",
+    "retrieved_at": "2026-11-04T12:08:29.141824+00:00",
+    "status": "downloaded",
+    "bytes": 251135,
+    "sha256": "1cff0a7b723c5dd8fb2b709d93b149cc5931d2d9fb64b12eed0dc0b994687d18"
+  },
+  {
+    "file": "raw/afd-sn.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/efe4968d-806b-4b50-acef-34db1846c67a",
+    "retrieved_at": "2026-11-04T12:08:30.234586+00:00",
+    "status": "downloaded",
+    "bytes": 1224369,
+    "sha256": "5155e24c47ae142d3db6559d59499ac4a672e54d5357ea4b4a25241fdb231b8b"
+  },
+  {
+    "file": "raw/afd-tz.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7c6422eb-b25f-4aae-8b88-2081b370e903",
+    "retrieved_at": "2026-11-04T12:08:29.619240+00:00",
+    "status": "downloaded",
+    "bytes": 283605,
+    "sha256": "5514887466cf1c867d35b33f0d4c8aee0cea2022399231ce2c9e6567a82cd3a8"
+  },
+  {
+    "file": "raw/afd-ug.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/04f56748-8aed-4a69-b4d1-36a50786b269",
+    "retrieved_at": "2026-11-04T12:08:29.859693+00:00",
+    "status": "downloaded",
+    "bytes": 126422,
+    "sha256": "2ea4b0f5664d58b2ead66e9b852c8aaaa04a7a5c2b3381fa1805b32730a116b7"
+  },
+  {
+    "file": "raw/afd-vn.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/0b5a4880-1a04-4dc5-9826-8bcac050b954",
+    "retrieved_at": "2026-11-04T12:08:30.951206+00:00",
+    "status": "downloaded",
+    "bytes": 621253,
+    "sha256": "d7df27cd3157f370a8fd404c56b7d604017a716d11b02a5b13087cf4816b7f00"
+  },
+  {
+    "file": "raw/afd-vu.xml",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d5388afc-4c0e-4c0a-87a9-186fa12fea7f",
+    "retrieved_at": "2026-11-04T12:08:29.301395+00:00",
+    "status": "downloaded",
+    "bytes": 25290,
+    "sha256": "85e67b347ae027af4d05aec6dd20eee46da0af8a73617a805ffa03d7a33840b1"
+  },
+  {
+    "file": "raw/ausgov-activity.xml",
+    "url": "https://data.gov.au/data/dataset/07136b9b-f877-4af8-b19b-b0cb9a76a7d0/resource/490a7503-2caf-4fbe-9ddb-a7ff05272044/download/dfat-australia-iati-activity-file-.xml",
+    "retrieved_at": "2026-11-04T12:08:30.730612+00:00",
+    "status": "downloaded",
+    "bytes": 20238548,
+    "sha256": "f28d5e29ed64bd2453fb56b44d2195a50a161f99a5c3e8c7acbbc28d0518b743"
+  },
+  {
+    "file": "raw/fcdo-set-1.xml",
+    "url": "https://iati.fcdo.gov.uk/iati_files/solr/FCDO-set-1.xml",
+    "retrieved_at": "2026-11-04T12:08:31.915002+00:00",
+    "status": "downloaded",
+    "bytes": 9142128,
+    "sha256": "e41e2d9e379e88b22ef247fdf82d8aea29c725ffc09651b595c64f97ce4de815"
+  },
+  {
+    "file": "raw/fcdo-set-2.xml",
+    "url": "https://iati.fcdo.gov.uk/iati_files/solr/FCDO-set-2.xml",
+    "retrieved_at": "2026-11-04T12:08:32.122225+00:00",
+    "status": "downloaded",
+    "bytes": 10060122,
+    "sha256": "d1a2c2daccdd1346a702c25620429a7d6dd1c7a08bef9ae8784b267d594d4600"
+  },
+  {
+    "file": "raw/fcdo-set-3.xml",
+    "url": "https://iati.fcdo.gov.uk/iati_files/solr/FCDO-set-3.xml",
+    "retrieved_at": "2026-11-04T12:08:32.264080+00:00",
+    "status": "downloaded",
+    "bytes": 7589174,
+    "sha256": "9bd8132784133238d738913a7a8920b25ee6b7790504af38b5f0d5dfabd09153"
+  },
+  {
+    "file": "raw/fcdo-set-4.xml",
+    "url": "https://iati.fcdo.gov.uk/iati_files/solr/FCDO-set-4.xml",
+    "retrieved_at": "2026-11-04T12:08:32.604118+00:00",
+    "status": "downloaded",
+    "bytes": 9586911,
+    "sha256": "f43eed7df346813c9bfa1db78db3ace1b91617095995a1b9f6c11ee24dad0bb8"
+  },
+  {
+    "file": "raw/fcdo-set-5.xml",
+    "url": "https://iati.fcdo.gov.uk/iati_files/solr/FCDO-set-5.xml",
+    "retrieved_at": "2026-11-04T12:08:33.030911+00:00",
+    "status": "downloaded",
+    "bytes": 8353182,
+    "sha256": "46368179738344b865e7359ef4386d13040c104743e15c0a4932d78c2e0dc2ac"
+  },
+  {
+    "file": "raw/gac-amc-4a.xml",
+    "url": "https://w05.international.gc.ca/projectbrowser-banqueprojets/iita-iati/dfatd-maecd_activit_status_4a.xml",
+    "retrieved_at": "2026-11-04T12:09:13.514916+00:00",
+    "status": "downloaded",
+    "bytes": 13421228,
+    "sha256": "f315ed74545c2f777acf809cf533ab8c4b3c26a995340031a37307af62455fcd"
+  },
+  {
+    "file": "raw/gac-amc-act_2.xml",
+    "url": "https://w05.international.gc.ca/projectbrowser-banqueprojets/iita-iati/dfatd-maecd_activit_status_2.xml",
+    "retrieved_at": "2026-11-04T12:09:38.125562+00:00",
+    "status": "downloaded",
+    "bytes": 21048106,
+    "sha256": "b59e082026353230537c75b261f9aa726e93eda4dd565b4b7a990d3a1b090cc6"
+  },
+  {
+    "file": "raw/jica-activity-publisher.xml",
+    "url": "https://iatipublisher-prod.s3.amazonaws.com/xml/mergedActivityXml/jica-activities.xml",
+    "retrieved_at": "2026-11-04T12:08:34.777632+00:00",
+    "status": "downloaded",
+    "bytes": 2569231,
+    "sha256": "5476502a84fc3aa0e37c433419fce5793c07a2bf0adf9e4803b6ca1b29eeb33e"
+  },
+  {
+    "file": "raw/mfat-iati-africa.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-Africa.xml",
+    "retrieved_at": "2026-11-04T12:08:33.842819+00:00",
+    "status": "downloaded",
+    "bytes": 4557478,
+    "sha256": "3960c2f29d12b72bc2492cba3d828b69f5dcb823025139f2a279fe0d529bc58f"
+  },
+  {
+    "file": "raw/mfat-iati-asean.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-ASEAN.xml",
+    "retrieved_at": "2026-11-04T12:08:34.098465+00:00",
+    "status": "downloaded",
+    "bytes": 10361307,
+    "sha256": "e288fed05b0dd41564298911320aa41647802a63cd8006e30c6f25702e500a91"
+  },
+  {
+    "file": "raw/mfat-iati-fiji.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-Fiji.xml",
+    "retrieved_at": "2026-11-04T12:08:34.608316+00:00",
+    "status": "downloaded",
+    "bytes": 3211893,
+    "sha256": "4f1049c9c48bacbf7ab70c398c0815efa2b984cc7aa5a7ac24dc519096e05d29"
+  },
+  {
+    "file": "raw/mfat-iati-papua-new-guinea.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-Papua-New-Guinea.xml",
+    "retrieved_at": "2026-11-04T12:08:35.341140+00:00",
+    "status": "downloaded",
+    "bytes": 4424810,
+    "sha256": "17a92352fe355a7698d5f27b18afc997b549d81e443342fe7f7a8b01773335fe"
+  },
+  {
+    "file": "raw/mfat-iati-samoa.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-Samoa.xml",
+    "retrieved_at": "2026-11-04T12:08:35.257413+00:00",
+    "status": "downloaded",
+    "bytes": 3654250,
+    "sha256": "814ed23095991859c7eb7430bc8ebd6db837ee36933110b9e5c3684e25be15dd"
+  },
+  {
+    "file": "raw/mfat-iati-solomon-islands.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-Solomon-Islands.xml",
+    "retrieved_at": "2026-11-04T12:08:35.991962+00:00",
+    "status": "downloaded",
+    "bytes": 6160550,
+    "sha256": "4aa9d719c4c5c617b2867eb45b11d906585e377e252ec1c4ea6fb42ffa171127"
+  },
+  {
+    "file": "raw/mfat-iati-timor-leste.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-Timor-Leste.xml",
+    "retrieved_at": "2026-11-04T12:08:35.804227+00:00",
+    "status": "downloaded",
+    "bytes": 2288322,
+    "sha256": "744bda19e83988d5b3bfc0798efeaf6bbf32e9eb0d34156b001529ec140bd5b7"
+  },
+  {
+    "file": "raw/mfat-iati-tonga.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-Tonga.xml",
+    "retrieved_at": "2026-11-04T12:08:36.432817+00:00",
+    "status": "downloaded",
+    "bytes": 3864555,
+    "sha256": "6fdde7511e4a4137a04b067bbe01a2397e125c2e2fb285be14c77f3d3fe4d535"
+  },
+  {
+    "file": "raw/mfat-iati-vanuatu.xml",
+    "url": "https://devdata.mfat.govt.nz/assets/Aid/IATI/IATI-Activity-XML-Files/IATI-Vanuatu.xml",
+    "retrieved_at": "2026-11-04T12:08:37.435842+00:00",
+    "status": "downloaded",
+    "bytes": 7050186,
+    "sha256": "79d8ec5a52212ffb5defbc7ee308b6817f4b0e3fed30b2f5686a07bc2c535aa9"
+  },
+  {
+    "file": "raw/sida-100.xml",
+    "url": "https://iati.openaid.se/xml/IATI_SE_BISI_File_100.xml",
+    "retrieved_at": "2026-11-04T12:08:41.653621+00:00",
+    "status": "downloaded",
+    "bytes": 33673419,
+    "sha256": "b19e7b34261b578233cc79247b85d07e1047882b84c9e3de452f19cd8bbfd516"
+  },
+  {
+    "file": "raw/lowy_data_node.js",
+    "url": "https://pacificaidmap.lowyinstitute.org/_app/immutable/nodes/15.DF3Il6LB.js",
+    "retrieved_at": "2026-11-04T12:08:36.934153+00:00",
+    "status": "downloaded",
+    "bytes": 40739,
+    "sha256": "d347fe178702b63c8be3f1498d4a77b650b6a406d15d79a10e02d7f5eb062409"
+  },
+  {
+    "file": "raw/dfat_aihss.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/hdmes-aihss-evaluation-2023.pdf",
+    "retrieved_at": "2026-11-04T12:08:36.495299+00:00",
+    "status": "failed",
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  },
+  {
+    "file": "raw/dfat_solomon.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/solomon-islands-health-sector-support-program-independent-performance-assessment-and-management-response-2019.pdf",
+    "retrieved_at": "2026-11-04T12:08:36.550408+00:00",
+    "status": "failed",
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  },
+  {
+    "file": "raw/jica_png_health.pdf",
+    "url": "https://www2.jica.go.jp/en/evaluation/pdf/2021_1602019_4_f.pdf",
+    "retrieved_at": "2026-11-04T12:08:37.102059+00:00",
+    "status": "downloaded",
+    "bytes": 643768,
+    "sha256": "d913bc3666c78c49db785bb740f2627d573372d77befdeeff8e84c594d44b7a2"
+  }
+]

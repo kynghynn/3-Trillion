@@ -1,0 +1,2954 @@
+[
+  {
+    "iso3": "BGD",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 2.5,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 2.9,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.1,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.3,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.7,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.7,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 2.8,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 1.9,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 2.8,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.2,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 2.7,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.9,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 4,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.5,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 2.8,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.4,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.2,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 2.6,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.7,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.3,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2025,
+    "value": 3.1,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "year": 2015,
+    "value": 3.5,
+    "unit": "",
+    "source_file": "raw/wb_IQ.CPA.PUBS.XQ.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 96,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 44,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 38,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 99,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 31,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 75,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 95,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 95,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 54,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 71,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 100,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 55,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 100,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 49,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 39,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 50,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 95,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 37,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 24,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 68,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 38,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 53,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 26,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 53,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 74,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 96,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 34,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 39,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 85,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 41,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 98,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 97,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 53,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "SH_UHC_SCI_CAPACITY",
+    "name": "UHC service coverage sub-index on service capacity and access",
+    "year": 2023,
+    "value": 61,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI_CAPACITY.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 88.9708333333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 71.6383333333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 63.01375,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 92.35875,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 61.74875,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 67.6766666666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 88.3695833333334,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 90.0554166666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 65.7383333333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 82.3445833333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 90.9929166666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 73.355,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 91.5675,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 60.84125,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 64.52125,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 60.3679166666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 91.73875,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 68.06125,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 43.6275,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 83.835,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 72.6016666666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 62.8295833333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 81.4141666666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 51.0316666666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 74.575,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 92.66125,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 68.2204166666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 60.5166666666667,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 63.2033333333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 68.6995833333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 88.3775,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 90.05875,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 53.4470833333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "IQ.SPI.OVRL",
+    "name": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "year": 2024,
+    "value": 67.2383333333333,
+    "unit": "",
+    "source_file": "raw/wb_IQ.SPI.OVRL.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 12.2807327333667,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 66.7604152956025,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 58.89438060599,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 17.1242979746114,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 75.8903047911054,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 40.4555448163631,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 21.1550349436416,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 17.86177794638,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 41.0753138526875,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 40.6070936030016,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 7.6998550579214,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 67.7878807128255,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 18.8259736693326,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 59.6870164959299,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 69.4163084523233,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 33.000575115141,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 16.0021484225269,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 60.4743989020394,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 84.2202551319724,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 44.2267092394668,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 69.0866159071838,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 82.4936125876578,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 44.2327505544754,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 68.6906809674582,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 79.5498644832063,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 10.9221322210445,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 63.1166884063357,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 71.2135681039065,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 78.8438593782552,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 68.0600442463383,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 16.676391921729,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 19.8078266972131,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 77.6780111163278,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "year": 2025,
+    "value": 61.1700839648706,
+    "unit": "",
+    "source_file": "raw/wb_SP.RUR.TOTL.ZS.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 4.086,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 0.722,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2019,
+    "value": 0.211,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 2.819,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 0.143,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2015,
+    "value": 0.813,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 3.281,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 4.534,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 0.266,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 0.524,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 2.649,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 0.289,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 2.61,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 0.331,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2019,
+    "value": 0.757,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 1.011,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 3.611,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2021,
+    "value": 1.16,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 0.061,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2021,
+    "value": 0.792,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 0.09,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2021,
+    "value": 0.561,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 0.109,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 0.238,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 1.136,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2021,
+    "value": 4.408,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 0.134,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2020,
+    "value": 0.752,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2021,
+    "value": 1.014,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 0.191,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2023,
+    "value": 3.301,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2022,
+    "value": 3.681,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2019,
+    "value": 0.164,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "SH.MED.PHYS.ZS",
+    "name": "Physicians (per 1,000 people)",
+    "year": 2021,
+    "value": 1.107,
+    "unit": "",
+    "source_file": "raw/wb_SH.MED.PHYS.ZS.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 27614411,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 175686899,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 17847982,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 41651653,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 135472051,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 933154,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 68720337,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 83491249,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 35064272,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 285721236,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 123366734,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 57532493,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 51684564,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 7873046,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 54850648,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 29618118,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 5324700,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 255219554,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 10762817,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 116786962,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 14569341,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 219306,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 18931966,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 838645,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 21756000,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 10596620,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 70545865,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 1418517,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 103742,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 51384894,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 69487000,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 341784857,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 335169,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "SP.POP.TOTL",
+    "name": "Population, total",
+    "year": 2025,
+    "value": 101598527,
+    "unit": "",
+    "source_file": "raw/wb_SP.POP.TOTL.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 64120,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 2840,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 2750,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 56420,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1110,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 6230,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 48630,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 60200,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 2630,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 5120,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 38340,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 2200,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 37880,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 2150,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1320,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1570,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 46630,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1500,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 2890,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 4850,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1150,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 5640,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1780,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 2020,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 4670,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 63010,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1270,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1510,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 6840,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 1120,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 54550,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 88810,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 4410,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "year": 2025,
+    "value": 4970,
+    "unit": "",
+    "source_file": "raw/wb_NY.GNP.PCAP.CD.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 3.6,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 30.5,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 18.4,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 5.4,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 44.5,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 29.1,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 4.3,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 3.7,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 35.9,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 17.7,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 2.4,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 38.8,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 2.8,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 29.4,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 36.9,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 25.1,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 4.7,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 56,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 39.4,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 26.5,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 37.7,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 14.9,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 36.5,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 20,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 5.9,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 2.4,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 37,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 47.6,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 9.5,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 48.7,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 4.7,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 6.5,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 17.1,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "year": 2024,
+    "value": 17.3,
+    "unit": "",
+    "source_file": "raw/wb_SH.DYN.MORT.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 89,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 54,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 62,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 92,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 33,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 69,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 82,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 87,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 56,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 67,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 86,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 57,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 88,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 64,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 52,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 58,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 89,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 56,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 32,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 69,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 59,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 62,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 48,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 47,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 72,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 85,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 49,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 48,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 71,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 54,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 88,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 88,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 52,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "SH_UHC_SCI",
+    "name": "UHC service coverage index",
+    "year": 2023,
+    "value": 71,
+    "unit": "",
+    "source_file": "raw/wb_SH_UHC_SCI.json"
+  },
+  {
+    "iso3": "AUS",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 15.84897614,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "BGD",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 79.30711365,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "KHM",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 60.60118866,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "CAN",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2024,
+    "value": 15.27733707,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "ETH",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 46.26859283,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "FJI",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 8.31420898,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "FRA",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2024,
+    "value": 9.22742558,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "DEU",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2024,
+    "value": 10.7067318,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "GHA",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 26.67723274,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "IDN",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 31.0836544,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "JPN",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 12.23568153,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "KEN",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 24.24565315,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "KOR",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2024,
+    "value": 33.73815536,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "LAO",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 44.84078598,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "MMR",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 71.12589264,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "NPL",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 59.38827515,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "NZL",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2024,
+    "value": 12.68764019,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "PAK",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 52.93231964,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "PNG",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 8.55412769,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "PHL",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 44.36006165,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "RWA",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 4.0999999,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "WSM",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 13.41968632,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "SEN",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 44.32556534,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "SLB",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 3.16049337,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "LKA",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 54.81069946,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "SWE",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2024,
+    "value": 13.3813858,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "TZA",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 27.93128014,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "TLS",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 6.99333382,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "TON",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 5.86377478,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "UGA",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 32.17179489,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "GBR",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2024,
+    "value": 14.55540943,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "USA",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 10.92723846,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "VUT",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 8.38081264,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  },
+  {
+    "iso3": "VNM",
+    "indicator": "SH.XPD.OOPC.CH.ZS",
+    "name": "Out-of-pocket expenditure (% of current health expenditure)",
+    "year": 2023,
+    "value": 39.20284653,
+    "unit": "",
+    "source_file": "raw/wb_SH.XPD.OOPC.CH.ZS.json"
+  }
+]

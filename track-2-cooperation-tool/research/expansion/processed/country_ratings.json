@@ -1,0 +1,845 @@
+[
+  {
+    "country": "Bangladesh [BD]",
+    "iso3": "BGD",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2023-07 to 2024-06",
+    "dimensions": {
+      "strategy": 92.27272272109985,
+      "inclusion": 63.88888955116272,
+      "mutual_accountability": 20.0,
+      "information_system": 85.41666567325592
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.9227272272109985,
+      "D1_1_comp": 0.6111111044883728,
+      "D4_1_comp": 0.6666666865348816,
+      "D2_6_1": 1,
+      "D2_7_1": 0.9583333134651184,
+      "D3_1_1": 0.75
+    },
+    "score": 65.39456948637962,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      59.341960221529014,
+      71.44717875123024
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2023-07 to 2024-06"
+    ]
+  },
+  {
+    "country": "Cambodia [KH]",
+    "iso3": "KHM",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2023-01 to 2023-12",
+    "dimensions": {
+      "strategy": 81.36363625526428,
+      "inclusion": 38.88888955116272,
+      "mutual_accountability": 20.0,
+      "information_system": 67.36110746860504
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.8136363625526428,
+      "D1_1_comp": 0.3333333432674408,
+      "D4_1_comp": 0.4444444477558136,
+      "D2_6_1": 1,
+      "D2_7_1": 0.8472221493721008,
+      "D3_1_1": 0.5
+    },
+    "score": 51.90340831875801,
+    "experimental_grade": "B-",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      47.649620542923614,
+      56.157196094592415
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2023-01 to 2023-12"
+    ]
+  },
+  {
+    "country": "Ethiopia [ET]",
+    "iso3": "ETH",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2022-07 to 2023-06",
+    "dimensions": {
+      "strategy": 100,
+      "inclusion": 61.11111342906952,
+      "mutual_accountability": 0.0,
+      "information_system": 79.51389253139496
+    },
+    "raw_indicators": {
+      "D2_1_1": 1,
+      "D1_1_comp": 0.5555555820465088,
+      "D4_1_comp": 0.6666666865348816,
+      "D2_6_1": 0,
+      "D2_7_1": 0.8402778506278992,
+      "D3_1_1": 0.75
+    },
+    "score": 60.15625149011612,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      52.13541795810064,
+      68.1770850221316
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-07 to 2023-06"
+    ]
+  },
+  {
+    "country": "Ghana [GH]",
+    "iso3": "GHA",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2023-01 to 2023-12",
+    "dimensions": {
+      "strategy": 92.27272272109985,
+      "inclusion": 50.0,
+      "mutual_accountability": 0.0,
+      "information_system": 67.70833432674408
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.9227272272109985,
+      "D1_1_comp": 0.4444444179534912,
+      "D4_1_comp": 0.5555555820465088,
+      "D2_6_1": 0,
+      "D2_7_1": 0.8541666865348816,
+      "D3_1_1": 0.5
+    },
+    "score": 52.49526426196098,
+    "experimental_grade": "B-",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      45.495895693699524,
+      59.49463283022244
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2023-01 to 2023-12"
+    ]
+  },
+  {
+    "country": "Indonesia [ID]",
+    "iso3": "IDN",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2022-01 to 2022-12",
+    "dimensions": {
+      "strategy": 88.63636255264282,
+      "inclusion": 66.66666865348816,
+      "mutual_accountability": 20.0,
+      "information_system": 37.5
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.8863636255264282,
+      "D1_1_comp": 0.6666666865348816,
+      "D4_1_comp": 0.6666666865348816,
+      "D2_6_1": 1,
+      "D2_7_1": 0,
+      "D3_1_1": 0.75
+    },
+    "score": 53.200757801532745,
+    "experimental_grade": "B-",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      48.476010501384735,
+      57.925505101680756
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-01 to 2022-12"
+    ]
+  },
+  {
+    "country": "Kenya [KE]",
+    "iso3": "KEN",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2023-07 to 2024-06",
+    "dimensions": {
+      "strategy": 89.99999761581421,
+      "inclusion": 77.77777910232544,
+      "mutual_accountability": 80.0,
+      "information_system": 74.30555820465088
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.8999999761581421,
+      "D1_1_comp": 0.8888888955116272,
+      "D4_1_comp": 0.6666666865348816,
+      "D2_6_1": 4,
+      "D2_7_1": 0.7361111640930176,
+      "D3_1_1": 0.75
+    },
+    "score": 80.52083373069763,
+    "experimental_grade": "A-",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      79.25694521268208,
+      81.78472224871317
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2023-07 to 2024-06"
+    ]
+  },
+  {
+    "country": "Lao People's Democratic Republic (the) [LA]",
+    "iso3": "LAO",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2022-01 to 2022-12",
+    "dimensions": {
+      "strategy": 77.04545855522156,
+      "inclusion": 16.66666716337204,
+      "mutual_accountability": 20.0,
+      "information_system": 64.93055820465088
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.7704545855522156,
+      "D1_1_comp": 0.3333333432674408,
+      "D4_1_comp": 0,
+      "D2_6_1": 1,
+      "D2_7_1": 0.7986111640930176,
+      "D3_1_1": 0.5
+    },
+    "score": 44.66067098081112,
+    "experimental_grade": "C+",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      40.34269930422306,
+      48.97864265739918
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-01 to 2022-12"
+    ]
+  },
+  {
+    "country": "Nepal [NP]",
+    "iso3": "NPL",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2021-07 to 2022-06",
+    "dimensions": {
+      "strategy": 93.18181872367859,
+      "inclusion": 63.88888955116272,
+      "mutual_accountability": 20.0,
+      "information_system": 77.7777761220932
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.9318181872367859,
+      "D1_1_comp": 0.6111111044883728,
+      "D4_1_comp": 0.6666666865348816,
+      "D2_6_1": 1,
+      "D2_7_1": 0.805555522441864,
+      "D3_1_1": 0.75
+    },
+    "score": 63.71212109923363,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      57.88383828600248,
+      69.54040391246478
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2021-07 to 2022-06"
+    ]
+  },
+  {
+    "country": "Pakistan [PK]",
+    "iso3": "PAK",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2023-01 to 2023-12",
+    "dimensions": {
+      "strategy": 47.72727191448212,
+      "inclusion": 41.66666641831398,
+      "mutual_accountability": 0.0,
+      "information_system": 12.5
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.47727271914482117,
+      "D1_1_comp": 0.6111111044883728,
+      "D4_1_comp": 0.2222222238779068,
+      "D2_6_1": 0,
+      "D2_7_1": 0,
+      "D3_1_1": 0.25
+    },
+    "score": 25.473484583199024,
+    "experimental_grade": "C-",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      22.07701997210582,
+      28.86994919429223
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2023-01 to 2023-12"
+    ]
+  },
+  {
+    "country": "Philippines (the) [PH]",
+    "iso3": "PHL",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2023-01 to 2023-12",
+    "dimensions": {
+      "strategy": 100,
+      "inclusion": 97.22222089767456,
+      "mutual_accountability": 100.0,
+      "information_system": 98.61110746860504
+    },
+    "raw_indicators": {
+      "D2_1_1": 1,
+      "D1_1_comp": 0.9444444179534912,
+      "D4_1_comp": 1,
+      "D2_6_1": 5,
+      "D2_7_1": 0.9722221493721008,
+      "D3_1_1": 1
+    },
+    "score": 98.9583320915699,
+    "experimental_grade": "A+",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      98.72685059905052,
+      99.18981358408928
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2023-01 to 2023-12"
+    ]
+  },
+  {
+    "country": "Solomon Islands [SB]",
+    "iso3": "SLB",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2024-01 to 2024-12",
+    "dimensions": {
+      "strategy": 53.409093618392944,
+      "inclusion": 55.55555671453476,
+      "mutual_accountability": 20.0,
+      "information_system": 12.5
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.5340909361839294,
+      "D1_1_comp": 0.4444444477558136,
+      "D4_1_comp": 0.6666666865348816,
+      "D2_6_1": 1,
+      "D2_7_1": 0,
+      "D3_1_1": 0.25
+    },
+    "score": 35.366162583231926,
+    "experimental_grade": "C0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      32.317340905467674,
+      38.41498426099618
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2024-01 to 2024-12"
+    ]
+  },
+  {
+    "country": "Tonga [TO]",
+    "iso3": "TON",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2022-07 to 2023-06",
+    "dimensions": {
+      "strategy": 78.63636016845703,
+      "inclusion": 61.11111044883728,
+      "mutual_accountability": 20.0,
+      "information_system": 77.43055820465088
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.7863636016845703,
+      "D1_1_comp": 0.555555522441864,
+      "D4_1_comp": 0.6666666865348816,
+      "D2_6_1": 1,
+      "D2_7_1": 0.7986111640930176,
+      "D3_1_1": 0.75
+    },
+    "score": 59.2945072054863,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      54.05523957808812,
+      64.53377483288448
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-07 to 2023-06"
+    ]
+  },
+  {
+    "country": "Uganda [UG]",
+    "iso3": "UGA",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2022-07 to 2023-06",
+    "dimensions": {
+      "strategy": 94.54545378684998,
+      "inclusion": 66.66666865348816,
+      "mutual_accountability": 20.0,
+      "information_system": 76.38889253139496
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.9454545378684998,
+      "D1_1_comp": 0.6666666865348816,
+      "D4_1_comp": 0.6666666865348816,
+      "D2_6_1": 1,
+      "D2_7_1": 0.7777778506278992,
+      "D3_1_1": 0.75
+    },
+    "score": 64.40025374293327,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      58.480219910542175,
+      70.32028757532437
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-07 to 2023-06"
+    ]
+  },
+  {
+    "country": "Viet Nam [VN]",
+    "iso3": "VNM",
+    "role": "recipient",
+    "round_year": 2026,
+    "observed_year": "2023-01 to 2023-12",
+    "dimensions": {
+      "strategy": 76.36363506317139,
+      "inclusion": 5.55555559694767,
+      "mutual_accountability": 20.0,
+      "information_system": 58.33333432674408
+    },
+    "raw_indicators": {
+      "D2_1_1": 0.7636363506317139,
+      "D1_1_comp": 0.1111111119389534,
+      "D4_1_comp": 0,
+      "D2_6_1": 1,
+      "D2_7_1": 0.6666666865348816,
+      "D3_1_1": 0.5
+    },
+    "score": 40.063131246715784,
+    "experimental_grade": "C0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      35.22306407118837,
+      44.9031984222432
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2023-01 to 2023-12"
+    ]
+  },
+  {
+    "country": "Australia",
+    "iso3": "AUS",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 40.61545953154564,
+      "predictability": 74.0273067727685,
+      "inclusion": 77.7777761220932,
+      "accountability": 91.66666567325592
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.5806254148483276,
+      "D2_3_3": 0.23168377578258514,
+      "D2_4_1_1": 0.98054613545537,
+      "D2_4_1_2": 0.5,
+      "D1_1_4": 0.7777777910232544,
+      "D4_1_4": 0.7777777314186096,
+      "D2_7_2": 1,
+      "D3_2_2": 0.8333333134651184
+    },
+    "score": 71.02180202491581,
+    "experimental_grade": "B+",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      66.9676230257998,
+      75.07598102403183
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2024-01 to 2024-12"
+    ]
+  },
+  {
+    "country": "Canada",
+    "iso3": "CAN",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 27.54703424870968,
+      "predictability": 67.2733741812408,
+      "inclusion": 76.1904776096344,
+      "accountability": 46.03174701333046
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.4341192841529846,
+      "D2_3_3": 0.11682140082120895,
+      "D2_4_1_1": 0.9835627134889364,
+      "D2_4_1_2": 0.3619047701358795,
+      "D1_1_4": 0.7142857313156128,
+      "D4_1_4": 0.8095238208770752,
+      "D2_7_2": 0.7777777910232544,
+      "D3_2_2": 0.1428571492433548
+    },
+    "score": 54.260658263228834,
+    "experimental_grade": "B-",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      50.69884172795962,
+      57.82247479849805
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12",
+      "to"
+    ]
+  },
+  {
+    "country": "France",
+    "iso3": "FRA",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 58.019497990608215,
+      "predictability": 74.732377496548,
+      "inclusion": 52.60416865348816,
+      "accountability": 68.75
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.7846498489379883,
+      "D2_3_3": 0.375740110874176,
+      "D2_4_1_1": 0.9020549529232085,
+      "D2_4_1_2": 0.5925925970077515,
+      "D1_1_4": 0.6770833730697632,
+      "D4_1_4": 0.375,
+      "D2_7_2": 1,
+      "D3_2_2": 0.375
+    },
+    "score": 63.52651103516109,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      62.03239550697617,
+      65.02062656334601
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2024-01 to 2024-12",
+      "to"
+    ]
+  },
+  {
+    "country": "Germany",
+    "iso3": "DEU",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 57.89024233818054,
+      "predictability": 66.84918229657342,
+      "inclusion": 23.284313455224037,
+      "accountability": 49.63149167597294
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.5996208786964417,
+      "D2_3_3": 0.5581839680671692,
+      "D2_4_1_1": 0.873215521351085,
+      "D2_4_1_2": 0.4637681245803833,
+      "D1_1_4": 0.36764705181121826,
+      "D4_1_4": 0.09803921729326248,
+      "D2_7_2": 0.8749827742576599,
+      "D3_2_2": 0.11764705926179886
+    },
+    "score": 49.413807441487734,
+    "experimental_grade": "C+",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      45.92987490998591,
+      52.897739972989555
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-04 to 2024-03",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "to"
+    ]
+  },
+  {
+    "country": "Japan",
+    "iso3": "JPN",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 58.7842658162117,
+      "predictability": 77.50736193186185,
+      "inclusion": 25.35714227706194,
+      "accountability": 94.51940059661865
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.6823803186416626,
+      "D2_3_3": 0.4933049976825714,
+      "D2_4_1_1": 0.9980639251721186,
+      "D2_4_1_2": 0.5520833134651184,
+      "D1_1_4": 0.4690476059913635,
+      "D4_1_4": 0.03809523954987526,
+      "D2_7_2": 0.9475308656692505,
+      "D3_2_2": 0.9428571462631226
+    },
+    "score": 64.04204265543854,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      58.88405593832166,
+      69.20002937255542
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-04 to 2024-03",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12",
+      "to"
+    ]
+  },
+  {
+    "country": "Korea",
+    "iso3": "KOR",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 40.737348794937134,
+      "predictability": 50.413193326676264,
+      "inclusion": 34.82142873108387,
+      "accountability": 84.43223536014557
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.5601796507835388,
+      "D2_3_3": 0.25456732511520386,
+      "D2_4_1_1": 0.6492894991533831,
+      "D2_4_1_2": 0.3589743673801422,
+      "D1_1_4": 0.5773809552192688,
+      "D4_1_4": 0.1190476194024086,
+      "D2_7_2": 0.9743589758872986,
+      "D3_2_2": 0.7142857313156128
+    },
+    "score": 52.60105155321071,
+    "experimental_grade": "B-",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      48.35689371228606,
+      56.84520939413535
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "iso3": "NZL",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 78.54523658752441,
+      "predictability": 88.87404426932335,
+      "inclusion": 27.7777761220932,
+      "accountability": 91.66666567325592
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.689558744430542,
+      "D2_3_3": 0.8813459873199463,
+      "D2_4_1_1": 0.9441475719213486,
+      "D2_4_1_2": 0.8333333134651184,
+      "D1_1_4": 0.555555522441864,
+      "D4_1_4": 0,
+      "D2_7_2": 0.8333333134651184,
+      "D3_2_2": 1
+    },
+    "score": 71.71593066304922,
+    "experimental_grade": "B+",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      65.85751005758843,
+      77.57435126851001
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2024-01 to 2024-12",
+      "to"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "iso3": "SWE",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 48.10099899768829,
+      "predictability": 58.178891986608505,
+      "inclusion": 64.84375,
+      "accountability": 92.1527773141861
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.5462646484375,
+      "D2_3_3": 0.41575533151626587,
+      "D2_4_1_1": 0.5921492427587509,
+      "D2_4_1_2": 0.5714285969734192,
+      "D1_1_4": 0.546875,
+      "D4_1_4": 0.75,
+      "D2_7_2": 0.9055555462837219,
+      "D3_2_2": 0.9375
+    },
+    "score": 65.81910457462072,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      62.30794820934534,
+      69.3302609398961
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-07 to 2024-06",
+      "2024-01 to 2024-12"
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "iso3": "GBR",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 40.18620103597641,
+      "predictability": 70.09193292469718,
+      "inclusion": 44.16666924953461,
+      "accountability": 56.4583346247673
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.6204988956451416,
+      "D2_3_3": 0.1832251250743866,
+      "D2_4_1_1": 0.9732672256650403,
+      "D2_4_1_2": 0.4285714328289032,
+      "D1_1_4": 0.4166666865348816,
+      "D4_1_4": 0.46666669845581055,
+      "D2_7_2": 0.862500011920929,
+      "D3_2_2": 0.2666666805744171
+    },
+    "score": 52.725784458743874,
+    "experimental_grade": "B-",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      50.41029799661676,
+      55.041270920870986
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12"
+    ]
+  },
+  {
+    "country": "United States",
+    "iso3": "USA",
+    "role": "donor",
+    "round_year": 2026,
+    "observed_year": "multiple reporting periods",
+    "dimensions": {
+      "ownership": 34.43196788430214,
+      "predictability": 72.3755999468267,
+      "inclusion": 67.06349551677704,
+      "accountability": 75.29762089252472
+    },
+    "raw_indicators": {
+      "D2_2_1": 0.5688076019287109,
+      "D2_3_3": 0.11983175575733185,
+      "D2_4_1_1": 0.8734379094094038,
+      "D2_4_1_2": 0.5740740895271301,
+      "D1_1_4": 0.6904761791229248,
+      "D4_1_4": 0.650793731212616,
+      "D2_7_2": 0.8392857313156128,
+      "D3_2_2": 0.6666666865348816
+    },
+    "score": 62.29217106010765,
+    "experimental_grade": "B0",
+    "publication_status": "prototype_not_validated",
+    "weight_sensitivity_range": [
+      58.57747730333358,
+      66.00686481688172
+    ],
+    "source": "gpedc_global_2026.xlsx",
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-04 to 2024-03",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12",
+      "to"
+    ]
+  }
+]

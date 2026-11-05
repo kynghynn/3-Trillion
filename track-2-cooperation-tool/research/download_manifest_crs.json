@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://webfs-dcd.oecd.org/files/dotStat/DSD_CRS/CRS-reduced.parquet",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.oda.go.kr/opo/nnstat/filedownload.do",
+    "file": "raw/koica_iati_2025.xml",
+    "bytes": 36701292,
+    "status": "downloaded",
+    "sha256": "06978654ee499033d367cd55c2021603b597a2d2475309c3fd8b35dccdea3969"
+  }
+]

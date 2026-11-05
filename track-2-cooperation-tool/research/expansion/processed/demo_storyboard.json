@@ -1,0 +1,37 @@
+{
+  "status": "research-backed editorial route, not validated ranking",
+  "primary": [
+    "AUS",
+    "SLB",
+    "PNG",
+    "Track1 Manus medicine supply chain"
+  ],
+  "alternative": [
+    "NZL",
+    "SLB or VUT",
+    "PNG",
+    "Track1 Manus medicine supply chain"
+  ],
+  "donor_change_supported": true,
+  "intermediate_recipient_not_required": true,
+  "selection_reason": "relevant Pacific health-service delivery experience and accessible evidence",
+  "recommendation_type": "editorial_shared_problem_candidate",
+  "predicted_chemistry": null,
+  "nearest_neighbor_rank": null,
+  "png_fixed_in_algorithm": false,
+  "steps": [
+    "Select Australia and health",
+    "Inspect Solomon Islands HSSP3 evidence and distinguish successor program",
+    "Review relevant implementation lessons and shortcomings",
+    "Open PNG as a candidate sharing the policy problem, not claimed highest similarity",
+    "Review PATH/AIHSS evidence and country plan, then identify Manus-specific information gaps",
+    "Move to Track1 proposed project design and its own validation plan"
+  ],
+  "demo_activity_ids": [
+    "AU-5-INL121",
+    "AU-5-INN147",
+    "NZ-1-ACT-0100478",
+    "NZ-1-ACT-0101394",
+    "NZ-1-ACT-0102626"
+  ]
+}

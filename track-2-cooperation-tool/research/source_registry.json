@@ -1,0 +1,430 @@
+[
+  {
+    "id": "GPEDC-2026",
+    "title": "OECD/UNDP GPEDC Global Database",
+    "url": "https://www.effectivecooperation.org/resources/progressreport2026",
+    "decision": "core",
+    "local_file": "raw/gpedc_global_2026.xlsx",
+    "use": "국가·공여자·쌍별 협력관행 및 조사사업",
+    "limitation": "발간라운드 2026과 실제 ReportingYear 구분; 표본선정·자기보고; 일부 원지수 결측을 0 처리",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "GPEDC-HIST",
+    "title": "GPEDC 2014/2016/2018",
+    "url": "https://www.effectivecooperation.org/content/gpedc-monitoring-excel-database",
+    "decision": "historical",
+    "local_file": "raw/gpedc_historical.xlsx",
+    "use": "과거 협력관행",
+    "limitation": "현재와 문항·모집단 차이; 현재 점수 대체 금지",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "QUODA",
+    "title": "CGD QuODA 2021",
+    "url": "https://www.cgdev.org/topics/quoda",
+    "decision": "method_and_historical",
+    "local_file": "raw/quoda_2021.xlsx",
+    "use": "공여자 메타지표 설계·과거 비교",
+    "limitation": "2021판을 현재 평가로 사용 금지; GPEDC·ATI와 중복",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "ATI",
+    "title": "Publish What You Fund ATI 2024",
+    "url": "https://www.publishwhatyoufund.org/the-index/2024/",
+    "decision": "downloaded_agency_auxiliary",
+    "local_file": "expansion/raw/ati_2024.xlsx",
+    "use": "공여기관 공개 역량",
+    "limitation": "51 agency observations, edition 2024; not country effectiveness; 2026 methodology not applied retrospectively",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "CDI",
+    "title": "CGD CDI 2025",
+    "url": "https://www.cgdev.org/cdi-methodology",
+    "decision": "method_only",
+    "local_file": "raw/cdi_method.pdf",
+    "use": "개발금융 구성항목 검토",
+    "limitation": "총점은 무역·이민 등 포함하여 범위 과대",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "WGI",
+    "title": "World Bank WGI 2026 revision",
+    "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+    "decision": "context",
+    "local_file": "raw/wgi_2026.xlsx",
+    "use": "행정·책무성·운영위험 배경",
+    "limitation": "인지기반 추정; 90% 구간; 다른 지수와 원천중복; 기존 EST 코드는 조회오류",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "SPI",
+    "title": "World Bank SPI",
+    "url": "https://www.worldbank.org/en/programs/statistical-performance-indicators",
+    "decision": "context",
+    "local_file": "raw/wb_IQ.SPI.OVRL.json",
+    "use": "국가 통계체계 역량",
+    "limitation": "사업 모니터링 성과와 다름",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "CPIA",
+    "title": "World Bank CPIA",
+    "url": "https://data.worldbank.org/indicator/IQ.CPA.PUBS.XQ",
+    "decision": "diagnostic",
+    "local_file": "raw/wb_IQ.CPA.PUBS.XQ.json",
+    "use": "공공행정 역량 참고",
+    "limitation": "공개 국가군 제한; 누락국 0점 금지",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "OBS",
+    "title": "IBP Open Budget Survey 2025",
+    "url": "https://internationalbudget.org/open-budget-survey/download",
+    "decision": "external_validation",
+    "local_file": "raw/obs_2025.xlsx",
+    "use": "예산참여·감시·공개",
+    "limitation": "주민의 개별사업 참여를 직접 측정하지 않음",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "PEFA",
+    "title": "PEFA public finance assessments",
+    "url": "https://www.pefa.org/node/5592",
+    "decision": "diagnostic_access_limited",
+    "local_file": null,
+    "use": "재정관리 체계의 심층 점검",
+    "limitation": "평가연도/프레임워크/국가·지방 차이; 접근 403; D* 결측이 낮은 점수로 처리되는 원칙 주의",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "CPI",
+    "title": "Transparency International CPI 2025",
+    "url": "https://www.transparency.org/en/cpi/2025",
+    "decision": "exclude_from_core",
+    "local_file": null,
+    "use": "부패 인식 참고",
+    "limitation": "WGI CC와 중복; 국가 파트너십 자체가 아님",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "VDEM",
+    "title": "V-Dem civil society participation",
+    "url": "https://www.v-dem.net/data/",
+    "decision": "optional_validation",
+    "local_file": null,
+    "use": "시민사회 환경 점검",
+    "limitation": "정부 파트너십 참여의 직접 증거 아님; WGI 원천중복",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "LTL",
+    "title": "AidData Listening to Leaders 2025",
+    "url": "https://www.aiddata.org/publications/listening-to-leaders-2025-development-cooperation-over-a-decade-of-disruption",
+    "decision": "external_validation",
+    "local_file": "raw/aiddata_ltl_2025.pdf",
+    "use": "협력국 리더의 유용성 인식",
+    "limitation": "엘리트 조사; 영향력은 효과성 아님; 모든 쌍 미시자료 공개 확인 안 됨",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "CRS",
+    "title": "OECD Creditor Reporting System",
+    "url": "https://data-explorer.oecd.org/vis?df[ag]=OECD.DCD.FSD&df[id]=DSD_CRS@DF_CRS",
+    "decision": "core_flows_pending",
+    "local_file": "raw/oecd_crs_flow.xml",
+    "use": "비교가능한 공여자-수원자-분야-연도 금액",
+    "limitation": "메타데이터만 저장; bulk 403; 아직 전체 흐름자료 없음",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "IATI",
+    "title": "IATI Datastore",
+    "url": "https://docs.datastore.iatistandard.org/en/latest/api/",
+    "decision": "core_discovery",
+    "local_file": "raw/iati_api_docs.html",
+    "use": "사업·거래·문서·성과 연결",
+    "limitation": "공식 API 키 필요; 발행기관 직접 XML로 대체 가능; 부분포괄",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "KOICA-IATI",
+    "title": "KOICA IATI 2025 snapshot",
+    "url": "https://www.oda.go.kr/opo/nnstat/opoNstatInfoOthBcIatiList.do",
+    "decision": "core",
+    "local_file": "raw/koica_iati_2025.xml",
+    "use": "2600 사업·115 수원국 코드 연결",
+    "limitation": "2025-11-18 생성; 공개 목록 2026-03-06; period/actual 없음; 일반 포털 링크를 보고서 직접링크로 오인 금지",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "KOICA-EVAL",
+    "title": "KOICA Q-health evaluation 2024",
+    "url": "https://www.koica.go.kr/sites/evaluation_kr/article/view/1265",
+    "decision": "core_case",
+    "local_file": "raw/koica_qhealth.pdf",
+    "use": "베트남 보건사업 실제 평가·이행교훈",
+    "limitation": "300쪽; 지속가능성 준비도; C는 보고서 품질등급; 표지 금액 오기 의심",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "JICA",
+    "title": "JICA evaluation search",
+    "url": "https://www2.jica.go.jp/en/evaluation/index.php?country1=Viet+Nam&search=Search",
+    "decision": "candidate",
+    "local_file": null,
+    "use": "일본-베트남 비교 평가",
+    "limitation": "후보 보고서 검색 확인; 원문 직접 저장 시간초과; 점수 미산출",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "DFAT",
+    "title": "DFAT PNG Medical Supply Reform 2013 evaluation",
+    "url": "https://www.dfat.gov.au/sites/default/files/png-burnet-institute-medical-supply-evaluation.pdf",
+    "decision": "historical_case",
+    "local_file": null,
+    "use": "호주-PNG 의약품 유통 경험",
+    "limitation": "웹 원문 확인; 로컬 다운로드 시간초과; 오래된 결과를 현재로 사용 금지",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "LOWY",
+    "title": "Lowy Pacific Aid Map",
+    "url": "https://pacificaidmap.lowyinstitute.org/methodology/",
+    "decision": "regional_crosscheck",
+    "local_file": "raw/lowy_data.html",
+    "use": "태평양 사업·공여기관 탐색",
+    "limitation": "ODF=ODA+OOF; CRS와 중복; 전체 구조화 자료 미추출",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "WBPROJECT",
+    "title": "World Bank Projects API",
+    "url": "https://search.worldbank.org/api/v2/projects?format=json&countrycode=PG&rows=500",
+    "decision": "multilateral_context",
+    "local_file": "raw/wb_projects_png.json",
+    "use": "PNG·베트남 다자기관 사업 탐색",
+    "limitation": "한국 양자사업으로 계산 금지; 완료와 성과등급 다름",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "WDI",
+    "title": "World Bank WDI API",
+    "url": "https://api.worldbank.org/v2/indicator?format=json&per_page=30000",
+    "decision": "context_similarity",
+    "local_file": "raw/wb_indicators.json",
+    "use": "UHC·농촌·소득·아동사망·의료비 맥락",
+    "limitation": "국가 집계값을 마누스 기초선으로 대입 금지; 코드 변경 대응",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "PNG-NHP",
+    "title": "PNG National Health Plan 2021–2030",
+    "url": "https://health.gov.pg/pdf/NHP_2A.pdf",
+    "decision": "policy_alignment",
+    "local_file": "raw/png_health_plan.pdf",
+    "use": "수원국 보건 우선순위",
+    "limitation": "국가 계획 존재가 개별 제안 승인이나 실행 약속은 아님",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "WHO-PNG",
+    "title": "WHO medical supply strategic plan consultation 2026",
+    "url": "https://www.who.int/papuanewguinea/news/detail/29-07-2026-strengthening-papua-new-guinea-s-medical-supply-system",
+    "decision": "policy_alignment",
+    "local_file": "raw/who_png_2026.html",
+    "use": "의약품 공급망 정책수요",
+    "limitation": "MSSP 2027–31 초안 협의 소식; 확정 시행계획으로 표기 금지",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "OECD-COMP",
+    "title": "OECD/JRC composite indicators handbook",
+    "url": "https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide_9789264043466-en.html",
+    "decision": "method",
+    "local_file": "raw/oecd_composite.pdf",
+    "use": "가중치·정규화·불확실성 검토",
+    "limitation": "동일가중도 가치판단",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "OECD-EVAL",
+    "title": "OECD Applying Evaluation Criteria Thoughtfully",
+    "url": "https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en.html",
+    "decision": "method",
+    "local_file": "raw/oecd_evaluation.pdf",
+    "use": "적절성·일관성·효과성·효율성·영향·지속가능성",
+    "limitation": "질문 틀이며 자동점수 산식 아님",
+    "reviewed_on": "2026-11-04",
+    "redistribution": "Verify source terms before republishing originals; link and attribute in website"
+  },
+  {
+    "id": "CODEFORIATI-REGISTRY",
+    "title": "Code for IATI registry metadata mirror",
+    "url": "https://registry.codeforiati.org/",
+    "local_file": "expansion/raw/registry_datasets.json",
+    "use": "discover official publisher XML URLs",
+    "limitation": "third-party metadata mirror; underlying activity data downloaded from listed publisher URLs; not a CRS copy",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  },
+  {
+    "id": "DFAT-PERFORMANCE",
+    "title": "AusDevPortal performance definitions",
+    "url": "https://adp.dfat.gov.au/faqs",
+    "use": "interpret annual investment performance ratings",
+    "limitation": "manager assessment, exemptions and reporting selection; not independent causal effect",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  },
+  {
+    "id": "IATI-AUSGOV",
+    "title": "ausgov IATI publisher XML sample",
+    "url": "https://registry.codeforiati.org/",
+    "local_files": [
+      "expansion/raw/ausgov-activity.xml"
+    ],
+    "use": "activities, transactions, documents and reported results",
+    "limitation": "selected files and agencies; partial national coverage; actual publisher URLs in expansion/jobs2_manifest.json",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  },
+  {
+    "id": "IATI-MFAT",
+    "title": "mfat IATI publisher XML sample",
+    "url": "https://registry.codeforiati.org/",
+    "local_files": [
+      "expansion/raw/mfat-iati-africa.xml",
+      "expansion/raw/mfat-iati-asean.xml",
+      "expansion/raw/mfat-iati-fiji.xml",
+      "expansion/raw/mfat-iati-papua-new-guinea.xml",
+      "expansion/raw/mfat-iati-samoa.xml",
+      "expansion/raw/mfat-iati-solomon-islands.xml",
+      "expansion/raw/mfat-iati-timor-leste.xml",
+      "expansion/raw/mfat-iati-tonga.xml",
+      "expansion/raw/mfat-iati-vanuatu.xml"
+    ],
+    "use": "activities, transactions, documents and reported results",
+    "limitation": "selected files and agencies; partial national coverage; actual publisher URLs in expansion/jobs2_manifest.json",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  },
+  {
+    "id": "IATI-JICA",
+    "title": "jica IATI publisher XML sample",
+    "url": "https://registry.codeforiati.org/",
+    "local_files": [
+      "expansion/raw/jica-activity-publisher.xml"
+    ],
+    "use": "activities, transactions, documents and reported results",
+    "limitation": "selected files and agencies; partial national coverage; actual publisher URLs in expansion/jobs2_manifest.json",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  },
+  {
+    "id": "IATI-FCDO",
+    "title": "fcdo IATI publisher XML sample",
+    "url": "https://registry.codeforiati.org/",
+    "local_files": [
+      "expansion/raw/fcdo-set-1.xml",
+      "expansion/raw/fcdo-set-2.xml",
+      "expansion/raw/fcdo-set-3.xml",
+      "expansion/raw/fcdo-set-4.xml",
+      "expansion/raw/fcdo-set-5.xml"
+    ],
+    "use": "activities, transactions, documents and reported results",
+    "limitation": "selected files and agencies; partial national coverage; actual publisher URLs in expansion/jobs2_manifest.json",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  },
+  {
+    "id": "IATI-GAC-AMC",
+    "title": "gac-amc IATI publisher XML sample",
+    "url": "https://registry.codeforiati.org/",
+    "local_files": [
+      "expansion/raw/gac-amc-4a.xml",
+      "expansion/raw/gac-amc-act_2.xml"
+    ],
+    "use": "activities, transactions, documents and reported results",
+    "limitation": "selected files and agencies; partial national coverage; actual publisher URLs in expansion/jobs2_manifest.json",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  },
+  {
+    "id": "IATI-AFD",
+    "title": "afd IATI publisher XML sample",
+    "url": "https://registry.codeforiati.org/",
+    "local_files": [
+      "expansion/raw/afd-bd.xml",
+      "expansion/raw/afd-et.xml",
+      "expansion/raw/afd-fj.xml",
+      "expansion/raw/afd-gh.xml",
+      "expansion/raw/afd-id.xml",
+      "expansion/raw/afd-ke.xml",
+      "expansion/raw/afd-kh.xml",
+      "expansion/raw/afd-la.xml",
+      "expansion/raw/afd-mm.xml",
+      "expansion/raw/afd-pg.xml",
+      "expansion/raw/afd-ph.xml",
+      "expansion/raw/afd-pk.xml",
+      "expansion/raw/afd-rw.xml",
+      "expansion/raw/afd-sn.xml",
+      "expansion/raw/afd-tz.xml",
+      "expansion/raw/afd-ug.xml",
+      "expansion/raw/afd-vn.xml",
+      "expansion/raw/afd-vu.xml"
+    ],
+    "use": "activities, transactions, documents and reported results",
+    "limitation": "selected files and agencies; partial national coverage; actual publisher URLs in expansion/jobs2_manifest.json",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  },
+  {
+    "id": "IATI-SIDA",
+    "title": "sida IATI publisher XML sample",
+    "url": "https://registry.codeforiati.org/",
+    "local_files": [
+      "expansion/raw/sida-100.xml"
+    ],
+    "use": "activities, transactions, documents and reported results",
+    "limitation": "selected files and agencies; partial national coverage; actual publisher URLs in expansion/jobs2_manifest.json",
+    "reviewed_on": "2026-11-04",
+    "decision": "core_expansion",
+    "redistribution": "Check publisher terms before publishing original files"
+  }
+]

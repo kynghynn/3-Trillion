@@ -1,0 +1,106 @@
+[
+  {
+    "url": "https://www.effectivecooperation.org/sites/default/files/2026-09/GPEDC_Global_Data_public_0.xlsx",
+    "file": "raw/gpedc_global_2026.xlsx",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 4039037,
+    "sha256": "44df761c6f1ef91e5237252a11596fb130242d4c99f315cc6a10d574b0d043eb"
+  },
+  {
+    "url": "https://www.effectivecooperation.org/sites/default/files/documents/GPEDC_Datasets_main-indicators-online.xlsx",
+    "file": "raw/gpedc_historical.xlsx",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 1685780,
+    "sha256": "b0785cae9722d738c7059c046a3b2d991894c7b5bda530bc0fc485e7355d8038"
+  },
+  {
+    "url": "https://www.worldbank.org/content/dam/sites/govindicators/doc/wgidataset_with_sourcedata-2026.xlsx",
+    "file": "raw/wgi_2026.xlsx",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 10958620,
+    "sha256": "67c38d2e9253fb1a72ee302c3b7c47b2ba7b177a04673163796ca1666f506ecb"
+  },
+  {
+    "url": "https://www.koica.go.kr/sites/evaluation_kr/article/view/1265",
+    "file": "raw/koica_qhealth.html",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 47872,
+    "sha256": "2c4e715d5efe9f02ef23a330967571505b8904302e5d47441f9bfc0571497c9c"
+  },
+  {
+    "url": "https://www.oda.go.kr/opo/nnstat/opoNstatInfoOthBcIatiList.do",
+    "file": "raw/korea_iati.html",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 55117,
+    "sha256": "b57fbad9387763b4db3c66878e2e5e5cd9ffd270e341a391728f81a07711a895"
+  },
+  {
+    "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.DCD.FSD/DSD_CRS@DF_CRS/1.5?references=all",
+    "file": "raw/oecd_crs_structure.xml",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "failed_or_interrupted"
+  },
+  {
+    "url": "https://pacificaidmap.lowyinstitute.org/methodology/",
+    "file": "raw/lowy_methodology.html",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 316144,
+    "sha256": "19640cba13fc735a36299e635f550a941d1043607793bc6b69cedae5ff72d8e9"
+  },
+  {
+    "url": "https://pacificaidmap.lowyinstitute.org/data/",
+    "file": "raw/lowy_data.html",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 406973,
+    "sha256": "ee1b5cc7c6e72d707a283f0abeeacd651615b2e9809926171dd32a5a99f1160d"
+  },
+  {
+    "url": "https://search.worldbank.org/api/v2/projects?format=json&countrycode=PG&rows=500",
+    "file": "raw/wb_projects_png.json",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 217227,
+    "sha256": "7251ec9bd33c64ee54619a107b62857a97a498d7671e79b418049e146dbc00cd"
+  },
+  {
+    "url": "https://search.worldbank.org/api/v2/projects?format=json&countrycode=VN&rows=500",
+    "file": "raw/wb_projects_vnm.json",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 776731,
+    "sha256": "3a620b79aedc5fa374955d0fec4ce12828ef5300999defa942bc46c6ddd90938"
+  },
+  {
+    "url": "https://www.pefa.org/assessments",
+    "file": "raw/pefa.html",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "failed_or_interrupted"
+  },
+  {
+    "url": "https://internationalbudget.org/open-budget-survey/download",
+    "file": "raw/obs_download.html",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "local_payload_available",
+    "bytes": 11974093,
+    "sha256": "05ef8ffa08b5bd508b774a3aa01992ccbc9d285ab0f4f39f101c9c0dedbebcd2"
+  },
+  {
+    "url": "https://www2.jica.go.jp/en/evaluation/pdf/2013_0601704_4_f.pdf",
+    "file": "raw/jica_vietnam.pdf",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "failed_or_interrupted"
+  },
+  {
+    "url": "https://www.dfat.gov.au/about-us/publications/Pages/medical-supply-reform-impact-evaluation-papua-new-guinea",
+    "file": "raw/dfat_png.html",
+    "manifest_note": "Recovered after stalled duplicate request; payload verified locally. Per-request completion time unavailable.",
+    "status": "failed_or_interrupted"
+  }
+]

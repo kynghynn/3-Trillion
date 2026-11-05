@@ -1,0 +1,18 @@
+[
+  "processed/countries.json.gz",
+  "processed/world_bank_latest.json.gz",
+  "processed/gpedc_core_results.json.gz",
+  "processed/gpedc_core_results_dp.json.gz",
+  "processed/gpedc_core_results_pc_dp.json.gz",
+  "processed/gpedc_pc_data.json.gz",
+  "processed/gpedc_dp_data.json.gz",
+  "processed/gpedc_interpretation_cells.json.gz",
+  "expansion/processed/australia_health_rating_observations.json.gz",
+  "expansion/processed/demo_project_evidence.json.gz",
+  "expansion/processed/ati_2024_agencies.json.gz",
+  "expansion/processed/result_observations.json.gz",
+  "expansion/processed/coverage_matrix.json.gz",
+  "expansion/processed/pair_process_observations.json.gz",
+  "expansion/processed/activity-index.json.gz",
+  "local-artifact-manifest.json.gz"
+]

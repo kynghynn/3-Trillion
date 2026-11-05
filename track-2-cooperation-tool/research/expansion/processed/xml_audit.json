@@ -1,0 +1,268 @@
+[
+  {
+    "file": "expansion/raw/afd-bd.xml",
+    "provider": "FRA",
+    "total_activities": 38,
+    "selected_occurrences": 38,
+    "generated_at": "2026-10-19T08:47:04"
+  },
+  {
+    "file": "expansion/raw/afd-et.xml",
+    "provider": "FRA",
+    "total_activities": 50,
+    "selected_occurrences": 50,
+    "generated_at": "2026-10-19T08:47:02"
+  },
+  {
+    "file": "expansion/raw/afd-fj.xml",
+    "provider": "FRA",
+    "total_activities": 2,
+    "selected_occurrences": 2,
+    "generated_at": "2026-10-19T08:46:55"
+  },
+  {
+    "file": "expansion/raw/afd-gh.xml",
+    "provider": "FRA",
+    "total_activities": 23,
+    "selected_occurrences": 23,
+    "generated_at": "2026-10-19T08:47:03"
+  },
+  {
+    "file": "expansion/raw/afd-id.xml",
+    "provider": "FRA",
+    "total_activities": 40,
+    "selected_occurrences": 40,
+    "generated_at": "2026-10-19T08:47:04"
+  },
+  {
+    "file": "expansion/raw/afd-ke.xml",
+    "provider": "FRA",
+    "total_activities": 25,
+    "selected_occurrences": 25,
+    "generated_at": "2026-10-19T08:50:34"
+  },
+  {
+    "file": "expansion/raw/afd-kh.xml",
+    "provider": "FRA",
+    "total_activities": 70,
+    "selected_occurrences": 70,
+    "generated_at": "2026-10-19T08:47:01"
+  },
+  {
+    "file": "expansion/raw/afd-la.xml",
+    "provider": "FRA",
+    "total_activities": 56,
+    "selected_occurrences": 56,
+    "generated_at": "2026-10-19T08:50:33"
+  },
+  {
+    "file": "expansion/raw/afd-mm.xml",
+    "provider": "FRA",
+    "total_activities": 12,
+    "selected_occurrences": 12,
+    "generated_at": "2026-10-19T08:50:31"
+  },
+  {
+    "file": "expansion/raw/afd-pg.xml",
+    "provider": "FRA",
+    "total_activities": 4,
+    "selected_occurrences": 4,
+    "generated_at": "2026-10-19T08:50:35"
+  },
+  {
+    "file": "expansion/raw/afd-ph.xml",
+    "provider": "FRA",
+    "total_activities": 32,
+    "selected_occurrences": 32,
+    "generated_at": "2026-10-19T08:50:28"
+  },
+  {
+    "file": "expansion/raw/afd-pk.xml",
+    "provider": "FRA",
+    "total_activities": 18,
+    "selected_occurrences": 18,
+    "generated_at": "2026-10-19T08:50:28"
+  },
+  {
+    "file": "expansion/raw/afd-rw.xml",
+    "provider": "FRA",
+    "total_activities": 40,
+    "selected_occurrences": 40,
+    "generated_at": "2026-10-19T08:50:28"
+  },
+  {
+    "file": "expansion/raw/afd-sn.xml",
+    "provider": "FRA",
+    "total_activities": 206,
+    "selected_occurrences": 206,
+    "generated_at": "2026-10-19T08:46:25"
+  },
+  {
+    "file": "expansion/raw/afd-tz.xml",
+    "provider": "FRA",
+    "total_activities": 41,
+    "selected_occurrences": 41,
+    "generated_at": "2026-10-19T08:46:08"
+  },
+  {
+    "file": "expansion/raw/afd-ug.xml",
+    "provider": "FRA",
+    "total_activities": 21,
+    "selected_occurrences": 21,
+    "generated_at": "2026-10-19T08:46:08"
+  },
+  {
+    "file": "expansion/raw/afd-vn.xml",
+    "provider": "FRA",
+    "total_activities": 70,
+    "selected_occurrences": 70,
+    "generated_at": "2026-10-19T08:46:22"
+  },
+  {
+    "file": "expansion/raw/afd-vu.xml",
+    "provider": "FRA",
+    "total_activities": 4,
+    "selected_occurrences": 4,
+    "generated_at": "2026-10-19T08:50:28"
+  },
+  {
+    "file": "expansion/raw/ausgov-activity.xml",
+    "provider": "AUS",
+    "total_activities": 1472,
+    "selected_occurrences": 872,
+    "generated_at": "2026-07-27T16:31:43.770000+00:00"
+  },
+  {
+    "file": "expansion/raw/fcdo-set-1.xml",
+    "provider": "GBR",
+    "total_activities": 715,
+    "selected_occurrences": 231,
+    "generated_at": "2026-10-27T18:22:05.727"
+  },
+  {
+    "file": "expansion/raw/fcdo-set-2.xml",
+    "provider": "GBR",
+    "total_activities": 775,
+    "selected_occurrences": 312,
+    "generated_at": "2026-10-27T18:22:05.727"
+  },
+  {
+    "file": "expansion/raw/fcdo-set-3.xml",
+    "provider": "GBR",
+    "total_activities": 759,
+    "selected_occurrences": 149,
+    "generated_at": "2026-10-27T18:22:05.727"
+  },
+  {
+    "file": "expansion/raw/fcdo-set-4.xml",
+    "provider": "GBR",
+    "total_activities": 741,
+    "selected_occurrences": 196,
+    "generated_at": "2026-10-27T18:22:05.727"
+  },
+  {
+    "file": "expansion/raw/fcdo-set-5.xml",
+    "provider": "GBR",
+    "total_activities": 830,
+    "selected_occurrences": 170,
+    "generated_at": "2026-10-27T18:22:05.727"
+  },
+  {
+    "file": "expansion/raw/gac-amc-4a.xml",
+    "provider": "CAN",
+    "total_activities": 1172,
+    "selected_occurrences": 311,
+    "generated_at": "2026-11-03T00:00:00-05:00"
+  },
+  {
+    "file": "expansion/raw/gac-amc-act_2.xml",
+    "provider": "CAN",
+    "total_activities": 1803,
+    "selected_occurrences": 500,
+    "generated_at": "2026-11-03T00:00:00-05:00"
+  },
+  {
+    "file": "expansion/raw/jica-activity-publisher.xml",
+    "provider": "JPN",
+    "total_activities": 517,
+    "selected_occurrences": 225,
+    "generated_at": "2026-10-27T12:55:07+00:00"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-africa.xml",
+    "provider": "NZL",
+    "total_activities": 148,
+    "selected_occurrences": 47,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-asean.xml",
+    "provider": "NZL",
+    "total_activities": 308,
+    "selected_occurrences": 296,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-fiji.xml",
+    "provider": "NZL",
+    "total_activities": 152,
+    "selected_occurrences": 152,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-papua-new-guinea.xml",
+    "provider": "NZL",
+    "total_activities": 143,
+    "selected_occurrences": 143,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-samoa.xml",
+    "provider": "NZL",
+    "total_activities": 96,
+    "selected_occurrences": 96,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-solomon-islands.xml",
+    "provider": "NZL",
+    "total_activities": 123,
+    "selected_occurrences": 123,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-timor-leste.xml",
+    "provider": "NZL",
+    "total_activities": 53,
+    "selected_occurrences": 53,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-tonga.xml",
+    "provider": "NZL",
+    "total_activities": 128,
+    "selected_occurrences": 128,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/mfat-iati-vanuatu.xml",
+    "provider": "NZL",
+    "total_activities": 130,
+    "selected_occurrences": 130,
+    "generated_at": "2026-10-02T13:20:29"
+  },
+  {
+    "file": "expansion/raw/sida-100.xml",
+    "provider": "SWE",
+    "total_activities": 853,
+    "selected_occurrences": 143,
+    "generated_at": "2026-11-04T06:29:17+02:00"
+  },
+  {
+    "file": "raw/koica_iati_2025.xml",
+    "provider": "KOR",
+    "total_activities": 2600,
+    "selected_occurrences": 1342,
+    "generated_at": "2025-11-18T10:56:09"
+  }
+]

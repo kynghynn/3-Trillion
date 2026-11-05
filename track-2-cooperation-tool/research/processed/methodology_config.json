@@ -1,0 +1,72 @@
+{
+  "version": "0.1-research-prototype",
+  "validation_status": "not_validated",
+  "models": {
+    "recipient": {
+      "strategy": [
+        "D2_1_1"
+      ],
+      "inclusion": [
+        "D1_1_comp",
+        "D4_1_comp"
+      ],
+      "mutual_accountability": [
+        "D2_6_1"
+      ],
+      "information_system": [
+        "D2_7_1",
+        "D3_1_1"
+      ]
+    },
+    "donor": {
+      "ownership": [
+        "D2_2_1",
+        "D2_3_3"
+      ],
+      "predictability": [
+        "D2_4_1_1",
+        "D2_4_1_2"
+      ],
+      "inclusion": [
+        "D1_1_4",
+        "D4_1_4"
+      ],
+      "accountability": [
+        "D2_7_2",
+        "D3_2_2"
+      ]
+    }
+  },
+  "pillar_weights": "equal 0.25",
+  "normalization": "GPEDC 0..1 times 100; D2_6_1 divide by 5 then times 100",
+  "missing": "require all selected indicators; never substitute other-source proxies",
+  "grade_policy": "12 equal-width display bins, provisional only; not empirical thresholds",
+  "grades_low_to_high": [
+    "D-",
+    "D0",
+    "D+",
+    "C-",
+    "C0",
+    "C+",
+    "B-",
+    "B0",
+    "B+",
+    "A-",
+    "A0",
+    "A+"
+  ],
+  "freshness": "2023-26 round rows labelled 2026; retain actual ReportingYear separately; older rounds historical only",
+  "chemistry": {
+    "fit": 0.3,
+    "joint_delivery": 0.3,
+    "outcomes": 0.25,
+    "sustainability": 0.15,
+    "gate": "all four components; >=3 independent evaluated projects in same sector, >=2 completion years; coverage and selection bias shown; proposed quality gate, not statistical guarantee"
+  },
+  "map": {
+    "unknown": "hatched neutral",
+    "historical": "outlined neutral, clickable",
+    "no_observed_relationship": "light gray, explorable",
+    "unsupported_high_chemistry_prediction": false
+  }
+}

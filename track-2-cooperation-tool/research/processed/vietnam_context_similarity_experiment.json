@@ -1,0 +1,1360 @@
+{
+  "status": "exploratory_not_prediction",
+  "year": 2023,
+  "reference": "VNM",
+  "features": [
+    "NY.GNP.PCAP.CD",
+    "SP.RUR.TOTL.ZS",
+    "SH.DYN.MORT",
+    "SH_UHC_SCI",
+    "SH.XPD.OOPC.CH.ZS"
+  ],
+  "method": "equal-weight Gower numeric distance; income log transformed; frozen observed cohort ranges",
+  "ranges": {
+    "NY.GNP.PCAP.CD": [
+      5.634789603169249,
+      10.40365659611359
+    ],
+    "SP.RUR.TOTL.ZS": [
+      7.31776313166399,
+      84.9418982108794
+    ],
+    "SH.DYN.MORT": [
+      2.4,
+      116.8
+    ],
+    "SH_UHC_SCI": [
+      26,
+      84
+    ],
+    "SH.XPD.OOPC.CH.ZS": [
+      0.04458594,
+      80.47196198
+    ]
+  },
+  "cohort": "KOICA snapshot partner countries with complete 2023 observations",
+  "n": 110,
+  "rankings": [
+    {
+      "iso3": "BTN",
+      "similarity": 94.49233055857106,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.02186841325954243,
+        "SP.RUR.TOTL.ZS": 0.04644631922043491,
+        "SH.DYN.MORT": 0.0017482517482517422,
+        "SH_UHC_SCI": 0.034482758620689655,
+        "SH.XPD.OOPC.CH.ZS": 0.1708377292225286
+      },
+      "rank": 1
+    },
+    {
+      "iso3": "MDA",
+      "similarity": 93.81987783057826,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.08636971350228098,
+        "SP.RUR.TOTL.ZS": 0.06275486495645519,
+        "SH.DYN.MORT": 0.013986013986014,
+        "SH_UHC_SCI": 0.0,
+        "SH.XPD.OOPC.CH.ZS": 0.14589551602633638
+      },
+      "rank": 2
+    },
+    {
+      "iso3": "KGZ",
+      "similarity": 93.78126119118738,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.1700467254415191,
+        "SP.RUR.TOTL.ZS": 0.044102923182833265,
+        "SH.DYN.MORT": 0.006993006993007,
+        "SH_UHC_SCI": 0.05172413793103448,
+        "SH.XPD.OOPC.CH.ZS": 0.0380701468922372
+      },
+      "rank": 3
+    },
+    {
+      "iso3": "IND",
+      "similarity": 93.44158502419334,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10661087384337134,
+        "SP.RUR.TOTL.ZS": 0.03944905275080918,
+        "SH.DYN.MORT": 0.08916083916083917,
+        "SH_UHC_SCI": 0.034482758620689655,
+        "SH.XPD.OOPC.CH.ZS": 0.058217224414623556
+      },
+      "rank": 4
+    },
+    {
+      "iso3": "EGY",
+      "similarity": 93.13873584053609,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.015773856001621168,
+        "SP.RUR.TOTL.ZS": 0.05900125080458013,
+        "SH.DYN.MORT": 0.04458041958041956,
+        "SH_UHC_SCI": 0.0,
+        "SH.XPD.OOPC.CH.ZS": 0.22370768158657434
+      },
+      "rank": 5
+    },
+    {
+      "iso3": "BLZ",
+      "similarity": 92.5971365350693,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10559171920330965,
+        "SP.RUR.TOTL.ZS": 0.04916065479774833,
+        "SH.DYN.MORT": 0.04370629370629371,
+        "SH_UHC_SCI": 0.017241379310344827,
+        "SH.XPD.OOPC.CH.ZS": 0.15444312622883877
+      },
+      "rank": 6
+    },
+    {
+      "iso3": "PHL",
+      "similarity": 91.86237783186996,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.008924470840089198,
+        "SP.RUR.TOTL.ZS": 0.21893166548841853,
+        "SH.DYN.MORT": 0.08041958041958042,
+        "SH_UHC_SCI": 0.034482758620689655,
+        "SH.XPD.OOPC.CH.ZS": 0.0641226330377245
+      },
+      "rank": 7
+    },
+    {
+      "iso3": "MUS",
+      "similarity": 91.82953912388209,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.23222077334285562,
+        "SP.RUR.TOTL.ZS": 0.01126066868810941,
+        "SH.DYN.MORT": 0.020979020979020983,
+        "SH_UHC_SCI": 0.06896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.07509706355453045
+      },
+      "rank": 8
+    },
+    {
+      "iso3": "LCA",
+      "similarity": 91.11511799420063,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.23070916028935504,
+        "SP.RUR.TOTL.ZS": 0.11635890187856501,
+        "SH.DYN.MORT": 0.002622377622377629,
+        "SH_UHC_SCI": 0.06896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.025588143258291497
+      },
+      "rank": 9
+    },
+    {
+      "iso3": "GRD",
+      "similarity": 91.02154216998676,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.18701289789157252,
+        "SP.RUR.TOTL.ZS": 0.021485098695251826,
+        "SH.DYN.MORT": 0.004370629370629371,
+        "SH_UHC_SCI": 0.1206896551724138,
+        "SH.XPD.OOPC.CH.ZS": 0.1153646103707948
+      },
+      "rank": 10
+    },
+    {
+      "iso3": "LAO",
+      "similarity": 90.96277115913666,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.14133500501197854,
+        "SP.RUR.TOTL.ZS": 0.008723039672263,
+        "SH.DYN.MORT": 0.11101398601398602,
+        "SH_UHC_SCI": 0.1206896551724138,
+        "SH.XPD.OOPC.CH.ZS": 0.07009975617252523
+      },
+      "rank": 11
+    },
+    {
+      "iso3": "IDN",
+      "similarity": 90.71774057821032,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.03145428390063669,
+        "SP.RUR.TOTL.ZS": 0.25749781144093264,
+        "SH.DYN.MORT": 0.005244755244755227,
+        "SH_UHC_SCI": 0.06896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.10095060326177964
+      },
+      "rank": 12
+    },
+    {
+      "iso3": "MAR",
+      "similarity": 90.47896196426738,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.019076182736973403,
+        "SP.RUR.TOTL.ZS": 0.316188520128907,
+        "SH.DYN.MORT": 0.013111888111888114,
+        "SH_UHC_SCI": 0.10344827586206896,
+        "SH.XPD.OOPC.CH.ZS": 0.024227034946793773
+      },
+      "rank": 13
+    },
+    {
+      "iso3": "TUN",
+      "similarity": 88.58231165643672,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.01522848920822841,
+        "SP.RUR.TOTL.ZS": 0.41091315444884824,
+        "SH.DYN.MORT": 0.04283216783216784,
+        "SH_UHC_SCI": 0.08620689655172414,
+        "SH.XPD.OOPC.CH.ZS": 0.015703709137195446
+      },
+      "rank": 14
+    },
+    {
+      "iso3": "LKA",
+      "similarity": 88.44998728032785,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.03223998165127554,
+        "SP.RUR.TOTL.ZS": 0.23168510128061554,
+        "SH.DYN.MORT": 0.10227272727272729,
+        "SH_UHC_SCI": 0.017241379310344827,
+        "SH.XPD.OOPC.CH.ZS": 0.19406144646864448
+      },
+      "rank": 15
+    },
+    {
+      "iso3": "KHM",
+      "similarity": 88.40007833195635,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.11520606943046614,
+        "SP.RUR.TOTL.ZS": 0.03219602205945194,
+        "SH.DYN.MORT": 0.011363636363636371,
+        "SH_UHC_SCI": 0.15517241379310345,
+        "SH.XPD.OOPC.CH.ZS": 0.2660579417555246
+      },
+      "rank": 16
+    },
+    {
+      "iso3": "MKD",
+      "similarity": 87.75486779312146,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.13655601810352727,
+        "SP.RUR.TOTL.ZS": 0.31075311548485485,
+        "SH.DYN.MORT": 0.1258741258741259,
+        "SH_UHC_SCI": 0.034482758620689655,
+        "SH.XPD.OOPC.CH.ZS": 0.0045905922607294425
+      },
+      "rank": 17
+    },
+    {
+      "iso3": "MNG",
+      "similarity": 87.52707124579973,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.03405382232248178,
+        "SP.RUR.TOTL.ZS": 0.41632101671614963,
+        "SH.DYN.MORT": 0.036713286713286726,
+        "SH_UHC_SCI": 0.017241379310344827,
+        "SH.XPD.OOPC.CH.ZS": 0.11931693264775069
+      },
+      "rank": 18
+    },
+    {
+      "iso3": "DZA",
+      "similarity": 87.29856235487547,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.03747049121054419,
+        "SP.RUR.TOTL.ZS": 0.4715404285650362,
+        "SH.DYN.MORT": 0.03671328671328671,
+        "SH_UHC_SCI": 0.017241379310344827,
+        "SH.XPD.OOPC.CH.ZS": 0.07210629645701418
+      },
+      "rank": 19
+    },
+    {
+      "iso3": "BIH",
+      "similarity": 87.10491835310395,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.14534839859980875,
+        "SP.RUR.TOTL.ZS": 0.1730883510370162,
+        "SH.DYN.MORT": 0.10314685314685317,
+        "SH_UHC_SCI": 0.1206896551724138,
+        "SH.XPD.OOPC.CH.ZS": 0.10248082438871027
+      },
+      "rank": 20
+    },
+    {
+      "iso3": "HND",
+      "similarity": 87.0009734109195,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.07682826101205333,
+        "SP.RUR.TOTL.ZS": 0.2600138321414931,
+        "SH.DYN.MORT": 0.02010489510489511,
+        "SH_UHC_SCI": 0.1206896551724138,
+        "SH.XPD.OOPC.CH.ZS": 0.17231468602316963
+      },
+      "rank": 21
+    },
+    {
+      "iso3": "BOL",
+      "similarity": 86.88252662901796,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.004509709591981328,
+        "SP.RUR.TOTL.ZS": 0.42235898576005976,
+        "SH.DYN.MORT": 0.012237762237762257,
+        "SH_UHC_SCI": 0.06896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.14780169371791932
+      },
+      "rank": 22
+    },
+    {
+      "iso3": "JAM",
+      "similarity": 86.84516628171593,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10589761774604915,
+        "SP.RUR.TOTL.ZS": 0.2617887397278011,
+        "SH.DYN.MORT": 0.002622377622377629,
+        "SH_UHC_SCI": 0.05172413793103448,
+        "SH.XPD.OOPC.CH.ZS": 0.235708812886941
+      },
+      "rank": 23
+    },
+    {
+      "iso3": "PRY",
+      "similarity": 86.63112294441237,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.08468541999836313,
+        "SP.RUR.TOTL.ZS": 0.40215221334985884,
+        "SH.DYN.MORT": 0.007867132867132887,
+        "SH_UHC_SCI": 0.13793103448275862,
+        "SH.XPD.OOPC.CH.ZS": 0.03580805208126743
+      },
+      "rank": 24
+    },
+    {
+      "iso3": "VCT",
+      "similarity": 86.45125263478417,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.18928434063581093,
+        "SP.RUR.TOTL.ZS": 0.12350671324486856,
+        "SH.DYN.MORT": 0.052447552447552455,
+        "SH_UHC_SCI": 0.15517241379310345,
+        "SH.XPD.OOPC.CH.ZS": 0.15702634813945626
+      },
+      "rank": 25
+    },
+    {
+      "iso3": "ECU",
+      "similarity": 86.30117482115119,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.09684020236726404,
+        "SP.RUR.TOTL.ZS": 0.3220761492288243,
+        "SH.DYN.MORT": 0.04195804195804197,
+        "SH_UHC_SCI": 0.1206896551724138,
+        "SH.XPD.OOPC.CH.ZS": 0.10337721021589608
+      },
+      "rank": 26
+    },
+    {
+      "iso3": "GEO",
+      "similarity": 85.70950997271984,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10126161284448386,
+        "SP.RUR.TOTL.ZS": 0.29143535467405496,
+        "SH.DYN.MORT": 0.07867132867132867,
+        "SH_UHC_SCI": 0.0,
+        "SH.XPD.OOPC.CH.ZS": 0.24315620517414058
+      },
+      "rank": 27
+    },
+    {
+      "iso3": "UZB",
+      "similarity": 85.5064404539147,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.07609889188067018,
+        "SP.RUR.TOTL.ZS": 0.16575506646781885,
+        "SH.DYN.MORT": 0.035839160839160854,
+        "SH_UHC_SCI": 0.13793103448275862,
+        "SH.XPD.OOPC.CH.ZS": 0.30905382363385625
+      },
+      "rank": 28
+    },
+    {
+      "iso3": "AZE",
+      "similarity": 84.88304696239484,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10032198432440446,
+        "SP.RUR.TOTL.ZS": 0.26251686522085327,
+        "SH.DYN.MORT": 0.007867132867132856,
+        "SH_UHC_SCI": 0.06896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.31617615222648754
+      },
+      "rank": 29
+    },
+    {
+      "iso3": "GTM",
+      "similarity": 84.78030376218668,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.05841698437151576,
+        "SP.RUR.TOTL.ZS": 0.22516632870463235,
+        "SH.DYN.MORT": 0.02972027972027971,
+        "SH_UHC_SCI": 0.22413793103448276,
+        "SH.XPD.OOPC.CH.ZS": 0.22354328805975554
+      },
+      "rank": 30
+    },
+    {
+      "iso3": "TON",
+      "similarity": 84.44268312781809,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.07464037980246052,
+        "SP.RUR.TOTL.ZS": 0.2187714669313537,
+        "SH.DYN.MORT": 0.06993006993006994,
+        "SH_UHC_SCI": 0.0,
+        "SH.XPD.OOPC.CH.ZS": 0.41452392694521134
+      },
+      "rank": 31
+    },
+    {
+      "iso3": "TJK",
+      "similarity": 84.34963531916759,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2273545378430865,
+        "SP.RUR.TOTL.ZS": 0.15382944586198527,
+        "SH.DYN.MORT": 0.09615384615384616,
+        "SH_UHC_SCI": 0.017241379310344827,
+        "SH.XPD.OOPC.CH.ZS": 0.2879390248723574
+      },
+      "rank": 32
+    },
+    {
+      "iso3": "SLV",
+      "similarity": 84.14837191070804,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.03662152886120867,
+        "SP.RUR.TOTL.ZS": 0.46993344319868846,
+        "SH.DYN.MORT": 0.06468531468531469,
+        "SH_UHC_SCI": 0.13793103448275862,
+        "SH.XPD.OOPC.CH.ZS": 0.08341008323662824
+      },
+      "rank": 33
+    },
+    {
+      "iso3": "WSM",
+      "similarity": 84.11259380200975,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.031017877054544396,
+        "SP.RUR.TOTL.ZS": 0.26574995573712756,
+        "SH.DYN.MORT": 0.021853146853146856,
+        "SH_UHC_SCI": 0.15517241379310345,
+        "SH.XPD.OOPC.CH.ZS": 0.3205769164615905
+      },
+      "rank": 34
+    },
+    {
+      "iso3": "IRN",
+      "similarity": 83.72358705812414,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.04249332809358844,
+        "SP.RUR.TOTL.ZS": 0.4965732145658493,
+        "SH.DYN.MORT": 0.05332167832167834,
+        "SH_UHC_SCI": 0.1724137931034483,
+        "SH.XPD.OOPC.CH.ZS": 0.04901863300922878
+      },
+      "rank": 35
+    },
+    {
+      "iso3": "IRQ",
+      "similarity": 83.41192869444187,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.07499489115293607,
+        "SP.RUR.TOTL.ZS": 0.40887267895654467,
+        "SH.DYN.MORT": 0.04108391608391608,
+        "SH_UHC_SCI": 0.1206896551724138,
+        "SH.XPD.OOPC.CH.ZS": 0.1837624239120956
+      },
+      "rank": 36
+    },
+    {
+      "iso3": "KEN",
+      "similarity": 83.14116957664422,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.14133500501197854,
+        "SP.RUR.TOTL.ZS": 0.08369634461783772,
+        "SH.DYN.MORT": 0.19055944055944057,
+        "SH_UHC_SCI": 0.2413793103448276,
+        "SH.XPD.OOPC.CH.ZS": 0.18597142063370495
+      },
+      "rank": 37
+    },
+    {
+      "iso3": "FJI",
+      "similarity": 83.04132881170669,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.06594717998378634,
+        "SP.RUR.TOTL.ZS": 0.26379700734939604,
+        "SH.DYN.MORT": 0.09965034965034965,
+        "SH_UHC_SCI": 0.034482758620689655,
+        "SH.XPD.OOPC.CH.ZS": 0.3840562638104437
+      },
+      "rank": 38
+    },
+    {
+      "iso3": "JOR",
+      "similarity": 82.2475926695882,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.03491322276253312,
+        "SP.RUR.TOTL.ZS": 0.7027755783786944,
+        "SH.DYN.MORT": 0.039335664335664336,
+        "SH_UHC_SCI": 0.05172413793103448,
+        "SH.XPD.OOPC.CH.ZS": 0.05887176311266366
+      },
+      "rank": 39
+    },
+    {
+      "iso3": "LBN",
+      "similarity": 82.17714820831641,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.02299579992063728,
+        "SP.RUR.TOTL.ZS": 0.6740495971320025,
+        "SH.DYN.MORT": 0.006993006993007,
+        "SH_UHC_SCI": 0.06896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.11813866829715362
+      },
+      "rank": 40
+    },
+    {
+      "iso3": "PAN",
+      "similarity": 82.15490908660814,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.30619152226266927,
+        "SP.RUR.TOTL.ZS": 0.35723730315854985,
+        "SH.DYN.MORT": 0.023601398601398614,
+        "SH_UHC_SCI": 0.1896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.015569149233181935
+      },
+      "rank": 41
+    },
+    {
+      "iso3": "VUT",
+      "similarity": 81.57338018043312,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.0035159000831591278,
+        "SP.RUR.TOTL.ZS": 0.20437836432334466,
+        "SH.DYN.MORT": 0.002622377622377629,
+        "SH_UHC_SCI": 0.3275862068965517,
+        "SH.XPD.OOPC.CH.ZS": 0.3832281420529109
+      },
+      "rank": 42
+    },
+    {
+      "iso3": "KAZ",
+      "similarity": 81.4801876120303,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.1993098356546106,
+        "SP.RUR.TOTL.ZS": 0.30436669579523257,
+        "SH.DYN.MORT": 0.0716783216783217,
+        "SH_UHC_SCI": 0.20689655172413793,
+        "SH.XPD.OOPC.CH.ZS": 0.14373921454618183
+      },
+      "rank": 43
+    },
+    {
+      "iso3": "DOM",
+      "similarity": 81.00757080790093,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.17853928384495243,
+        "SP.RUR.TOTL.ZS": 0.440944156163669,
+        "SH.DYN.MORT": 0.11975524475524475,
+        "SH_UHC_SCI": 0.034482758620689655,
+        "SH.XPD.OOPC.CH.ZS": 0.17590001622039744
+      },
+      "rank": 44
+    },
+    {
+      "iso3": "PER",
+      "similarity": 80.85812321082717,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.1131084169485332,
+        "SP.RUR.TOTL.ZS": 0.6009875033773004,
+        "SH.DYN.MORT": 0.039335664335664336,
+        "SH_UHC_SCI": 0.05172413793103448,
+        "SH.XPD.OOPC.CH.ZS": 0.15193811686610884
+      },
+      "rank": 45
+    },
+    {
+      "iso3": "MEX",
+      "similarity": 80.85470986781287,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.22298319134827882,
+        "SP.RUR.TOTL.ZS": 0.5326127381737518,
+        "SH.DYN.MORT": 0.03846153846153847,
+        "SH_UHC_SCI": 0.13793103448275862,
+        "SH.XPD.OOPC.CH.ZS": 0.02527600414302912
+      },
+      "rank": 46
+    },
+    {
+      "iso3": "GHA",
+      "similarity": 80.80434365644597,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.12234525814344316,
+        "SP.RUR.TOTL.ZS": 0.2534982620481365,
+        "SH.DYN.MORT": 0.1695804195804196,
+        "SH_UHC_SCI": 0.25862068965517243,
+        "SH.XPD.OOPC.CH.ZS": 0.15573818775053005
+      },
+      "rank": 47
+    },
+    {
+      "iso3": "VEN",
+      "similarity": 80.66910515350573,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.06476135167452295,
+        "SP.RUR.TOTL.ZS": 0.6585546766629067,
+        "SH.DYN.MORT": 0.05594405594405594,
+        "SH_UHC_SCI": 0.06896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.11831914080184881
+      },
+      "rank": 48
+    },
+    {
+      "iso3": "STP",
+      "similarity": 80.47807961579102,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.08125856834860389,
+        "SP.RUR.TOTL.ZS": 0.39259054722301356,
+        "SH.DYN.MORT": 0.03234265734265736,
+        "SH_UHC_SCI": 0.1896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.280249073882381
+      },
+      "rank": 49
+    },
+    {
+      "iso3": "TKM",
+      "similarity": 80.18938715921902,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.032324382301986775,
+        "SP.RUR.TOTL.ZS": 0.11514456237613947,
+        "SH.DYN.MORT": 0.19580419580419584,
+        "SH_UHC_SCI": 0.1724137931034483,
+        "SH.XPD.OOPC.CH.ZS": 0.474843708453279
+      },
+      "rank": 50
+    },
+    {
+      "iso3": "TZA",
+      "similarity": 80.18364905354423,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2562128343901828,
+        "SP.RUR.TOTL.ZS": 0.034204419742514265,
+        "SH.DYN.MORT": 0.18094405594405596,
+        "SH_UHC_SCI": 0.3793103448275862,
+        "SH.XPD.OOPC.CH.ZS": 0.14014589241844927
+      },
+      "rank": 51
+    },
+    {
+      "iso3": "PSE",
+      "similarity": 80.14670936232446,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.015141606685143446,
+        "SP.RUR.TOTL.ZS": 0.6277402839975916,
+        "SH.DYN.MORT": 0.21066433566433565,
+        "SH_UHC_SCI": 0.10344827586206896,
+        "SH.XPD.OOPC.CH.ZS": 0.035670029674637144
+      },
+      "rank": 52
+    },
+    {
+      "iso3": "COM",
+      "similarity": 80.12377393514988,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.1903748128752132,
+        "SP.RUR.TOTL.ZS": 0.06415108319239429,
+        "SH.DYN.MORT": 0.19580419580419584,
+        "SH_UHC_SCI": 0.3275862068965517,
+        "SH.XPD.OOPC.CH.ZS": 0.21589500447415066
+      },
+      "rank": 53
+    },
+    {
+      "iso3": "PAK",
+      "similarity": 79.84292920965311,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2199961191949697,
+        "SP.RUR.TOTL.ZS": 0.008879915308314508,
+        "SH.DYN.MORT": 0.3496503496503497,
+        "SH_UHC_SCI": 0.25862068965517243,
+        "SH.XPD.OOPC.CH.ZS": 0.17070646570853862
+      },
+      "rank": 54
+    },
+    {
+      "iso3": "ZAF",
+      "similarity": 79.46582224636451,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.09427118507266433,
+        "SP.RUR.TOTL.ZS": 0.3278938959962098,
+        "SH.DYN.MORT": 0.1486013986013986,
+        "SH_UHC_SCI": 0.05172413793103448,
+        "SH.XPD.OOPC.CH.ZS": 0.404218270080467
+      },
+      "rank": 55
+    },
+    {
+      "iso3": "THA",
+      "similarity": 79.22286717298795,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.11633227856437077,
+        "SP.RUR.TOTL.ZS": 0.2937785031975482,
+        "SH.DYN.MORT": 0.0751748251748252,
+        "SH_UHC_SCI": 0.1896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.3639158620000653
+      },
+      "rank": 56
+    },
+    {
+      "iso3": "SEN",
+      "similarity": 79.02455831964599,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.19674896363876873,
+        "SP.RUR.TOTL.ZS": 0.21345599741982174,
+        "SH.DYN.MORT": 0.17832167832167836,
+        "SH_UHC_SCI": 0.39655172413793105,
+        "SH.XPD.OOPC.CH.ZS": 0.06369372049950064
+      },
+      "rank": 57
+    },
+    {
+      "iso3": "BGD",
+      "similarity": 78.86669280906592,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.07609889188067018,
+        "SP.RUR.TOTL.ZS": 0.07693540072448643,
+        "SH.DYN.MORT": 0.1118881118881119,
+        "SH_UHC_SCI": 0.29310344827586204,
+        "SH.XPD.OOPC.CH.ZS": 0.4986395067775731
+      },
+      "rank": 58
+    },
+    {
+      "iso3": "UGA",
+      "similarity": 78.84051952104416,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.30429764501063916,
+        "SP.RUR.TOTL.ZS": 0.09692803011159884,
+        "SH.DYN.MORT": 0.27622377622377625,
+        "SH_UHC_SCI": 0.29310344827586204,
+        "SH.XPD.OOPC.CH.ZS": 0.08742112432591555
+      },
+      "rank": 59
+    },
+    {
+      "iso3": "TUV",
+      "similarity": 78.67214250765508,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.1251597813500797,
+        "SP.RUR.TOTL.ZS": 0.33342503849700605,
+        "SH.DYN.MORT": 0.017482517482517484,
+        "SH_UHC_SCI": 0.10344827586206896,
+        "SH.XPD.OOPC.CH.ZS": 0.48687726142557375
+      },
+      "rank": 60
+    },
+    {
+      "iso3": "ARM",
+      "similarity": 78.47004123207651,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10559171920330965,
+        "SP.RUR.TOTL.ZS": 0.3551189038159306,
+        "SH.DYN.MORT": 0.06818181818181819,
+        "SH_UHC_SCI": 0.034482758620689655,
+        "SH.XPD.OOPC.CH.ZS": 0.5131227385744264
+      },
+      "rank": 61
+    },
+    {
+      "iso3": "BLR",
+      "similarity": 78.37242155519941,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.13416556697926793,
+        "SP.RUR.TOTL.ZS": 0.5241250235280486,
+        "SH.DYN.MORT": 0.13461538461538464,
+        "SH_UHC_SCI": 0.15517241379310345,
+        "SH.XPD.OOPC.CH.ZS": 0.13330053332422506
+      },
+      "rank": 62
+    },
+    {
+      "iso3": "ZWE",
+      "similarity": 78.31435643982144,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10161793763253828,
+        "SP.RUR.TOTL.ZS": 0.01497017179642809,
+        "SH.DYN.MORT": 0.4055944055944057,
+        "SH_UHC_SCI": 0.20689655172413793,
+        "SH.XPD.OOPC.CH.ZS": 0.35520311126141774
+      },
+      "rank": 63
+    },
+    {
+      "iso3": "LBY",
+      "similarity": 78.10913399671749,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.08332817633541477,
+        "SP.RUR.TOTL.ZS": 0.640713475252715,
+        "SH.DYN.MORT": 0.1215034965034965,
+        "SH_UHC_SCI": 0.0,
+        "SH.XPD.OOPC.CH.ZS": 0.24899815207249926
+      },
+      "rank": 64
+    },
+    {
+      "iso3": "ZMB",
+      "similarity": 77.50066696747567,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.24779027997951017,
+        "SP.RUR.TOTL.ZS": 0.08887306638874472,
+        "SH.DYN.MORT": 0.27360139860139865,
+        "SH_UHC_SCI": 0.15517241379310345,
+        "SH.XPD.OOPC.CH.ZS": 0.3595294928634601
+      },
+      "rank": 65
+    },
+    {
+      "iso3": "NPL",
+      "similarity": 77.2677140930071,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.22290857453943969,
+        "SP.RUR.TOTL.ZS": 0.36603825439734733,
+        "SH.DYN.MORT": 0.07255244755244757,
+        "SH_UHC_SCI": 0.22413793103448276,
+        "SH.XPD.OOPC.CH.ZS": 0.25097708782592776
+      },
+      "rank": 66
+    },
+    {
+      "iso3": "SLB",
+      "similarity": 77.08613431339569,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.15466964044542975,
+        "SP.RUR.TOTL.ZS": 0.10461963054104387,
+        "SH.DYN.MORT": 0.024475524475524483,
+        "SH_UHC_SCI": 0.41379310344827586,
+        "SH.XPD.OOPC.CH.ZS": 0.44813538541994197
+      },
+      "rank": 67
+    },
+    {
+      "iso3": "COL",
+      "similarity": 76.66582487176102,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10281836397263781,
+        "SP.RUR.TOTL.ZS": 0.5171803988112826,
+        "SH.DYN.MORT": 0.05157342657342658,
+        "SH_UHC_SCI": 0.1896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.3054813946408092
+      },
+      "rank": 68
+    },
+    {
+      "iso3": "MRT",
+      "similarity": 76.29601971744735,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.13837457823415641,
+        "SP.RUR.TOTL.ZS": 0.2780624352308012,
+        "SH.DYN.MORT": 0.17744755244755248,
+        "SH_UHC_SCI": 0.5344827586206896,
+        "SH.XPD.OOPC.CH.ZS": 0.05683168959443272
+      },
+      "rank": 69
+    },
+    {
+      "iso3": "PLW",
+      "similarity": 75.26651662282639,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.26642539974975465,
+        "SP.RUR.TOTL.ZS": 0.5284865159544248,
+        "SH.DYN.MORT": 0.035839160839160826,
+        "SH_UHC_SCI": 0.06896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.3369575750739611
+      },
+      "rank": 70
+    },
+    {
+      "iso3": "RWA",
+      "similarity": 75.23786024336647,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2917122636579927,
+        "SP.RUR.TOTL.ZS": 0.11947778056247992,
+        "SH.DYN.MORT": 0.18356643356643354,
+        "SH_UHC_SCI": 0.20689655172413793,
+        "SH.XPD.OOPC.CH.ZS": 0.43645395832063255
+      },
+      "rank": 71
+    },
+    {
+      "iso3": "CIV",
+      "similarity": 75.03750117934192,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.10493331758547773,
+        "SP.RUR.TOTL.ZS": 0.19681545831570402,
+        "SH.DYN.MORT": 0.42569930069930073,
+        "SH_UHC_SCI": 0.43103448275862066,
+        "SH.XPD.OOPC.CH.ZS": 0.08964238167380105
+      },
+      "rank": 72
+    },
+    {
+      "iso3": "MMR",
+      "similarity": 74.84047526817513,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2562128343901828,
+        "SP.RUR.TOTL.ZS": 0.09981198021776679,
+        "SH.DYN.MORT": 0.17744755244755248,
+        "SH_UHC_SCI": 0.3275862068965517,
+        "SH.XPD.OOPC.CH.ZS": 0.3969176626391901
+      },
+      "rank": 73
+    },
+    {
+      "iso3": "GMB",
+      "similarity": 74.7430785669712,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.3271128881301843,
+        "SP.RUR.TOTL.ZS": 0.33072352790170095,
+        "SH.DYN.MORT": 0.22727272727272727,
+        "SH_UHC_SCI": 0.3103448275862069,
+        "SH.XPD.OOPC.CH.ZS": 0.06739210076062055
+      },
+      "rank": 74
+    },
+    {
+      "iso3": "CRI",
+      "similarity": 74.71475424679123,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2603678097627641,
+        "SP.RUR.TOTL.ZS": 0.5249919871015406,
+        "SH.DYN.MORT": 0.06730769230769232,
+        "SH_UHC_SCI": 0.22413793103448276,
+        "SH.XPD.OOPC.CH.ZS": 0.18745686745395906
+      },
+      "rank": 75
+    },
+    {
+      "iso3": "TUR",
+      "similarity": 74.65103645519892,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2228082281225581,
+        "SP.RUR.TOTL.ZS": 0.6556202421551284,
+        "SH.DYN.MORT": 0.03496503496503497,
+        "SH_UHC_SCI": 0.10344827586206896,
+        "SH.XPD.OOPC.CH.ZS": 0.25060639613526303
+      },
+      "rank": 76
+    },
+    {
+      "iso3": "BWA",
+      "similarity": 74.29569380746076,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.1420299916977477,
+        "SP.RUR.TOTL.ZS": 0.37219577472403725,
+        "SH.DYN.MORT": 0.14685314685314688,
+        "SH_UHC_SCI": 0.1896551724137931,
+        "SH.XPD.OOPC.CH.ZS": 0.43448122393823657
+      },
+      "rank": 77
+    },
+    {
+      "iso3": "LSO",
+      "similarity": 74.250141683144,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.24944794405754153,
+        "SP.RUR.TOTL.ZS": 0.05859349329873358,
+        "SH.DYN.MORT": 0.38024475524475526,
+        "SH_UHC_SCI": 0.27586206896551724,
+        "SH.XPD.OOPC.CH.ZS": 0.3233446542762531
+      },
+      "rank": 78
+    },
+    {
+      "iso3": "MHL",
+      "similarity": 73.96890532176423,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.13708354898265832,
+        "SP.RUR.TOTL.ZS": 0.5182602344680493,
+        "SH.DYN.MORT": 0.08566433566433568,
+        "SH_UHC_SCI": 0.08620689655172414,
+        "SH.XPD.OOPC.CH.ZS": 0.47433971824502164
+      },
+      "rank": 79
+    },
+    {
+      "iso3": "DJI",
+      "similarity": 73.78314746885233,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.035214406187112385,
+        "SP.RUR.TOTL.ZS": 0.4471667751476406,
+        "SH.DYN.MORT": 0.2858391608391609,
+        "SH_UHC_SCI": 0.41379310344827586,
+        "SH.XPD.OOPC.CH.ZS": 0.12882918093519344
+      },
+      "rank": 80
+    },
+    {
+      "iso3": "AGO",
+      "similarity": 73.27350425869955,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.09355181188721805,
+        "SP.RUR.TOTL.ZS": 0.40865656986424775,
+        "SH.DYN.MORT": 0.2858391608391609,
+        "SH_UHC_SCI": 0.46551724137931033,
+        "SH.XPD.OOPC.CH.ZS": 0.08276000309508545
+      },
+      "rank": 81
+    },
+    {
+      "iso3": "HTI",
+      "similarity": 73.16816134233078,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.18176448953037552,
+        "SP.RUR.TOTL.ZS": 0.21024120236590016,
+        "SH.DYN.MORT": 0.3199300699300699,
+        "SH_UHC_SCI": 0.46551724137931033,
+        "SH.XPD.OOPC.CH.ZS": 0.16413892967780572
+      },
+      "rank": 82
+    },
+    {
+      "iso3": "ARG",
+      "similarity": 73.11392377110194,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2386480294378208,
+        "SP.RUR.TOTL.ZS": 0.6964924340699354,
+        "SH.DYN.MORT": 0.07080419580419582,
+        "SH_UHC_SCI": 0.15517241379310345,
+        "SH.XPD.OOPC.CH.ZS": 0.1831867383398475
+      },
+      "rank": 83
+    },
+    {
+      "iso3": "TLS",
+      "similarity": 72.84694499141962,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.16331801721816613,
+        "SP.RUR.TOTL.ZS": 0.12282801733265859,
+        "SH.DYN.MORT": 0.27447552447552453,
+        "SH_UHC_SCI": 0.39655172413793105,
+        "SH.XPD.OOPC.CH.ZS": 0.40047946726473854
+      },
+      "rank": 84
+    },
+    {
+      "iso3": "KIR",
+      "similarity": 71.17443954132314,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.02299579992063728,
+        "SP.RUR.TOTL.ZS": 0.30138277423216553,
+        "SH.DYN.MORT": 0.32080419580419584,
+        "SH_UHC_SCI": 0.3448275862068966,
+        "SH.XPD.OOPC.CH.ZS": 0.4512676667699478
+      },
+      "rank": 85
+    },
+    {
+      "iso3": "SDN",
+      "similarity": 71.07283855934811,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.38504140176599805,
+        "SP.RUR.TOTL.ZS": 0.04294904852486762,
+        "SH.DYN.MORT": 0.395979020979021,
+        "SH_UHC_SCI": 0.39655172413793105,
+        "SH.XPD.OOPC.CH.ZS": 0.2258368766247766
+      },
+      "rank": 86
+    },
+    {
+      "iso3": "BFA",
+      "similarity": 70.8016893891208,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.33447130677830106,
+        "SP.RUR.TOTL.ZS": 0.13324003668219989,
+        "SH.DYN.MORT": 0.520979020979021,
+        "SH_UHC_SCI": 0.41379310344827586,
+        "SH.XPD.OOPC.CH.ZS": 0.05743206265616222
+      },
+      "rank": 87
+    },
+    {
+      "iso3": "TGO",
+      "similarity": 70.15554975238376,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2614336869865258,
+        "SP.RUR.TOTL.ZS": 0.06595622426097696,
+        "SH.DYN.MORT": 0.3522727272727273,
+        "SH_UHC_SCI": 0.5,
+        "SH.XPD.OOPC.CH.ZS": 0.3125598738605821
+      },
+      "rank": 88
+    },
+    {
+      "iso3": "MLI",
+      "similarity": 69.69658170970925,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2958240309640191,
+        "SP.RUR.TOTL.ZS": 0.0918103825865268,
+        "SH.DYN.MORT": 0.5104895104895105,
+        "SH_UHC_SCI": 0.5172413793103449,
+        "SH.XPD.OOPC.CH.ZS": 0.0998056111641361
+      },
+      "rank": 89
+    },
+    {
+      "iso3": "ETH",
+      "similarity": 69.53051467344305,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2917122636579927,
+        "SP.RUR.TOTL.ZS": 0.1941566662321274,
+        "SH.DYN.MORT": 0.29458041958041964,
+        "SH_UHC_SCI": 0.6551724137931034,
+        "SH.XPD.OOPC.CH.ZS": 0.08785250306420417
+      },
+      "rank": 90
+    },
+    {
+      "iso3": "ESP",
+      "similarity": 68.87815078357966,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.43515693190113064,
+        "SP.RUR.TOTL.ZS": 0.541050802267902,
+        "SH.DYN.MORT": 0.12762237762237763,
+        "SH_UHC_SCI": 0.22413793103448276,
+        "SH.XPD.OOPC.CH.ZS": 0.22812441799512426
+      },
+      "rank": 91
+    },
+    {
+      "iso3": "MOZ",
+      "similarity": 68.74943146083797,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.42712072495933684,
+        "SP.RUR.TOTL.ZS": 0.03111032573296152,
+        "SH.DYN.MORT": 0.3837412587412588,
+        "SH_UHC_SCI": 0.3620689655172414,
+        "SH.XPD.OOPC.CH.ZS": 0.3584871520073031
+      },
+      "rank": 92
+    },
+    {
+      "iso3": "CMR",
+      "similarity": 68.23104359362691,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.18912290817849234,
+        "SP.RUR.TOTL.ZS": 0.21898855802898196,
+        "SH.DYN.MORT": 0.4300699300699301,
+        "SH_UHC_SCI": 0.39655172413793105,
+        "SH.XPD.OOPC.CH.ZS": 0.3537146999033192
+      },
+      "rank": 93
+    },
+    {
+      "iso3": "GIN",
+      "similarity": 68.20968922942707,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.2365396593243943,
+        "SP.RUR.TOTL.ZS": 0.006241384151070953,
+        "SH.DYN.MORT": 0.6748251748251749,
+        "SH_UHC_SCI": 0.4827586206896552,
+        "SH.XPD.OOPC.CH.ZS": 0.18915069953835087
+      },
+      "rank": 94
+    },
+    {
+      "iso3": "BDI",
+      "similarity": 67.95565812585559,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.5648430680988694,
+        "SP.RUR.TOTL.ZS": 0.18778197772885546,
+        "SH.DYN.MORT": 0.27010489510489516,
+        "SH_UHC_SCI": 0.39655172413793105,
+        "SH.XPD.OOPC.CH.ZS": 0.1829354286366695
+      },
+      "rank": 95
+    },
+    {
+      "iso3": "MWI",
+      "similarity": 67.71131615069727,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.39815150885722833,
+        "SP.RUR.TOTL.ZS": 0.27253142020545823,
+        "SH.DYN.MORT": 0.277972027972028,
+        "SH_UHC_SCI": 0.3275862068965517,
+        "SH.XPD.OOPC.CH.ZS": 0.3381930285338699
+      },
+      "rank": 96
+    },
+    {
+      "iso3": "GNB",
+      "similarity": 67.70343632880224,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.30429764501063916,
+        "SP.RUR.TOTL.ZS": 0.09613625825097985,
+        "SH.DYN.MORT": 0.45367132867132876,
+        "SH_UHC_SCI": 0.4827586206896552,
+        "SH.XPD.OOPC.CH.ZS": 0.2779643309372847
+      },
+      "rank": 97
+    },
+    {
+      "iso3": "GAB",
+      "similarity": 67.45115763727006,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.12902775372549763,
+        "SP.RUR.TOTL.ZS": 0.6893179007177626,
+        "SH.DYN.MORT": 0.13986013986013984,
+        "SH_UHC_SCI": 0.39655172413793105,
+        "SH.XPD.OOPC.CH.ZS": 0.27268459969516623
+      },
+      "rank": 98
+    },
+    {
+      "iso3": "PNG",
+      "similarity": 67.35963461512375,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.08200613924327776,
+        "SP.RUR.TOTL.ZS": 0.2972244216213057,
+        "SH.DYN.MORT": 0.19930069930069932,
+        "SH_UHC_SCI": 0.6724137931034483,
+        "SH.XPD.OOPC.CH.ZS": 0.3810732159750813
+      },
+      "rank": 99
+    },
+    {
+      "iso3": "COD",
+      "similarity": 67.32247605651423,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.37878143200927195,
+        "SP.RUR.TOTL.ZS": 0.08045929324624723,
+        "SH.DYN.MORT": 0.6424825174825175,
+        "SH_UHC_SCI": 0.5172413793103449,
+        "SH.XPD.OOPC.CH.ZS": 0.014911575125906582
+      },
+      "rank": 100
+    },
+    {
+      "iso3": "SLE",
+      "similarity": 66.72270777260702,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.3271128881301843,
+        "SP.RUR.TOTL.ZS": 0.08604842479004936,
+        "SH.DYN.MORT": 0.6643356643356644,
+        "SH_UHC_SCI": 0.39655172413793105,
+        "SH.XPD.OOPC.CH.ZS": 0.18981590997581924
+      },
+      "rank": 101
+    },
+    {
+      "iso3": "MDG",
+      "similarity": 65.59334701707907,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.43910646788832114,
+        "SP.RUR.TOTL.ZS": 0.07922724742148665,
+        "SH.DYN.MORT": 0.40034965034965037,
+        "SH_UHC_SCI": 0.6551724137931034,
+        "SH.XPD.OOPC.CH.ZS": 0.14647686969348506
+      },
+      "rank": 102
+    },
+    {
+      "iso3": "CAF",
+      "similarity": 64.38574190448062,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.4310403421430009,
+        "SP.RUR.TOTL.ZS": 0.07173643565676274,
+        "SH.DYN.MORT": 0.6538461538461539,
+        "SH_UHC_SCI": 0.5517241379310345,
+        "SH.XPD.OOPC.CH.ZS": 0.07236583519901689
+      },
+      "rank": 103
+    },
+    {
+      "iso3": "LBR",
+      "similarity": 62.54573248136028,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.36972851190705824,
+        "SP.RUR.TOTL.ZS": 0.2173032011643767,
+        "SH.DYN.MORT": 0.6075174825174826,
+        "SH_UHC_SCI": 0.3793103448275862,
+        "SH.XPD.OOPC.CH.ZS": 0.2988538355154822
+      },
+      "rank": 104
+    },
+    {
+      "iso3": "AFG",
+      "similarity": 60.69116665451546,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.5063987032462988,
+        "SP.RUR.TOTL.ZS": 0.16305286320886545,
+        "SH.DYN.MORT": 0.32430069930069927,
+        "SH_UHC_SCI": 0.5,
+        "SH.XPD.OOPC.CH.ZS": 0.4716894015183638
+      },
+      "rank": 105
+    },
+    {
+      "iso3": "NGA",
+      "similarity": 58.12213021415946,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.09835416102393509,
+        "SP.RUR.TOTL.ZS": 0.30975914706298624,
+        "SH.DYN.MORT": 0.8653846153846154,
+        "SH_UHC_SCI": 0.41379310344827586,
+        "SH.XPD.OOPC.CH.ZS": 0.406602462372214
+      },
+      "rank": 106
+    },
+    {
+      "iso3": "TCD",
+      "similarity": 57.51087070330483,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.31768687815155144,
+        "SP.RUR.TOTL.ZS": 0.15200621446858856,
+        "SH.DYN.MORT": 0.7237762237762239,
+        "SH_UHC_SCI": 0.7758620689655172,
+        "SH.XPD.OOPC.CH.ZS": 0.1551250794728774
+      },
+      "rank": 107
+    },
+    {
+      "iso3": "SOM",
+      "similarity": 56.43712551382016,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.40502731874488185,
+        "SP.RUR.TOTL.ZS": 0.2053685119006524,
+        "SH.DYN.MORT": 0.7561188811188811,
+        "SH_UHC_SCI": 0.7068965517241379,
+        "SH.XPD.OOPC.CH.ZS": 0.10473246082043887
+      },
+      "rank": 108
+    },
+    {
+      "iso3": "NER",
+      "similarity": 56.10109329137853,
+      "feature_distances": {
+        "NY.GNP.PCAP.CD": 0.391494015921998,
+        "SP.RUR.TOTL.ZS": 0.26253694281519313,
+        "SH.DYN.MORT": 0.8365384615384617,
+        "SH_UHC_SCI": 0.5517241379310345,
+        "SH.XPD.OOPC.CH.ZS": 0.152651777224386
+      },
+      "rank": 109
+    }
+  ],
+  "excluded_missing": [
+    "CUB",
+    "SSD",
+    "SYR",
+    "UKR",
+    "YEM"
+  ],
+  "not_captured": [
+    "island logistics",
+    "subnational access",
+    "supply chain governance",
+    "donor operational expertise"
+  ]
+}

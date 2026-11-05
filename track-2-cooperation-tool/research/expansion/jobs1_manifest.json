@@ -1,0 +1,63 @@
+[
+  {
+    "file": "raw/registry_datasets.json",
+    "url": "https://registry.codeforiati.org/dataset_list.json",
+    "retrieved_at": "2026-11-04T12:07:03.899489+00:00",
+    "status": "downloaded",
+    "bytes": 24420689,
+    "sha256": "c8be71b824ec03bb63409246173bef7bf419b6ba9bd2d34c1c59d58d1231076a"
+  },
+  {
+    "file": "raw/registry_publishers.json",
+    "url": "https://registry.codeforiati.org/publisher_list.json",
+    "retrieved_at": "2026-11-04T12:07:01.424274+00:00",
+    "status": "downloaded",
+    "bytes": 3081357,
+    "sha256": "7440eb5fe155222c7ef69b4685ee8bad2ee6aa8265680f7e8f2b7bf7ad2311c0"
+  },
+  {
+    "file": "raw/pwyf_2024.html",
+    "url": "https://www.publishwhatyoufund.org/the-index/2024/",
+    "retrieved_at": "2026-11-04T12:07:00.620220+00:00",
+    "status": "downloaded",
+    "bytes": 65038,
+    "sha256": "786e1aa3f539d3899498069f32f9d47c1badfeea6cb588afdbe240e0b909e04b"
+  },
+  {
+    "file": "raw/ati_download.bin",
+    "url": "https://www.publishwhatyoufund.org/download/index-results-data/",
+    "retrieved_at": "2026-11-04T12:07:07.631245+00:00",
+    "status": "downloaded",
+    "bytes": 43769,
+    "sha256": "ecf4bca3b308257a3f0bf0b7c0ac21a59625c4528aacf63b7c32c0bea0031927"
+  },
+  {
+    "file": "raw/lowy_app.js",
+    "url": "https://pacificaidmap.lowyinstitute.org/_app/immutable/entry/app.zdocfEkl.js",
+    "retrieved_at": "2026-11-04T12:06:59.117824+00:00",
+    "status": "downloaded",
+    "bytes": 13742,
+    "sha256": "4a4645613629fa234fcf6e1f221605268659481e20e5db5ddb42c66704ecc7bd"
+  },
+  {
+    "file": "raw/dfat_aihss.html",
+    "url": "https://www.dfat.gov.au/publications/development/accelerated-immunisation-and-health-systems-strengthening-program",
+    "retrieved_at": "2026-11-04T12:06:58.123594+00:00",
+    "status": "failed",
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  },
+  {
+    "file": "raw/dfat_png_health_review.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/papua-new-guinea-health-portfolio-plan-mid-term-review-2022-report.pdf",
+    "retrieved_at": "2026-11-04T12:06:58.189022+00:00",
+    "status": "failed",
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  },
+  {
+    "file": "raw/dfat_png_supply.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/png-burnet-institute-medical-supply-evaluation.pdf",
+    "retrieved_at": "2026-11-04T12:06:58.253106+00:00",
+    "status": "failed",
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  }
+]

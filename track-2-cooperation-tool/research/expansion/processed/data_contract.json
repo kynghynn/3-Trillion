@@ -1,0 +1,54 @@
+{
+  "version": "0.2",
+  "entity_keys": {
+    "country": "ISO3; sovereign status and territory metadata must be explicit",
+    "organisation": "IATI reporting-org ref; do not equate organisation with nation",
+    "activity": "IATI identifier + reporting entity provenance",
+    "pair": "donor ISO3 + recipient ISO3 + DAC sector + observation period"
+  },
+  "required_evidence_fields": [
+    "source_id",
+    "raw_file",
+    "source_url",
+    "retrieved_at",
+    "observation_period",
+    "edition",
+    "unit_of_analysis",
+    "sector_scope",
+    "assessment_type",
+    "missing_reason"
+  ],
+  "missing_reasons": [
+    "not_collected",
+    "not_reported",
+    "not_applicable",
+    "too_old",
+    "insufficient_evidence",
+    "incomparable_scale"
+  ],
+  "financial_rules": [
+    "Keep transaction types 2 commitment, 3 disbursement, 4 expenditure separate",
+    "Keep currency and value-date; no mixed-currency sum",
+    "Use transaction-level country/sector where present; otherwise declared activity allocations",
+    "Do not divide equally when published shares are missing; mark unallocated",
+    "Do not sum IATI, CRS and Lowy as independent money",
+    "IATI identifier count is activity count, not necessarily unique development project count",
+    "Resolve parent-child and cofunding overlaps before portfolio totals"
+  ],
+  "map_states": [
+    "country_role_rating_prototype",
+    "pair_process_evidence",
+    "sector_performance_evidence",
+    "full_chemistry_not_yet_available",
+    "no_observed_relationship_in_subset",
+    "relationship_observed_but_insufficient_evidence"
+  ],
+  "colors": {
+    "country": "separate donor/recipient legend; no grade for missing",
+    "chemistry": "shared fixed scale only for comparable observed scores; red/blue does not encode missing",
+    "missing": "hatched/light grey with reason; allow click for available records",
+    "uncertainty": "separate opacity/icon with explicit legend"
+  },
+  "role_selection": "Either donor-first or recipient-first; a country may have both roles; multilaterals in separate entity layer",
+  "publication_policy": "Do not show experimental grades as externally validated rankings; predictions require separate validation and visual label"
+}

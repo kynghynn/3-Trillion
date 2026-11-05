@@ -1,0 +1,23 @@
+raw/
+research/raw/
+research/expansion/raw/
+__pycache__/
+*.pyc
+.DS_Store
+# Generated local working copies; compressed snapshots are tracked.
+research/processed/countries.json
+research/processed/world_bank_latest.json
+research/processed/gpedc_core_results.json
+research/processed/gpedc_core_results_dp.json
+research/processed/gpedc_core_results_pc_dp.json
+research/processed/gpedc_pc_data.json
+research/processed/gpedc_dp_data.json
+research/processed/gpedc_interpretation_cells.json
+research/expansion/processed/australia_health_rating_observations.json
+research/expansion/processed/demo_project_evidence.json
+research/expansion/processed/ati_2024_agencies.json
+research/expansion/processed/result_observations.json
+research/expansion/processed/coverage_matrix.json
+research/expansion/processed/pair_process_observations.json
+research/expansion/processed/activity-index.json
+research/local-artifact-manifest.json
