@@ -1,0 +1,20 @@
+[
+  {
+    "file": "jica_external_2025.pdf",
+    "url": "https://www.jica.go.jp/english/activities/evaluation/reports/2025/__icsFiles/afieldfile/2026/07/30/A4_Part2_External_Ex-post_Evaluation.pdf",
+    "retrieved_at": "2026-11-05T11:15:41.066865+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 514895,
+    "sha256": "73c97b0b221329ff1a34ee737302fe8fd6be338ab818a3299dde14e66f1c7e80"
+  },
+  {
+    "file": "jica_method_2025.pdf",
+    "url": "https://www.jica.go.jp/english/activities/evaluation/reports/2025/__icsFiles/afieldfile/2026/07/30/A4_Part1_Overview_of_the_Project_Evaluation_System.pdf",
+    "retrieved_at": "2026-11-05T11:15:40.931335+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 227493,
+    "sha256": "e10513fa8747b2a48470b8d016fed694e1febfdfa85cc0776076f4554f866928"
+  }
+]

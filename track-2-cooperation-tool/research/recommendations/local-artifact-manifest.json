@@ -1,0 +1,97 @@
+[
+  {
+    "source_path": "jobs_manifest.json",
+    "bytes": 1664,
+    "sha256": "57a636d3359ee861d20078c40169e34b4627d56590fd6262a15dc136991ddc65"
+  },
+  {
+    "source_path": "jobs.json",
+    "bytes": 773,
+    "sha256": "4304b0a8a184025b5fde146ccca34b3c352ec58236281d3c3ee51a194ac93704"
+  },
+  {
+    "source_path": "추천기능_자료와_설계.txt",
+    "bytes": 7202,
+    "sha256": "7c737f5c7f410c1d10a7e63ced9f5cc50c493a1a66aa7b4eeb01ef93180581f7"
+  },
+  {
+    "source_path": "scripts/fetch.py",
+    "bytes": 839,
+    "sha256": "54a5bcf15bc87c2513543892d0756de12a957ecfb5c100b436709939ca415579"
+  },
+  {
+    "source_path": "scripts/prepare.py",
+    "bytes": 9703,
+    "sha256": "87491e28e34db20c02eb81a4f1779471de96fe8cddc95a09e81aae8459863652"
+  },
+  {
+    "source_path": "processed/recipient_feature_scales.json",
+    "bytes": 1428,
+    "sha256": "05ac0252f34243983142862aada91914133255be2b0add804119943e7aa65f1b"
+  },
+  {
+    "source_path": "processed/recommendation_rules.json",
+    "bytes": 2970,
+    "sha256": "5f382fc66446192d96ac3af8404d59db865ce0725f1af9d69506af4c4f799b72"
+  },
+  {
+    "source_path": "processed/validation_summary.json",
+    "bytes": 446,
+    "sha256": "b39bfbf7c5d2c99d4f7168cf778e4ef88beaf97d64bd602da1b130ac227afe72"
+  },
+  {
+    "source_path": "processed/similarity_pairs.json",
+    "bytes": 847706,
+    "sha256": "eb0fe88f8749cd7abfb4957d99f5ea329781c2aa82cdc1f7cb9fe14d4ca280b5"
+  },
+  {
+    "source_path": "processed/new_world_bank_observations.json",
+    "bytes": 83308,
+    "sha256": "918437e55fb156c6aa3a03b9d6f82732ba5f0dbebcfef4d6768e959b491db708"
+  },
+  {
+    "source_path": "processed/recommendation_previews.json",
+    "bytes": 964839,
+    "sha256": "fa08f3012d4bdcc87d37c6c8652764558c11a8ae85306a85c050b413490e84c2"
+  },
+  {
+    "source_path": "processed/source_registry.json",
+    "bytes": 919,
+    "sha256": "3d7c43cbaf62a6d3e90bc5b970de67ae787c906bd24232fbbf92bbe2227e0285"
+  },
+  {
+    "source_path": "processed/donor_profiles.json",
+    "bytes": 5149,
+    "sha256": "8d01cfa85571bf4e557426d6746090d6bc25c0b1d3a513b050414e09560260cc"
+  },
+  {
+    "source_path": "processed/recipient_profiles.json",
+    "bytes": 60627,
+    "sha256": "68f04d22af8d05f91a66e7a8d1e401f52b255d166080219b6235e2024d22ce16"
+  },
+  {
+    "source_path": "processed/bilateral_sector_experience.json",
+    "bytes": 570468,
+    "sha256": "1297604747d575c44ae0b7570f9d79b06d9b7e4ee06ed2b467eefca287d590ae"
+  },
+  {
+    "source_path": "raw/dac_sector_codes.json",
+    "bytes": 119817,
+    "sha256": "641978353b8378db26b3691f7d7dfc935ab7dc4b24bb254c832a49ba0957a38c"
+  },
+  {
+    "source_path": "raw/wb_EG.ELC.ACCS.ZS.json",
+    "bytes": 26191,
+    "sha256": "6b84c09dc14a0d4650d006fe78a6569b777e632a8b3b7e1d6b9edcd8d3b6e7a1"
+  },
+  {
+    "source_path": "raw/wb_IT.NET.USER.ZS.json",
+    "bytes": 27920,
+    "sha256": "6e0f3e3928a71f8658f548e84ae7f376f3621557051a282233779b2e725c83ea"
+  },
+  {
+    "source_path": "raw/wb_SH.H2O.BASW.ZS.json",
+    "bytes": 31270,
+    "sha256": "1d46dc8c7680ad6fba40fc6e7af7e4c1fbdc77efe9dd71e03554ba995ed07266"
+  }
+]

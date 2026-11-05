@@ -1,0 +1,108 @@
+{
+  "version": "0.1-lightweight",
+  "reference_year": 2023,
+  "scope": {
+    "target_donors": {
+      "Australia": "AUS",
+      "New Zealand": "NZL",
+      "Japan": "JPN",
+      "Korea": "KOR",
+      "United Kingdom": "GBR",
+      "Canada": "CAN",
+      "France": "FRA",
+      "Sweden": "SWE",
+      "Germany": "DEU",
+      "United States": "USA"
+    },
+    "target_recipients": [
+      "PNG",
+      "SLB",
+      "VUT",
+      "FJI",
+      "WSM",
+      "TON",
+      "TLS",
+      "VNM",
+      "KHM",
+      "LAO",
+      "IDN",
+      "PHL",
+      "BGD",
+      "NPL",
+      "PAK",
+      "LKA",
+      "KEN",
+      "TZA",
+      "UGA",
+      "RWA",
+      "GHA",
+      "SEN",
+      "ETH",
+      "MMR"
+    ],
+    "eventual_scope": "open ended all observed countries; same country may be donor and recipient; multilaterals typed separately",
+    "collected_activity_count": 6371,
+    "activity_donor_counts": {
+      "FRA": 752,
+      "AUS": 872,
+      "GBR": 1058,
+      "CAN": 811,
+      "JPN": 225,
+      "NZL": 1168,
+      "SWE": 143,
+      "KOR": 1342
+    },
+    "pair_round_rows": 765,
+    "observed_pairs": 210,
+    "full_chemistry_scores": 0
+  },
+  "panels": {
+    "all": [
+      "gni",
+      "rural",
+      "population",
+      "electricity"
+    ],
+    "health": [
+      "gni",
+      "rural",
+      "population",
+      "electricity",
+      "uhc",
+      "child_mortality"
+    ],
+    "water": [
+      "gni",
+      "rural",
+      "population",
+      "electricity",
+      "water"
+    ],
+    "digital": [
+      "gni",
+      "rural",
+      "population",
+      "electricity",
+      "internet"
+    ]
+  },
+  "recipient_formula": "100*(1-weighted mean absolute difference of frozen normalized features)",
+  "weights": "general panel equal 0.25; sector panels general context 0.5 plus sector needs 0.5",
+  "donor_formula": "100-mean absolute difference of four 0..100 GPEDC donor practice dimensions",
+  "candidate_rule": "fix first selected country; exclude second selected country; require observed sector exposure in collected subset for suggestions; show additional profile matches separately if needed",
+  "missing": "complete selected panel required; no mean imputation or missing as zero",
+  "ranking_tie": "ISO3 stable tie-break, not substantive preference",
+  "predicted_chemistry": {
+    "enabled": false,
+    "reason": "no validated outcome training labels; schema reserves nullable field"
+  },
+  "limits": [
+    "donor practice similarity is not sector specialisation",
+    "higher activity counts show experience, not success",
+    "national averages omit island and subnational logistics",
+    "no fixed PNG recommendation or donor nationality preference",
+    "2023 is common comparison year, not current state",
+    "health combines health/population/reproductive-health DAC codes; digital telecom exposure does not imply all digital capability",
+    "recommendation direction controls candidate entity; observed chemistry itself is not reversed or recalculated"
+  ]
+}

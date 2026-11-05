@@ -1,0 +1,197 @@
+[
+  {
+    "iso3": "AUS",
+    "dimensions": {
+      "ownership": 40.61545953154564,
+      "predictability": 74.0273067727685,
+      "inclusion": 77.7777761220932,
+      "accountability": 91.66666567325592
+    },
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2024-01 to 2024-12"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "CAN",
+    "dimensions": {
+      "ownership": 27.54703424870968,
+      "predictability": 67.2733741812408,
+      "inclusion": 76.1904776096344,
+      "accountability": 46.03174701333046
+    },
+    "observed_periods": [
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12",
+      "to"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "FRA",
+    "dimensions": {
+      "ownership": 58.019497990608215,
+      "predictability": 74.732377496548,
+      "inclusion": 52.60416865348816,
+      "accountability": 68.75
+    },
+    "observed_periods": [
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2024-01 to 2024-12",
+      "to"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "DEU",
+    "dimensions": {
+      "ownership": 57.89024233818054,
+      "predictability": 66.84918229657342,
+      "inclusion": 23.284313455224037,
+      "accountability": 49.63149167597294
+    },
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-04 to 2024-03",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "to"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "JPN",
+    "dimensions": {
+      "ownership": 58.7842658162117,
+      "predictability": 77.50736193186185,
+      "inclusion": 25.35714227706194,
+      "accountability": 94.51940059661865
+    },
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-04 to 2024-03",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12",
+      "to"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "KOR",
+    "dimensions": {
+      "ownership": 40.737348794937134,
+      "predictability": 50.413193326676264,
+      "inclusion": 34.82142873108387,
+      "accountability": 84.43223536014557
+    },
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "NZL",
+    "dimensions": {
+      "ownership": 78.54523658752441,
+      "predictability": 88.87404426932335,
+      "inclusion": 27.7777761220932,
+      "accountability": 91.66666567325592
+    },
+    "observed_periods": [
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2024-01 to 2024-12",
+      "to"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "SWE",
+    "dimensions": {
+      "ownership": 48.10099899768829,
+      "predictability": 58.178891986608505,
+      "inclusion": 64.84375,
+      "accountability": 92.1527773141861
+    },
+    "observed_periods": [
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-07 to 2024-06",
+      "2024-01 to 2024-12"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "GBR",
+    "dimensions": {
+      "ownership": 40.18620103597641,
+      "predictability": 70.09193292469718,
+      "inclusion": 44.16666924953461,
+      "accountability": 56.4583346247673
+    },
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-07 to 2024-06",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  },
+  {
+    "iso3": "USA",
+    "dimensions": {
+      "ownership": 34.43196788430214,
+      "predictability": 72.3755999468267,
+      "inclusion": 67.06349551677704,
+      "accountability": 75.29762089252472
+    },
+    "observed_periods": [
+      "2021-07 to 2022-06",
+      "2022-01 to 2022-12",
+      "2022-07 to 2023-06",
+      "2023-01 to 2023-12",
+      "2023-04 to 2024-03",
+      "2023-09 to 2024-08",
+      "2024-01 to 2024-12",
+      "to"
+    ],
+    "source": "GPEDC 2026 donor Core Results DP",
+    "national_practice_not_sector_skill": true
+  }
+]

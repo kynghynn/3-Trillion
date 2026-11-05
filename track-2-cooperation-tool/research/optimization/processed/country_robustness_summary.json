@@ -1,0 +1,32 @@
+{
+  "recipient": {
+    "n_total": 44,
+    "complete_published": 43,
+    "complete_without_hidden_missing": 4,
+    "hidden_missing_countries": 40,
+    "median_same_grade_fraction": 0.6947,
+    "countries_grade_stability_below_80pct": 35,
+    "weight_rank_correlation_p05_p95": [
+      0.9794623980670492,
+      0.9971383267894894
+    ],
+    "arithmetic_geometric_rank_rho": 0.8246292633658454,
+    "arithmetic_geometric_grade_changes": 32,
+    "pca_first_component_explained": 0.5266592236089422
+  },
+  "donor": {
+    "n_total": 38,
+    "complete_published": 29,
+    "complete_without_hidden_missing": 29,
+    "hidden_missing_countries": 0,
+    "median_same_grade_fraction": 0.9198,
+    "countries_grade_stability_below_80pct": 12,
+    "weight_rank_correlation_p05_p95": [
+      0.9389162561576353,
+      0.9857142857142855
+    ],
+    "arithmetic_geometric_rank_rho": 0.9527093596059112,
+    "arithmetic_geometric_grade_changes": 9,
+    "pca_first_component_explained": 0.3564645066400321
+  }
+}

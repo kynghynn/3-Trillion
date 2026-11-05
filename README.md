@@ -6,7 +6,7 @@ Team 3-Trillion research project for International Political Economy of Developm
 
 ## 주요 작업물
 
-- [트랙2 도구 설계·지표·자료 준비](track-2-cooperation-tool/): 국가 협력관행 등급과 분야별 케미 연구, 다국가 데이터 및 시연 설계.
+- [트랙2 도구 설계·지표·자료 준비](track-2-cooperation-tool/): 국가 협력관행 등급과 분야별 케미 연구, 자료 보완·통계 점검·양방향 추천 데이터 준비.
 - [팀 홈페이지 전체 소스](site/): 2026년 10월 21일 제작한 Project · People · Contact, 한국어/영어 전환.
 - [마누스주 필수의약품 공급망 사업기획서](track-1-aid-project/docs/project-proposal.md): 2026년 10월 20일 작성한 공개자료 조사 및 실행설계 초안.
 - [3주차 개인 아이디어](docs/ideas/week-03/): 초기 구상 기록을 보존합니다.

@@ -1,0 +1,146 @@
+[
+  {
+    "path": "raw/adb_png_2025.pdf",
+    "bytes": 350396,
+    "sha256": "dc25570c5cc9bd0e6e48564123f0aeb93779c73e988992777fc8e27ccbc7945f",
+    "format_signature": "%PDF-"
+  },
+  {
+    "path": "raw/ieg_metadata.json",
+    "bytes": 9048,
+    "sha256": "257c95bdd6e996bc1232415ddb79efeaf66ed3c79ccfa85408fc4a1e56c97118",
+    "format_signature": "{\r\n  "
+  },
+  {
+    "path": "raw/ieg_page.html",
+    "bytes": 72954,
+    "sha256": "a5a1bd3c86838cf2d93831a837320bdb63cdea08c1e9a9a9b4336f7cc0bd7a20",
+    "format_signature": "<!DOC"
+  },
+  {
+    "path": "raw/ieg_ratings.json",
+    "bytes": 8994071,
+    "sha256": "fdc2b66b9735e88b41cd0f79b9537024c7071b8c11169e30e6b628e749b93743",
+    "format_signature": "[{\"as"
+  },
+  {
+    "path": "raw/jica_external_2025.pdf",
+    "bytes": 514895,
+    "sha256": "73c97b0b221329ff1a34ee737302fe8fd6be338ab818a3299dde14e66f1c7e80",
+    "format_signature": "%PDF-"
+  },
+  {
+    "path": "raw/jica_method_2025.pdf",
+    "bytes": 227493,
+    "sha256": "e10513fa8747b2a48470b8d016fed694e1febfdfa85cc0776076f4554f866928",
+    "format_signature": "%PDF-"
+  },
+  {
+    "path": "raw/png_nhp_1b.pdf",
+    "bytes": 44855764,
+    "sha256": "b783b1dc69451464ad0301cc5428465626adbe565d6dd46a5049772a5183d00a",
+    "format_signature": "%PDF-"
+  },
+  {
+    "path": "raw/png_spar_2023.pdf",
+    "bytes": 12757660,
+    "sha256": "7d28b1a0afee2d3f6ea97a271b43fa12155424d3b9d5d332327e88424b3fbe5b",
+    "format_signature": "%PDF-"
+  },
+  {
+    "path": "raw/wb_js_0.js",
+    "bytes": 163392,
+    "sha256": "e47e02afcedb2223fc1d4a87c5dccc4543274b3fd2589697321642928096e350",
+    "format_signature": "(()=>"
+  },
+  {
+    "path": "raw/wb_js_1.js",
+    "bytes": 229713,
+    "sha256": "084d3f72c775b721533fcb0795b8348477123cd51951473e67c44b56faade762",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_10.js",
+    "bytes": 4274,
+    "sha256": "820e9366988fcbe2c859a6fc85bbcc5ab29d40fd216676ca620fa60372a29096",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_11.js",
+    "bytes": 217,
+    "sha256": "3e405b4094076f4666ec3f82c481a7d4086f7d8bad77db353b4be4efb7cef843",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_12.js",
+    "bytes": 35775,
+    "sha256": "1357c6173df7ebce3255283ef6e1b0318647f631be82ca158c87552e4fc5c02d",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_13.js",
+    "bytes": 152872,
+    "sha256": "ecff19648886b617606e27b271bcd97525081239e7dad39619f8a712c0b143b8",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_14.js",
+    "bytes": 112594,
+    "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
+    "format_signature": "!func"
+  },
+  {
+    "path": "raw/wb_js_15.js",
+    "bytes": 39610,
+    "sha256": "9fa3b10ac9c055630fe53e7807598bc63b6e32556587c3eabf7646a333175ac0",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_2.js",
+    "bytes": 10030,
+    "sha256": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551",
+    "format_signature": "(()=>"
+  },
+  {
+    "path": "raw/wb_js_3.js",
+    "bytes": 14529,
+    "sha256": "7a90a75ba9109ddff631c928f47e245fe9665f703eb244e107effe63d0fb31b6",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_4.js",
+    "bytes": 51034,
+    "sha256": "9d7e62341225a390eedaca21f446ddebb857dff8f41cba7995e2a7d4e0723610",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_5.js",
+    "bytes": 1813740,
+    "sha256": "ca00e63ddb262b32406ffe1f8cca3ab2a01d2590f726b508370552ed82471442",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_6.js",
+    "bytes": 3346079,
+    "sha256": "e5f94d83e13e147155091cc30d0b284399bf162d8f5ce8913d7081a4f25ca409",
+    "format_signature": "(()=>"
+  },
+  {
+    "path": "raw/wb_js_7.js",
+    "bytes": 129955,
+    "sha256": "16175f040ee9acfa29d04981947637cff7bc815f87fe4d154f6b6b780525e1ff",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_8.js",
+    "bytes": 720,
+    "sha256": "aeefecf58a79be8b5d48a5b2ef556a0f61e36ae09c29a74ba432e3198c750619",
+    "format_signature": "(glob"
+  },
+  {
+    "path": "raw/wb_js_9.js",
+    "bytes": 2302044,
+    "sha256": "5d1c3ad7b4af274c2b0dfda4c19d9b6d094618aadcf8b251bf918ced692ce303",
+    "format_signature": "(glob"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "role": "recipient",
+    "n_countries": 4,
+    "masked_cases": 16,
+    "method": "leave-one-country-out pillar median, one pillar masked at a time",
+    "mae_score": 4.058554256334901,
+    "p95_absolute_error": 7.1875,
+    "grade_change_fraction": 0.5,
+    "decision": "diagnostic only; do not deploy imputation; real missingness may be nonrandom"
+  },
+  {
+    "role": "donor",
+    "n_countries": 29,
+    "masked_cases": 116,
+    "method": "leave-one-country-out pillar median, one pillar masked at a time",
+    "mae_score": 3.737056381185486,
+    "p95_absolute_error": 9.449832350946963,
+    "grade_change_fraction": 0.4051724137931034,
+    "decision": "diagnostic only; do not deploy imputation; real missingness may be nonrandom"
+  }
+]

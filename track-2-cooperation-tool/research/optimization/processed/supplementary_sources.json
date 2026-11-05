@@ -1,0 +1,75 @@
+[
+  {
+    "id": "PNG-SPAR-2023",
+    "source": "https://www.health.gov.pg/pdf/SPAR_2023.pdf",
+    "local": "raw/png_spar_2023.pdf",
+    "pages": [
+      20,
+      69,
+      70
+    ],
+    "decision": "adopt sector context and needs; never fill national GPEDC or bilateral outcomes",
+    "finding": "정부 보건부문 실측·행정자료. 보건 파트너 조정 회의와 의약품 공급 지표를 제공하나 자료 누락과 지표 정의를 확인해야 한다.",
+    "reference_year": 2023
+  },
+  {
+    "id": "WB-IEG-2026",
+    "source": "https://financesone.worldbank.org/d/DS00053",
+    "local": "raw/ieg_ratings.json",
+    "decision": "adopt as multilateral project evidence and independent outcome reference; not bilateral proxy",
+    "finding": "12,646개 평가행, 12,645개 사업. 확보 파일 기준일은 2026-11-03; 웹 검색 캐시의 이전 행수와 구분. 보건사업 최근 종료 표본 158개·79개국."
+  },
+  {
+    "id": "JICA-2025",
+    "source": "https://www.jica.go.jp/english/activities/evaluation/reports/2025/index.html",
+    "local": "raw/jica_external_2025.pdf",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "decision": "adopt original rating scales with evaluation cluster IDs; no universal min-max conversion",
+    "finding": "평가번호와 사업번호가 다르며 묶음 평가가 존재한다. 총괄 A–D와 항목 1–4, NA를 구분한다. 표의 항목 순서는 정합성·효과성·지속성·효율성."
+  },
+  {
+    "id": "ADB-PNG-2025",
+    "source": "https://www.adb.org/documents/papua-new-guinea-rural-primary-health-services-delivery-project",
+    "local": "raw/adb_png_2025.pdf",
+    "pages": [
+      11,
+      12,
+      13
+    ],
+    "decision": "adopt independently validated project and partner-specific narrative; do not assign ADB judgement to Australia",
+    "finding": "종합 성공에도 효과성은 미흡으로 재평가되었다. ADB와 공동재원자의 수행평가가 다르며 지속성은 전망 평가다."
+  },
+  {
+    "id": "PATH-2024",
+    "source": "https://www.dfat.gov.au/sites/default/files/png-australia-transition-healthmid-term-review-2023-final-report.pdf",
+    "local": null,
+    "access": "web fulltext read; PDF and same-source DOCX downloads failed",
+    "pages": [
+      7,
+      11,
+      56,
+      59,
+      60,
+      95
+    ],
+    "decision": "use qualitative evidence with explicit source and page; not independent extra project for each nested component",
+    "finding": "정책 정합성에 비해 이행·전환의 진척은 제약을 받는다. AIHSS를 포함한 프로그램 구조이므로 부모 프로그램과 하위사업을 이중 집계하지 않는다."
+  },
+  {
+    "id": "GPEDC-COVERAGE",
+    "source": "https://www.effectivecooperation.org/monitoring-dashboard",
+    "decision": "latest national missing data not filled by sector-only reports",
+    "finding": "현재 공개 최신 라운드 44개 수원국. PNG의 목록 등재만으로 최신 결과가 있다고 판단하지 않는다. 확보 파일과 추가 검색에서 PNG 최신 비교가능 결과를 확보하지 못했다."
+  },
+  {
+    "id": "OECD-JRC",
+    "source": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf",
+    "local": "../track2_research_20261104/raw/oecd_composite.pdf",
+    "decision": "apply missingness, weighting, aggregation and uncertainty diagnostics",
+    "finding": "불확실성·민감도 검사를 설계 선택에 적용했다. 현재 자료만으로 보편적 최적 가중치를 식별했다고 주장하지 않는다."
+  }
+]

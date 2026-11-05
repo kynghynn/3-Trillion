@@ -39,3 +39,12 @@
 기관 간 평가척도 연결, 케미 4영역 코딩·타당화, 전 세계 금액 총계, 추천 알고리즘 검증은 남아 있습니다. 원자료나 평가 결측을 0점으로 대체하지 않습니다. 새로운 웹사이트 구현은 아직 포함하지 않습니다.
 
 이 작업은 저장소 소유자의 지시에 따라 다른 팀원의 사전 승인 없이 main에 직접 기록합니다. 기존 CONTRIBUTING.md의 일반 검토 규칙을 영구 변경하는 작업은 아닙니다.
+
+## 2026-11-05 추가 작업
+
+- [지표 v0.3: 자료 보완·통계 점검·등급 안정성](docs/indicator-optimization.md)
+- [양방향 추천 자료와 경량 설계](docs/recommendation-design.md)
+- [최신 계산 규칙](research/optimization/processed/methodology_v03.json)
+- [추천 규칙](research/recommendations/processed/recommendation_rules.json)
+
+2023년 공통 비교자료로 수원국 24개·공여국 10개 프로필을 준비했습니다. 추천은 첫 선택 국가를 고정하고 두 번째 선택 국가와 유사한 후보를 찾습니다. 미래 케미 추정값은 비워 두었습니다. 국가등급은 원자료 하위결측과 가중치 변화의 불확실성을 함께 제공합니다.

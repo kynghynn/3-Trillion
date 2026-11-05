@@ -1,0 +1,81 @@
+[
+  {
+    "provider": "JICA",
+    "recipient": "LAO",
+    "evaluation_number": 15,
+    "project_number": 22,
+    "title": "Project for the Improvement of Setthathirath Hospital and Champasak Provincial Hospital",
+    "edition": 2025,
+    "source": "raw/jica_external_2025.pdf",
+    "pdf_page": 2,
+    "ratings": {
+      "relevance_coherence": 3,
+      "effectiveness_impact": 3,
+      "sustainability": 2,
+      "efficiency": 2,
+      "overall": "B"
+    },
+    "scale": "JICA 1-4, overall A-D",
+    "chemistry": null
+  },
+  {
+    "provider": "JICA",
+    "recipient": "PNG",
+    "evaluation_number": 23,
+    "project_number": 38,
+    "title": "COVID-19 Crisis Response Emergency Support Loan",
+    "edition": 2025,
+    "source": "raw/jica_external_2025.pdf",
+    "pdf_page": 2,
+    "ratings": {
+      "relevance_coherence": 3,
+      "effectiveness_impact": 2,
+      "sustainability": null,
+      "efficiency": null,
+      "overall": null
+    },
+    "missing_reason": "NA published, not zero",
+    "chemistry": null
+  },
+  {
+    "provider": "JICA",
+    "recipient": "SLB",
+    "evaluation_number": 24,
+    "project_number": 39,
+    "title": "The Project for Upgrading of Kukum Highway",
+    "edition": 2025,
+    "source": "raw/jica_external_2025.pdf",
+    "pdf_page": 2,
+    "ratings": {
+      "relevance_coherence": 3,
+      "effectiveness_impact": 2,
+      "sustainability": 3,
+      "efficiency": 2,
+      "overall": "C"
+    },
+    "sector": "transport",
+    "chemistry": null
+  },
+  {
+    "provider": "ADB",
+    "recipient": "PNG",
+    "title": "Rural Primary Health Services Delivery Project",
+    "edition": 2025,
+    "source": "raw/adb_png_2025.pdf",
+    "pdf_pages": [
+      11,
+      12,
+      13
+    ],
+    "ratings": {
+      "completion_effectiveness": "Effective",
+      "independent_effectiveness": "Less than effective",
+      "independent_overall": "Successful",
+      "sustainability": "Likely sustainable",
+      "bank_performance": "Less than satisfactory",
+      "cofinanciers_performance": "Satisfactory"
+    },
+    "sustainability_type": "preliminary likelihood, not measured long-term persistence",
+    "chemistry": null
+  }
+]

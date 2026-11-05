@@ -1,0 +1,20 @@
+{
+  "new_observations": 340,
+  "recipient_profiles": 24,
+  "donor_profiles": 10,
+  "pair_sector_records": 960,
+  "similarity_rows": 2298,
+  "recommendation_contexts": 960,
+  "nonempty_contexts": 840,
+  "feature_coverage_2023": {
+    "gni": 24,
+    "rural": 24,
+    "population": 24,
+    "electricity": 24,
+    "uhc": 24,
+    "child_mortality": 24,
+    "water": 24,
+    "internet": 19
+  },
+  "role_exclusion_and_null_prediction_checks": "passed"
+}

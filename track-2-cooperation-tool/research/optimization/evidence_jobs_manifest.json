@@ -1,0 +1,32 @@
+[
+  {
+    "file": "path_2024.pdf",
+    "url": "https://www.dfat.gov.au/sites/default/files/png-australia-transition-healthmid-term-review-2023-final-report.pdf",
+    "retrieved_at": "2026-11-05T11:12:56.961756+00:00",
+    "ok": false,
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  },
+  {
+    "file": "path_2024.docx",
+    "url": "https://www.dfat.gov.au/sites/default/files/png-australia-transition-healthmid-term-review-2023-final-report.docx",
+    "retrieved_at": "2026-11-05T11:12:56.980163+00:00",
+    "ok": false,
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  },
+  {
+    "file": "supply_2013.docx",
+    "url": "https://www.dfat.gov.au/sites/default/files/png-burnet-institute-medical-supply-evaluation.docx",
+    "retrieved_at": "2026-11-05T11:12:56.963409+00:00",
+    "ok": false,
+    "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)\n"
+  },
+  {
+    "file": "adb_png_2025.pdf",
+    "url": "https://www.adb.org/sites/default/files/Evaluation%20Document/1087451/files/PVR%20PNG_L2785%208274%20and%20G0259%20Rural%20Primary%20Health%20Services%20Delivery%20Project_0.pdf",
+    "retrieved_at": "2026-11-05T11:12:57.117619+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 350396,
+    "sha256": "dc25570c5cc9bd0e6e48564123f0aeb93779c73e988992777fc8e27ccbc7945f"
+  }
+]

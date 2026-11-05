@@ -1,0 +1,21 @@
+{
+  "world_bank": {
+    "documentation": "https://datahelpdesk.worldbank.org/knowledgebase/articles/889392",
+    "download_manifest": "jobs_manifest.json",
+    "existing_input": "../track2_research_20261104/processed/world_bank_observations.json",
+    "license": "World Bank indicator-specific terms; electricity CC BY 4.0 per official page"
+  },
+  "sectors": {
+    "official": "https://iatistandard.org/en/iati-standard/203/codelists/sector/",
+    "mirror": "https://codelists.codeforiati.org/api/json/en/Sector.json"
+  },
+  "gpedc": {
+    "existing_input": "../track2_research_20261104/expansion/processed/country_ratings.json",
+    "use": "donor cooperation practice similarity"
+  },
+  "iati": {
+    "existing_input": "../track2_research_20261104/expansion/processed/activities.json",
+    "publisher_urls": "../track2_research_20261104/expansion/jobs2_manifest.json",
+    "scope": "selected agencies and files"
+  }
+}

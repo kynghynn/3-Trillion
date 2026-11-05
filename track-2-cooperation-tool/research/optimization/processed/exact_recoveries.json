@@ -1,0 +1,9 @@
+[
+  {
+    "country": "Ireland",
+    "indicator": "D2_4_1_1",
+    "raw_value": 1.0000000309664756,
+    "value": 1,
+    "method": "floating-point tolerance 1e-6; boundary clipping only"
+  }
+]

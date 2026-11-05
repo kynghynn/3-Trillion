@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+processed/*_text.txt
+processed/similarity_pairs.json
+processed/new_world_bank_observations.json
+processed/recommendation_previews.json
+processed/recipient_profiles.json
+processed/bilateral_sector_experience.json

@@ -1,0 +1,43 @@
+{
+  "version": "0.3-research-audited",
+  "country": {
+    "central_formula": "100 * sum_k (0.25 * dimension_k)",
+    "weights": "retain equal pillar weights; normative, not statistically optimal",
+    "normalization": "source bounds, no sample min-max; D2_6_1 /5",
+    "numerical_tolerance": 1e-06,
+    "missing": "no cross-construct point imputation; compute lower/upper bounds assuming unknown normalized inputs in [0,1]",
+    "grades": "12 bands retained provisionally; show grade range and weight stability; do not imply meaningful distinction between unstable adjacent grades",
+    "weight_sensitivity": "10000 bounded Dirichlet scenarios, seed 20261105, each pillar 0.15–0.35",
+    "uncertainty_label": "weight scenarios and missingness bounds; neither is a sampling confidence interval",
+    "recipient_audit_scope": "three composites D1_1_comp,D4_1_comp,D3_1_1; flags require raw skip-logic review, not proof of bad official data"
+  },
+  "chemistry": {
+    "construct": "observed sector-specific cooperation experience; not causal synergy or success probability",
+    "profile": [
+      "priority fit",
+      "joint implementation",
+      "outcomes",
+      "sustainability"
+    ],
+    "aggregate_status": "withheld until harmonization and complete comparable evidence",
+    "candidate_weights": [
+      0.3,
+      0.3,
+      0.25,
+      0.15
+    ],
+    "alternative_weights": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "weights_status": "not optimized; no adequate common target available",
+    "unit": "independent intervention/evaluation cluster, not IATI activity count or annual observation",
+    "provider_identity": "retain bilateral/multilateral and cofinancing roles",
+    "missing": "partial bounds and evidence profile, never replace missing persistence with readiness",
+    "small_samples": "show n and interval; remove former n>=3 as a sufficiency claim; rank only after uncertainty and comparability assessment",
+    "binomial_interval": "Wilson 95%, descriptive assumption-based reference; cannot correct nonrandom evaluation selection",
+    "prediction": "not estimated; future model needs donor/recipient/sector/year baselines, intervention clustering and temporal plus partner-held-out validation"
+  }
+}

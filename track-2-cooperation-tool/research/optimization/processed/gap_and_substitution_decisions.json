@@ -1,0 +1,60 @@
+[
+  {
+    "gap": "latest GPEDC national results for PNG and other nonparticipants",
+    "searched": [
+      "GPEDC current dashboard",
+      "current global database",
+      "PNG government sector report",
+      "WHO policy evidence"
+    ],
+    "substitute": "sector context only",
+    "fill_national_score": false,
+    "reason": "population, sector and measured construct differ"
+  },
+  {
+    "gap": "hidden missing components in GPEDC recipient composites",
+    "searched": [
+      "original Core Results subcomponents",
+      "Results interpretation definitions",
+      "PC raw questions"
+    ],
+    "substitute": "bounded partial identification; published values retained separately",
+    "fill_national_score": false,
+    "reason": "unobserved is not confirmed absence; raw-question recoding needs explicit skip-logic validation"
+  },
+  {
+    "gap": "Ireland annual predictability marginally above one",
+    "substitute": "same-source numerical boundary correction within 1e-6",
+    "fill_national_score": true,
+    "reason": "1.0000000309664756 is floating-point precision, not substantively out of range"
+  },
+  {
+    "gap": "independent evaluations beyond Australia/Korea",
+    "substitute": "World Bank IEG JSON, JICA annual external evaluation and ADB independent validation",
+    "fill_bilateral_score": false,
+    "reason": "new genuine observations with original provider identity; no cross-donor substitution"
+  },
+  {
+    "gap": "DFAT downloadable PDF access",
+    "searched": [
+      "official PDF",
+      "official DOCX",
+      "web-readable PDF"
+    ],
+    "substitute": "page-identified concise evidence records",
+    "fill_numeric_score": false,
+    "reason": "same source, alternative access; no missing long-term results invented"
+  },
+  {
+    "gap": "actual post-completion persistence",
+    "substitute": "separate sustainability readiness/risk field",
+    "fill_persistence": false,
+    "reason": "forecast and realized persistence have different meaning"
+  },
+  {
+    "gap": "causal donor-recipient interaction / successful transfer to Manus",
+    "substitute": "historical evidence profile and needs analysis",
+    "fill_prediction": false,
+    "reason": "no adequate counterfactual design or validated out-of-time prediction"
+  }
+]

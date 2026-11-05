@@ -1,0 +1,100 @@
+[
+  {
+    "role": "recipient",
+    "indicator": "D2_1_1",
+    "n": 44,
+    "missing": 1,
+    "zero": 0
+  },
+  {
+    "role": "recipient",
+    "indicator": "D1_1_comp",
+    "n": 44,
+    "missing": 1,
+    "zero": 0
+  },
+  {
+    "role": "recipient",
+    "indicator": "D4_1_comp",
+    "n": 44,
+    "missing": 1,
+    "zero": 4
+  },
+  {
+    "role": "recipient",
+    "indicator": "D2_6_1",
+    "n": 44,
+    "missing": 0,
+    "zero": 14
+  },
+  {
+    "role": "recipient",
+    "indicator": "D2_7_1",
+    "n": 44,
+    "missing": 0,
+    "zero": 10
+  },
+  {
+    "role": "recipient",
+    "indicator": "D3_1_1",
+    "n": 44,
+    "missing": 1,
+    "zero": 3
+  },
+  {
+    "role": "donor",
+    "indicator": "D2_2_1",
+    "n": 38,
+    "missing": 5,
+    "zero": 0
+  },
+  {
+    "role": "donor",
+    "indicator": "D2_3_3",
+    "n": 38,
+    "missing": 3,
+    "zero": 2
+  },
+  {
+    "role": "donor",
+    "indicator": "D2_4_1_1",
+    "n": 38,
+    "missing": 3,
+    "zero": 0
+  },
+  {
+    "role": "donor",
+    "indicator": "D2_4_1_2",
+    "n": 38,
+    "missing": 3,
+    "zero": 8
+  },
+  {
+    "role": "donor",
+    "indicator": "D1_1_4",
+    "n": 38,
+    "missing": 2,
+    "zero": 0
+  },
+  {
+    "role": "donor",
+    "indicator": "D4_1_4",
+    "n": 38,
+    "missing": 2,
+    "zero": 11
+  },
+  {
+    "role": "donor",
+    "indicator": "D2_7_2",
+    "n": 38,
+    "missing": 0,
+    "zero": 3
+  },
+  {
+    "role": "donor",
+    "indicator": "D3_2_2",
+    "n": 38,
+    "missing": 2,
+    "zero": 7
+  }
+]

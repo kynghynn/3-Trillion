@@ -1,0 +1,146 @@
+[
+  {
+    "file": "wb_js_0.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/2w3ah094ujq9t.js",
+    "retrieved_at": "2026-11-05T11:12:39.879264+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 163392,
+    "sha256": "e47e02afcedb2223fc1d4a87c5dccc4543274b3fd2589697321642928096e350"
+  },
+  {
+    "file": "wb_js_1.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/0rofkssqlipik.js",
+    "retrieved_at": "2026-11-05T11:12:39.881806+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 229713,
+    "sha256": "084d3f72c775b721533fcb0795b8348477123cd51951473e67c44b56faade762"
+  },
+  {
+    "file": "wb_js_2.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+    "retrieved_at": "2026-11-05T11:12:39.857282+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 10030,
+    "sha256": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551"
+  },
+  {
+    "file": "wb_js_3.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/1_7t2xiv6jcih.js",
+    "retrieved_at": "2026-11-05T11:12:39.862072+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 14529,
+    "sha256": "7a90a75ba9109ddff631c928f47e245fe9665f703eb244e107effe63d0fb31b6"
+  },
+  {
+    "file": "wb_js_4.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/3f1bi51s8gj-m.js",
+    "retrieved_at": "2026-11-05T11:12:39.872236+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 51034,
+    "sha256": "9d7e62341225a390eedaca21f446ddebb857dff8f41cba7995e2a7d4e0723610"
+  },
+  {
+    "file": "wb_js_5.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/115h0b4fwyxh7.js",
+    "retrieved_at": "2026-11-05T11:12:39.965238+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 1813740,
+    "sha256": "ca00e63ddb262b32406ffe1f8cca3ab2a01d2590f726b508370552ed82471442"
+  },
+  {
+    "file": "wb_js_6.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/0hzm_pzv_s6qg.js",
+    "retrieved_at": "2026-11-05T11:12:40.119944+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 3346079,
+    "sha256": "e5f94d83e13e147155091cc30d0b284399bf162d8f5ce8913d7081a4f25ca409"
+  },
+  {
+    "file": "wb_js_7.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/23qi5jylqlf6-.js",
+    "retrieved_at": "2026-11-05T11:12:39.955795+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 129955,
+    "sha256": "16175f040ee9acfa29d04981947637cff7bc815f87fe4d154f6b6b780525e1ff"
+  },
+  {
+    "file": "wb_js_8.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/2ns-55taf5uje.js",
+    "retrieved_at": "2026-11-05T11:12:39.938098+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 720,
+    "sha256": "aeefecf58a79be8b5d48a5b2ef556a0f61e36ae09c29a74ba432e3198c750619"
+  },
+  {
+    "file": "wb_js_9.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/3k1oyaezlirsc.js",
+    "retrieved_at": "2026-11-05T11:12:40.077509+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 2302044,
+    "sha256": "5d1c3ad7b4af274c2b0dfda4c19d9b6d094618aadcf8b251bf918ced692ce303"
+  },
+  {
+    "file": "wb_js_10.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/09vgb5b4ywcj9.js",
+    "retrieved_at": "2026-11-05T11:12:39.961503+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 4274,
+    "sha256": "820e9366988fcbe2c859a6fc85bbcc5ab29d40fd216676ca620fa60372a29096"
+  },
+  {
+    "file": "wb_js_11.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/1vbfplv2xh948.js",
+    "retrieved_at": "2026-11-05T11:12:40.003565+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 217,
+    "sha256": "3e405b4094076f4666ec3f82c481a7d4086f7d8bad77db353b4be4efb7cef843"
+  },
+  {
+    "file": "wb_js_12.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/2896jarwib-ze.js",
+    "retrieved_at": "2026-11-05T11:12:40.039748+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 35775,
+    "sha256": "1357c6173df7ebce3255283ef6e1b0318647f631be82ca158c87552e4fc5c02d"
+  },
+  {
+    "file": "wb_js_13.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/2d-a_9w79dilj.js",
+    "retrieved_at": "2026-11-05T11:12:40.063855+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 152872,
+    "sha256": "ecff19648886b617606e27b271bcd97525081239e7dad39619f8a712c0b143b8"
+  },
+  {
+    "file": "wb_js_14.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/0cz1d0mv5g_q7.js",
+    "retrieved_at": "2026-11-05T11:12:40.060706+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 112594,
+    "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+  },
+  {
+    "file": "wb_js_15.js",
+    "url": "https://financesone.worldbank.org/_next/static/chunks/43ekpqcq3_9x9.js",
+    "retrieved_at": "2026-11-05T11:12:40.086430+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 39610,
+    "sha256": "9fa3b10ac9c055630fe53e7807598bc63b6e32556587c3eabf7646a333175ac0"
+  }
+]

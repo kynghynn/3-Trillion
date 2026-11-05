@@ -1,0 +1,8 @@
+raw/
+__pycache__/
+*.pyc
+processed/*_text.txt
+processed/ieg_latest_projects.json
+processed/png_supply_provincial_panel.json
+processed/country_scores_v03.json
+processed/ieg_health_recent.json

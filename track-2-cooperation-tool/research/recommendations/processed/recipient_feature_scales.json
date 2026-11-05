@@ -1,0 +1,50 @@
+{
+  "gni": {
+    "p10": 6.937314081223682,
+    "p90": 8.478452363099807,
+    "n": 24,
+    "rule": "clip at p10/p90 of frozen 24-recipient demo reference; not refit on selected donor"
+  },
+  "rural": {
+    "p10": 41.8820646602122,
+    "p90": 79.8544651557537,
+    "n": 24,
+    "rule": "clip at p10/p90 of frozen 24-recipient demo reference; not refit on selected donor"
+  },
+  "population": {
+    "p10": 12.677353583669468,
+    "p90": 18.959901327909865,
+    "n": 24,
+    "rule": "clip at p10/p90 of frozen 24-recipient demo reference; not refit on selected donor"
+  },
+  "electricity": {
+    "p10": 51.5,
+    "p90": 100,
+    "n": 24,
+    "rule": "clip at p10/p90 of frozen 24-recipient demo reference; not refit on selected donor"
+  },
+  "uhc": {
+    "p10": 47,
+    "p90": 71,
+    "n": 24,
+    "rule": "clip at p10/p90 of frozen 24-recipient demo reference; not refit on selected donor"
+  },
+  "child_mortality": {
+    "p10": 15.3,
+    "p90": 49.4,
+    "n": 24,
+    "rule": "clip at p10/p90 of frozen 24-recipient demo reference; not refit on selected donor"
+  },
+  "water": {
+    "p10": 60.8290423575481,
+    "p90": 98.6816683567859,
+    "n": 24,
+    "rule": "clip at p10/p90 of frozen 24-recipient demo reference; not refit on selected donor"
+  },
+  "internet": {
+    "p10": 20.33749962,
+    "p90": 74.1160965,
+    "n": 19,
+    "rule": "clip at p10/p90 of frozen 24-recipient demo reference; not refit on selected donor"
+  }
+}

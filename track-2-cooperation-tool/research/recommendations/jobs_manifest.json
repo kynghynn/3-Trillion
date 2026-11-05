@@ -1,0 +1,38 @@
+[
+  {
+    "file": "wb_EG.ELC.ACCS.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/PNG;SLB;VUT;FJI;WSM;TON;TLS;VNM;KHM;LAO;IDN;PHL;BGD;NPL;PAK;LKA;KEN;TZA;UGA;RWA;GHA;SEN;ETH;MMR/indicator/EG.ELC.ACCS.ZS?format=json&date=2020:2024&per_page=10000",
+    "retrieved_at": "2026-11-05T11:32:57.916561+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 26191,
+    "sha256": "6b84c09dc14a0d4650d006fe78a6569b777e632a8b3b7e1d6b9edcd8d3b6e7a1"
+  },
+  {
+    "file": "wb_SH.H2O.BASW.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/PNG;SLB;VUT;FJI;WSM;TON;TLS;VNM;KHM;LAO;IDN;PHL;BGD;NPL;PAK;LKA;KEN;TZA;UGA;RWA;GHA;SEN;ETH;MMR/indicator/SH.H2O.BASW.ZS?format=json&date=2020:2024&per_page=10000",
+    "retrieved_at": "2026-11-05T11:32:57.898323+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 31270,
+    "sha256": "1d46dc8c7680ad6fba40fc6e7af7e4c1fbdc77efe9dd71e03554ba995ed07266"
+  },
+  {
+    "file": "wb_IT.NET.USER.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/PNG;SLB;VUT;FJI;WSM;TON;TLS;VNM;KHM;LAO;IDN;PHL;BGD;NPL;PAK;LKA;KEN;TZA;UGA;RWA;GHA;SEN;ETH;MMR/indicator/IT.NET.USER.ZS?format=json&date=2020:2024&per_page=10000",
+    "retrieved_at": "2026-11-05T11:32:57.901514+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 27920,
+    "sha256": "6e0f3e3928a71f8658f548e84ae7f376f3621557051a282233779b2e725c83ea"
+  },
+  {
+    "file": "dac_sector_codes.json",
+    "url": "https://codelists.codeforiati.org/api/json/en/Sector.json",
+    "retrieved_at": "2026-11-05T11:32:57.900498+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 119817,
+    "sha256": "641978353b8378db26b3691f7d7dfc935ab7dc4b24bb254c832a49ba0957a38c"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  "processed/similarity_pairs.json.gz",
+  "processed/new_world_bank_observations.json.gz",
+  "processed/recommendation_previews.json.gz",
+  "processed/recipient_profiles.json.gz",
+  "processed/bilateral_sector_experience.json.gz"
+]

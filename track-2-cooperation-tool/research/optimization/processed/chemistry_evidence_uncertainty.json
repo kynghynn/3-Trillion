@@ -1,0 +1,226 @@
+[
+  {
+    "donor": "AUS",
+    "recipient": "FJI",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INO403"
+    ],
+    "independence_verified": false,
+    "n": 1,
+    "satisfactory": 1,
+    "share": 1.0,
+    "wilson_95": [
+      0.20654931437723745,
+      1.0
+    ],
+    "interval_width": 0.7934506856227626,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 0
+  },
+  {
+    "donor": "AUS",
+    "recipient": "IDN",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INL548",
+      "AU-5-INN089",
+      "AU-5-INN941"
+    ],
+    "independence_verified": false,
+    "n": 3,
+    "satisfactory": 1,
+    "share": 0.3333333333333333,
+    "wilson_95": [
+      0.06149194472039621,
+      0.7923403991979522
+    ],
+    "interval_width": 0.730848454477556,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 6
+  },
+  {
+    "donor": "AUS",
+    "recipient": "KHM",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INN072"
+    ],
+    "independence_verified": false,
+    "n": 1,
+    "satisfactory": 1,
+    "share": 1.0,
+    "wilson_95": [
+      0.20654931437723745,
+      1.0
+    ],
+    "interval_width": 0.7934506856227626,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 2
+  },
+  {
+    "donor": "AUS",
+    "recipient": "MMR",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INN881",
+      "AU-5-INN889",
+      "AU-5-INN890",
+      "AU-5-INO114"
+    ],
+    "independence_verified": false,
+    "n": 4,
+    "satisfactory": 4,
+    "share": 1.0,
+    "wilson_95": [
+      0.5101091635454027,
+      1.0
+    ],
+    "interval_width": 0.4898908364545973,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 6
+  },
+  {
+    "donor": "AUS",
+    "recipient": "PNG",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INM000",
+      "AU-5-INN030",
+      "AU-5-INN147",
+      "AU-5-INN958",
+      "AU-5-INN959",
+      "AU-5-INO406",
+      "AU-5-INO847"
+    ],
+    "independence_verified": false,
+    "n": 7,
+    "satisfactory": 5,
+    "share": 0.7142857142857143,
+    "wilson_95": [
+      0.35893445183261935,
+      0.9177810759959433
+    ],
+    "interval_width": 0.558846624163324,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 11
+  },
+  {
+    "donor": "AUS",
+    "recipient": "SLB",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INL121"
+    ],
+    "independence_verified": false,
+    "n": 1,
+    "satisfactory": 1,
+    "share": 1.0,
+    "wilson_95": [
+      0.20654931437723745,
+      1.0
+    ],
+    "interval_width": 0.7934506856227626,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 2
+  },
+  {
+    "donor": "AUS",
+    "recipient": "TLS",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INL676",
+      "AU-5-INL910",
+      "AU-5-INO848"
+    ],
+    "independence_verified": false,
+    "n": 3,
+    "satisfactory": 3,
+    "share": 1.0,
+    "wilson_95": [
+      0.4385029682449546,
+      1.0
+    ],
+    "interval_width": 0.5614970317550454,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 4
+  },
+  {
+    "donor": "AUS",
+    "recipient": "TON",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INN472",
+      "AU-5-INN776"
+    ],
+    "independence_verified": false,
+    "n": 2,
+    "satisfactory": 2,
+    "share": 1.0,
+    "wilson_95": [
+      0.34238022750665303,
+      1.0
+    ],
+    "interval_width": 0.6576197724933469,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 3
+  },
+  {
+    "donor": "AUS",
+    "recipient": "VUT",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INN061"
+    ],
+    "independence_verified": false,
+    "n": 1,
+    "satisfactory": 1,
+    "share": 1.0,
+    "wilson_95": [
+      0.20654931437723745,
+      1.0
+    ],
+    "interval_width": 0.7934506856227626,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 2
+  },
+  {
+    "donor": "AUS",
+    "recipient": "WSM",
+    "period_end": "2025-06-30",
+    "candidate_activity_ids": [
+      "AU-5-INN610"
+    ],
+    "independence_verified": false,
+    "n": 1,
+    "satisfactory": 1,
+    "share": 1.0,
+    "wilson_95": [
+      0.20654931437723745,
+      1.0
+    ],
+    "interval_width": 0.7934506856227626,
+    "publication": "show descriptive counts, do not rank when intervals overlap",
+    "interval_assumption": "binomial independent activity outcomes; does not cover selection bias, reporting error or program clustering",
+    "chemistry_score": null,
+    "repeated_observations_removed": 2
+  }
+]

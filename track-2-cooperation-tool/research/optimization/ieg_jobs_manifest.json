@@ -1,0 +1,20 @@
+[
+  {
+    "file": "ieg_ratings.json",
+    "url": "https://financesonefiles.worldbank.org/f-one/DS00053/RS00055/IEG_World_Bank_Project_Performance_Ratings.json",
+    "retrieved_at": "2026-11-05T11:14:16.831914+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 8994071,
+    "sha256": "fdc2b66b9735e88b41cd0f79b9537024c7071b8c11169e30e6b628e749b93743"
+  },
+  {
+    "file": "ieg_metadata.json",
+    "url": "https://datacatalogapi.worldbank.org/dexapps/fone/api/metadata?assetId=DS00053",
+    "retrieved_at": "2026-11-05T11:14:12.112650+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 9048,
+    "sha256": "257c95bdd6e996bc1232415ddb79efeaf66ed3c79ccfa85408fc4a1e56c97118"
+  }
+]
