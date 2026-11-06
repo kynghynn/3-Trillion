@@ -1,0 +1,309 @@
+[
+  {
+    "reporting_org": "GB-CHC-229476",
+    "country": "PK",
+    "sector_scope": "pure_health_activity",
+    "project_count": 1,
+    "project_ids": [
+      "GB-CHC-229476-GUSO-ippf-pakistan"
+    ],
+    "indicator_period_rows": 8,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "KE-NCB-93175",
+    "country": "KE",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "KE-NGCB-93175-C234"
+    ],
+    "indicator_period_rows": 92,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "KE-NCB-93175",
+    "country": "KE",
+    "sector_scope": "pure_health_activity",
+    "project_count": 3,
+    "project_ids": [
+      "KE-NCB-93175-A223",
+      "KE-NCB-93175-C237",
+      "KE-NCB-93175-C246"
+    ],
+    "indicator_period_rows": 123,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "KE-RCO-C1-61",
+    "country": "ZM",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "KE-RCO-C1-61-R222"
+    ],
+    "indicator_period_rows": 26,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41150298",
+    "country": "ET",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 2,
+    "project_ids": [
+      "NL-KVK-41150298-5132",
+      "NL-KVK-41150298-5141"
+    ],
+    "indicator_period_rows": 18,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41150298",
+    "country": "KE",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41150298-5131"
+    ],
+    "indicator_period_rows": 6,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41150298",
+    "country": "TZ",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41150298-5143"
+    ],
+    "indicator_period_rows": 14,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41150298",
+    "country": "UG",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41150298-5133"
+    ],
+    "indicator_period_rows": 10,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "BD",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-RH8020BD"
+    ],
+    "indicator_period_rows": 48,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "BI",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-RH8021BU"
+    ],
+    "indicator_period_rows": 48,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "BJ",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-RH8026BE"
+    ],
+    "indicator_period_rows": 48,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "ET",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-RH8027ET"
+    ],
+    "indicator_period_rows": 47,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "ET",
+    "sector_scope": "pure_health_activity",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-YID7360ET"
+    ],
+    "indicator_period_rows": 1,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "ID",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 4,
+    "project_ids": [
+      "NL-KVK-41193594-GG8020ID",
+      "NL-KVK-41193594-PP7230ID",
+      "NL-KVK-41193594-RH8022ID",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "indicator_period_rows": 98,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "ID",
+    "sector_scope": "pure_health_activity",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-PTY8021ID"
+    ],
+    "indicator_period_rows": 113,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "JO",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-GG8021JD"
+    ],
+    "indicator_period_rows": 12,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "KE",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 2,
+    "project_ids": [
+      "NL-KVK-41193594-RH8023KE",
+      "NL-KVK-41193594-YID7340KE"
+    ],
+    "indicator_period_rows": 96,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "MA",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-RH8029MO"
+    ],
+    "indicator_period_rows": 47,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "MW",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-YID7350MW"
+    ],
+    "indicator_period_rows": 128,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "NL",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-GG8001"
+    ],
+    "indicator_period_rows": 3,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "NP",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-RH8024NP"
+    ],
+    "indicator_period_rows": 47,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "PK",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 2,
+    "project_ids": [
+      "NL-KVK-41193594-PP7235PK",
+      "NL-KVK-41193594-YID7330PK"
+    ],
+    "indicator_period_rows": 61,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "TN",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-RH8029TU"
+    ],
+    "indicator_period_rows": 45,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "UG",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-RH8025UG"
+    ],
+    "indicator_period_rows": 46,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "NL-KVK-41193594",
+    "country": "ZM",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 1,
+    "project_ids": [
+      "NL-KVK-41193594-YID7370ZM"
+    ],
+    "indicator_period_rows": 5,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "UG-NGB-5914-252",
+    "country": "UG",
+    "sector_scope": "mixed_or_other_sector",
+    "project_count": 3,
+    "project_ids": [
+      "UG-NGB-5914-252-M380",
+      "UG-NGB-5914-252-M389",
+      "UG-NGB-5914-252-UG-NGB-5914-252-N426"
+    ],
+    "indicator_period_rows": 140,
+    "public_score_allowed": false
+  },
+  {
+    "reporting_org": "UG-NGB-5914-252",
+    "country": "UG",
+    "sector_scope": "pure_health_activity",
+    "project_count": 1,
+    "project_ids": [
+      "UG-NGB-5914-252-N141"
+    ],
+    "indicator_period_rows": 11,
+    "public_score_allowed": false
+  }
+]

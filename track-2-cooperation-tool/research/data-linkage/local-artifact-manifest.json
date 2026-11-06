@@ -1,0 +1,398 @@
+[
+  {
+    "path": "collection_access_log.json",
+    "bytes": 2052,
+    "sha256": "56076e33de53d3d74062f104ffce723972fc3184ec6cff78a1af720737c01638",
+    "published": true
+  },
+  {
+    "path": "source_download_jobs.json",
+    "bytes": 10942,
+    "sha256": "ac92d82748a5680c8d71b5c14e52ee9c49773c3b46f8d75a1bc814bd61104ff8",
+    "published": true
+  },
+  {
+    "path": "README.txt",
+    "bytes": 12148,
+    "sha256": "d594fbec23332760fde6773c99fd01152f77b82c069ec331729d116442a5f19f",
+    "published": true
+  },
+  {
+    "path": "scripts/build_linkage.py",
+    "bytes": 8649,
+    "sha256": "7e0308d1c654ca6abf5d5eb23a6868d0eb26db2c2a878e3986ce97eda4f8c54f",
+    "published": true
+  },
+  {
+    "path": "scripts/audit_and_package.py",
+    "bytes": 12133,
+    "sha256": "37b5d4c462b2a1103a668f7bb7c2ed77e2fa40cd393ae9177a0f37bcbc63339c",
+    "published": true
+  },
+  {
+    "path": "processed/dimension_matched_measurements.json",
+    "bytes": 52053401,
+    "sha256": "d907952421f3c150ab3b3a5de67d2f775263d4a927ee3e82d5f34f694fbaee0c",
+    "published": true
+  },
+  {
+    "path": "processed/anchor_dependence_audit.json",
+    "bytes": 15602,
+    "sha256": "aa6393a18268056be6b8643d914c5447b357c15b5188806221a19cd5ce04ad92",
+    "published": true
+  },
+  {
+    "path": "processed/projects.json.gz",
+    "bytes": 4346416,
+    "sha256": "793567b6f8f2c0d2df4b0896e46f1c467849706567992370059825a3024b71cd",
+    "published": false
+  },
+  {
+    "path": "processed/dimension_matched_measurements.json.gz",
+    "bytes": 804493,
+    "sha256": "71370606f54376aeb24d6ea757443888cd0ce862d3f67c97763d298980287c4c",
+    "published": false
+  },
+  {
+    "path": "processed/nlmfa_indicator_dictionary.json",
+    "bytes": 125536,
+    "sha256": "e53454d26f1dea0fd875b46fd7df944e679ead5978cb54d5903b1cc0584a92fb",
+    "published": true
+  },
+  {
+    "path": "processed/source_manifest.json",
+    "bytes": 18567,
+    "sha256": "c54416dee2f3ae264a402f49d4eb8837cc9580cf3a2846afa42d52ed8fe7b407",
+    "published": true
+  },
+  {
+    "path": "processed/wb_P160947_iegreview.txt",
+    "bytes": 46933,
+    "sha256": "a2401c962fb7a73e46d22b8792f05740546d9bd9f895baa4c98f872dbfca5290",
+    "published": false
+  },
+  {
+    "path": "processed/objective_observations.json.gz",
+    "bytes": 1962489,
+    "sha256": "201fa15b85ddc445ba07b034f1a4a8978cadf67adb5cfcc1e8ae6c64ad7b7828",
+    "published": false
+  },
+  {
+    "path": "processed/wb_P160947_icr.txt",
+    "bytes": 224430,
+    "sha256": "358f38c0310a9312a48398292205ef406c1b144f5fac88c06f0c1e9e23007753",
+    "published": false
+  },
+  {
+    "path": "processed/wb_png_tb_target_history.json",
+    "bytes": 6994,
+    "sha256": "83549eace24b36b68d8f1ad2c0ad3c1c250b2dd5fda6485d46c6b252945528ca",
+    "published": true
+  },
+  {
+    "path": "processed/objective_observations.json",
+    "bytes": 75981656,
+    "sha256": "c142d330c23605282727469a2dac30bf4a394d97103fe0e6a3a4f96c1d25ed99",
+    "published": true
+  },
+  {
+    "path": "processed/projects.json",
+    "bytes": 97942686,
+    "sha256": "2e9b020487bf6317a1d353d81c8a32f4e77ad2d6cd402474c098f4d1258c235b",
+    "published": true
+  },
+  {
+    "path": "processed/nlmfa_publication_guidelines.txt",
+    "bytes": 154567,
+    "sha256": "5bc89d3267cd6c5af168df3021c184ff8311a74dee04e4c9958758d14fa3192b",
+    "published": false
+  },
+  {
+    "path": "processed/common_indicator_candidates.json",
+    "bytes": 44519,
+    "sha256": "d27064782481464802de23f50caf8e316acf47929bee9b7804adaf20ae294a84",
+    "published": true
+  },
+  {
+    "path": "processed/validation.json",
+    "bytes": 583,
+    "sha256": "1e345490411c9a581aa89f729b53d49ed6661f0c8dac070e88c3c57889c6d814",
+    "published": true
+  },
+  {
+    "path": "processed/structural_candidate_cohorts.json",
+    "bytes": 7493,
+    "sha256": "2f2357fc0cd4fd9d943a519d0b1ad3587e92332971880b5886b4e9805c7dba2c",
+    "published": true
+  },
+  {
+    "path": "processed/netherlands_funding_paths.json",
+    "bytes": 27765,
+    "sha256": "97666097d3b0c3db96d2ccf377fd834a5eab2c4d279397f58414c8a9fa41d775",
+    "published": true
+  },
+  {
+    "path": "processed/data_readiness.json",
+    "bytes": 1203,
+    "sha256": "1a55420eee06f6feff49c704dabee7dea67ba2e30ce75b62aeb546e2b5952167",
+    "published": true
+  },
+  {
+    "path": "processed/explicit_project_links.json",
+    "bytes": 1369357,
+    "sha256": "73d2c0c0ec3de899042c5d2b3167720821e0edb0179cce02d6387bbeff947103",
+    "published": true
+  },
+  {
+    "path": "processed/collection_summary.json",
+    "bytes": 11496,
+    "sha256": "e81fe460c172fc7e413b5a0c70c72e46d2cdabb2f2b70cf4aa70eaae48035e37",
+    "published": true
+  },
+  {
+    "path": "raw/globalfund-png-t-wvi.xml",
+    "bytes": 51916,
+    "sha256": "ebc0396a5ee68b069470fc7378e00116cfe54d66f5ffec0518949b3844aae15e",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-vnm-t-ntp.xml",
+    "bytes": 368045,
+    "sha256": "b22212c1dfc1742ea575e3ea83382c7c9d94dc600f136a0a9ed44f05a2ebbe83",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-bgd-t-brac.xml",
+    "bytes": 246185,
+    "sha256": "04054c66115f001ee216c437e511907f43f7a1ba3615ccc4884112ac51119b40",
+    "published": false
+  },
+  {
+    "path": "raw/nlmfa-20222023.xml",
+    "bytes": 9334235,
+    "sha256": "46112c7749a6f7d03cf17f8796d1e1626cd39292c0e65191b51bed4bf2dffbb1",
+    "published": false
+  },
+  {
+    "path": "raw/rutgers-activities.xml",
+    "bytes": 2980505,
+    "sha256": "15cb68e18e3120a6dbc13ed47f2f8a8e5055722bde9911ffdb8afd1cd01d0020",
+    "published": false
+  },
+  {
+    "path": "raw/wb_P160947_iegreview.pdf",
+    "bytes": 166795,
+    "sha256": "8c637b217f263f95a74bafd81eee48c88687dbe1aa6e0728ff4c71b1daf68d9c",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-ken-t-amref.xml",
+    "bytes": 209261,
+    "sha256": "9422dd79f0dcefcf0bd32468de369b2217e710a5a91e0b250ff70a26090a9d8a",
+    "published": false
+  },
+  {
+    "path": "raw/ippf-activities.xml",
+    "bytes": 2523579,
+    "sha256": "89553d9321886f6985d34a60f77e273dc61e5e9907cd665d3b68817d4fbec9e3",
+    "published": false
+  },
+  {
+    "path": "raw/dance4life-ke.xml",
+    "bytes": 24720,
+    "sha256": "1395ce1dc7ca1e2f13e24e69702474c4957901a1e9e7bccb70999d63b5c2a9dc",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-rwanda.xml",
+    "bytes": 14757220,
+    "sha256": "517736c0450247472e167edad5422c70d2c19c1752b15284900c672b525c9fe4",
+    "published": false
+  },
+  {
+    "path": "raw/wb_P160947_icr.pdf",
+    "bytes": 1926188,
+    "sha256": "6129ca0b6548675b553958f22615512e3faa2235a396c210541d064d6c63cf2c",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-kenya.xml",
+    "bytes": 21464972,
+    "sha256": "3a43bc5aece441f5f40c8bb91851f2043fb46802f21590c3e3f1cb0930444eb9",
+    "published": false
+  },
+  {
+    "path": "raw/amrefhq-activities.xml",
+    "bytes": 94003,
+    "sha256": "704612837b3229922c0b34ef9892911d93d875dce49e36293306c5bde9118c19",
+    "published": false
+  },
+  {
+    "path": "raw/amreftz-activities.xml",
+    "bytes": 27188,
+    "sha256": "d98a7a337c732aa5865821703f6b0a9cd30e960b92e023e684c8fce12a6c2118",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-npl-t-scf.xml",
+    "bytes": 317782,
+    "sha256": "514209b51ed8e58f2489f6094b508faaf28429d894640ccdec84a15ec12d5a85",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-slb-t-mhms.xml",
+    "bytes": 24610,
+    "sha256": "6490de940471a8d3619fed3fa7c4f91ce598358624cc9b8ca9021225513b6152",
+    "published": false
+  },
+  {
+    "path": "raw/nlmfa-20202021.xml",
+    "bytes": 10450487,
+    "sha256": "fa2f268ba5932e892d127c784f236ce6d747dd9284961da36967f541295cb7a7",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-tza-t-mof.xml",
+    "bytes": 241752,
+    "sha256": "f284ec11ea730cfc8142613f6d90885af15a3f15ff34648f6288e6570af8111a",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-nepal.xml",
+    "bytes": 21505019,
+    "sha256": "4bf2d46b47f6915e2e25cced5edefd3a979b190acd03721c47aaa7344feacf89",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-uga-t-mofped.xml",
+    "bytes": 680363,
+    "sha256": "415bf2ce9f5004b3578c2c385d7d08163d7154cc8f0b180698d161f4ed3b5328",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-lao-t-gfmoh.xml",
+    "bytes": 147102,
+    "sha256": "e87eea5575a087cd5f2f8c343a09a62ed9897f1967a1312464dbf41fe275115a",
+    "published": false
+  },
+  {
+    "path": "raw/nlmfa-20242025.xml",
+    "bytes": 8151332,
+    "sha256": "e00aed152a44e9ba916327ed93dfcfd830bb95b3ab0a44fc72432b66d9e7bf62",
+    "published": false
+  },
+  {
+    "path": "raw/amrefkenya-activities.xml",
+    "bytes": 246432,
+    "sha256": "c507f7b62c2414e88d9ee27f09bbc1de3a0d9cb15c8d257851f4cea3267eed65",
+    "published": false
+  },
+  {
+    "path": "raw/nlmfa-20162017.xml",
+    "bytes": 11867595,
+    "sha256": "97783a0c63112219997677f3db06bd0b761553a17ebd3dc1912679e776222ac5",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-uganda.xml",
+    "bytes": 18813668,
+    "sha256": "f447e9599de71e1c3da113d831b91506b358e7f4d368a3c90cc91dfa7d8946dc",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-bangladesh.xml",
+    "bytes": 23604698,
+    "sha256": "c883cffc671b534fb7733d01e9b53915457f3022f542834a43b08ee28904072b",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-png.xml",
+    "bytes": 8612661,
+    "sha256": "bd7aa2ec1d6a90c608f716a0283642880248508545292e586e08e2c97afeaf4e",
+    "published": false
+  },
+  {
+    "path": "raw/cordaid-required.xml",
+    "bytes": 9144054,
+    "sha256": "1ba30bb3f748839dcfac06bd75dce082838c53eb000b364d2ac57d7ffcb25c16",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-pacific.xml",
+    "bytes": 17856623,
+    "sha256": "a62d0849bc2a649fa8249772c7f239276572573488e85130c6425050c70b1f7c",
+    "published": false
+  },
+  {
+    "path": "raw/nlmfa-20182019.xml",
+    "bytes": 13451113,
+    "sha256": "898bb304bb052b1ec1dbd274be9c8d5ecf67781ab7fd35ff9b42fd221ae50661",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-vietnam.xml",
+    "bytes": 14023947,
+    "sha256": "58641af07ac4f0c7b82106c7e07d08803c34a71980581f57b6b4d8a6e5385ce4",
+    "published": false
+  },
+  {
+    "path": "raw/nlmfa_indicator_codes.xlsx",
+    "bytes": 80899,
+    "sha256": "7a2acbc00b9b28f93e438b3efe3d6be21a60b4810228dc0c6625d99590739d7d",
+    "published": false
+  },
+  {
+    "path": "raw/nlmfa_publication_guidelines.pdf",
+    "bytes": 925238,
+    "sha256": "e3511d39c8f2347167798b66febe9e71e546c48282305d03c550a3b870cb900a",
+    "published": false
+  },
+  {
+    "path": "raw/dance4life-et.xml",
+    "bytes": 15593,
+    "sha256": "843573f6249162209a25e64c598ab65f09b962fb7b8a64ed79c2db0b75427889",
+    "published": false
+  },
+  {
+    "path": "raw/unicef-tanzania.xml",
+    "bytes": 18966362,
+    "sha256": "065a2136ea3f7e3226bd4f4e874ddceb0ab46f6b09a2c79800cab8af12d7987f",
+    "published": false
+  },
+  {
+    "path": "raw/amrefnl-activities.xml",
+    "bytes": 1416342,
+    "sha256": "0a266c998defb348b91d2f7605e89400930d5ae39d076f18bc548cca002b6cef",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-rwa-t-moh.xml",
+    "bytes": 91530,
+    "sha256": "369de0cb9b58c779a6ce3b1161f2a5fa02ba89102ea7c1fefd0b8fbb5c8e19ea",
+    "published": false
+  },
+  {
+    "path": "raw/nlmfa-20142015.xml",
+    "bytes": 9326833,
+    "sha256": "71bcdd7eb9a4e828048dbf1f7fbd0ee09906a4f828d6b5f663f52f092b9fee85",
+    "published": false
+  },
+  {
+    "path": "raw/simavi-activities.xml",
+    "bytes": 2254597,
+    "sha256": "47ce5011ad4813c9de44a8b301ae0fc387ed238fe50fa9e67bc552911ec3a507",
+    "published": false
+  },
+  {
+    "path": "raw/amrefug-activities.xml",
+    "bytes": 101714,
+    "sha256": "fad93346fb22485ad17e3962bc72eb95a4332eed8264eb9710d643395f8480fa",
+    "published": false
+  },
+  {
+    "path": "raw/globalfund-khm-t-cenat.xml",
+    "bytes": 65891,
+    "sha256": "680c78b17d2e582b2a4a51a3e82c645e2464f17ef035fd2a04bd848b5c180a17",
+    "published": false
+  }
+]

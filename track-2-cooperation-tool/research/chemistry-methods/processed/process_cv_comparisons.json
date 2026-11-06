@@ -1,0 +1,74 @@
+[
+  {
+    "component": "ownership",
+    "comparison": "hierarchical_bb minus pooled_project_mean",
+    "n_clusters": 213,
+    "mse_difference": -0.029602078283472954,
+    "cluster_bootstrap_95": [
+      -0.05020669450584406,
+      -0.011567864956948946
+    ],
+    "negative_favors_hierarchical": true,
+    "conditional_on_fitted_CV_models": true
+  },
+  {
+    "component": "ownership",
+    "comparison": "hierarchical_bb minus pair_smoothed_project_mean",
+    "n_clusters": 213,
+    "mse_difference": -0.010265804787913061,
+    "cluster_bootstrap_95": [
+      -0.012882113535941413,
+      -0.007275281100907312
+    ],
+    "negative_favors_hierarchical": true,
+    "conditional_on_fitted_CV_models": true
+  },
+  {
+    "component": "results_alignment",
+    "comparison": "hierarchical_bb minus pooled_project_mean",
+    "n_clusters": 197,
+    "mse_difference": -0.06521405500343788,
+    "cluster_bootstrap_95": [
+      -0.08657369859408917,
+      -0.044413967942837106
+    ],
+    "negative_favors_hierarchical": true,
+    "conditional_on_fitted_CV_models": true
+  },
+  {
+    "component": "results_alignment",
+    "comparison": "hierarchical_bb minus pair_smoothed_project_mean",
+    "n_clusters": 197,
+    "mse_difference": 0.0023351832521477703,
+    "cluster_bootstrap_95": [
+      -0.0004035803510628624,
+      0.005227931188752345
+    ],
+    "negative_favors_hierarchical": true,
+    "conditional_on_fitted_CV_models": true
+  },
+  {
+    "component": "government_data",
+    "comparison": "hierarchical_bb minus pooled_project_mean",
+    "n_clusters": 198,
+    "mse_difference": -0.06394839184509594,
+    "cluster_bootstrap_95": [
+      -0.08525329775104902,
+      -0.04391725240644753
+    ],
+    "negative_favors_hierarchical": true,
+    "conditional_on_fitted_CV_models": true
+  },
+  {
+    "component": "government_data",
+    "comparison": "hierarchical_bb minus pair_smoothed_project_mean",
+    "n_clusters": 198,
+    "mse_difference": 0.002331911599490763,
+    "cluster_bootstrap_95": [
+      -0.0004957484883613225,
+      0.005451550402175976
+    ],
+    "negative_favors_hierarchical": true,
+    "conditional_on_fitted_CV_models": true
+  }
+]

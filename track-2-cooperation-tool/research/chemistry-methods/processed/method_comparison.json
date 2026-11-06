@@ -1,0 +1,66 @@
+[
+  {
+    "method": "RCT",
+    "role": "future causal effects",
+    "applicable_now": false,
+    "requires": [
+      "random assignment at appropriate cluster level",
+      "outcome and follow-up measurements",
+      "noncompliance and spillover data"
+    ],
+    "reason": "an evaluation design, not a unit conversion for existing incompatible ratings",
+    "source": "https://www.povertyactionlab.org/resource/introduction-randomized-evaluations"
+  },
+  {
+    "method": "Difference-in-differences",
+    "role": "future causal effects",
+    "applicable_now": false,
+    "requires": [
+      "treated and valid comparison groups",
+      "pre/post common outcomes",
+      "treatment timing",
+      "defensible parallel trends and no anticipation"
+    ],
+    "reason": "current evaluation snapshots and reporting periods are not an untreated outcome panel",
+    "source": "https://arxiv.org/abs/1803.09015"
+  },
+  {
+    "method": "Effect-size meta-analysis",
+    "role": "pool comparable causal effects",
+    "applicable_now": false,
+    "requires": [
+      "same outcome construct",
+      "effect estimate and standard error",
+      "evaluation design and comparison",
+      "treatment context"
+    ],
+    "reason": "standardized effect size does not make all domains interchangeable",
+    "source": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-10"
+  },
+  {
+    "method": "Ordinal multi-facet IRT across agencies",
+    "role": "potential source scale calibration",
+    "applicable_now": false,
+    "requires": [
+      "shared anchor projects or items",
+      "connected agency-item graph",
+      "measurement invariance and source/rater metadata"
+    ],
+    "reason": "agency severity and donor differences cannot be distinguished from existing non-overlapping ratings; priors alone impose identification",
+    "source": "https://arxiv.org/abs/2108.08604"
+  },
+  {
+    "method": "Hierarchical logistic-normal beta-binomial",
+    "role": "planning/results/data process alignment estimation",
+    "applicable_now": "provisional narrow construct",
+    "implemented": true,
+    "source": "https://www.itl.nist.gov/div898/software/dataplot/refman2/auxillar/bbnpdf.htm"
+  },
+  {
+    "method": "Within-agency hierarchical Rasch-style common-item output attainment",
+    "role": "common reference output-target measurement",
+    "applicable_now": "numerical pilot only; rejected for public ranking",
+    "implemented": true,
+    "source": "https://mc-stan.org/docs/stan-users-guide/regression.html"
+  }
+]

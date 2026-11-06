@@ -1,0 +1,224 @@
+[
+  {
+    "file": "amrefhq-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amrefhq-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "amrefkenya-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amrefkenya-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "simavi-activities.xml",
+    "url": "http://iati.simavi.org/iati/IATI-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "cordaid-required.xml",
+    "url": "https://www.cordaid.org/en/wp-content/uploads/2026/09/Cordaid-IATI-Activity-File-2026-09-03.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "nlmfa-20202021.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20202021.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "nlmfa-20222023.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20222023.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "nlmfa-20242025.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20242025.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-png.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Papua_New_Guinea.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-kenya.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Kenya.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-png-t-wvi.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/PNG-T-WVI",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "amreftz-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amreftz-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "amrefug-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amrefug-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "nlmfa-20162017.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20162017.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "nlmfa-20182019.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20182019.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-vietnam.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Vietnam.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-uganda.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Uganda.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-tanzania.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_United_Rep._of_Tanzania.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-bangladesh.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Bangladesh.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-rwanda.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Rwanda.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-nepal.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Nepal.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "unicef-pacific.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Fiji_(Pacific_Islands).xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "rutgers-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/rutgers-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "ippf-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/ippf-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "dance4life-ke.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/dance4life-ke.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "dance4life-et.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/dance4life-et.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-ken-t-amref.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/KEN-T-AMREF",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-uga-t-mofped.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/UGA-T-MoFPED",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-tza-t-mof.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/TZA-T-MOF",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-vnm-t-ntp.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/VNM-T-NTP",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-khm-t-cenat.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/KHM-T-CENAT",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-lao-t-gfmoh.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/LAO-T-GFMOH",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-bgd-t-brac.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/BGD-T-BRAC",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-npl-t-scf.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/NPL-T-SCF",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-rwa-t-moh.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/RWA-T-MOH",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "globalfund-slb-t-mhms.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/SLB-T-MHMS",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "amrefnl-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amrefnl-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  },
+  {
+    "file": "nlmfa-20142015.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20142015.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "all_xml_parse": true,
+  "unique_observation_keys": true,
+  "measurement_count_reconciles": true,
+  "project_foreign_keys": true,
+  "explicit_links_reconciled": true,
+  "raw_sources_manifest_complete": true,
+  "no_subjective_rating_in_scoring": true,
+  "no_new_chemistry_scores": true,
+  "warnings": [
+    "source-reported direction may be unreliable",
+    "same indicator code alone is not equivalence",
+    "country and sex disaggregates must not be added twice",
+    "cofinancing is not independent replication",
+    "year-only actuals are not end-of-programme outcomes"
+  ]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "component": "ownership",
+    "model": "hierarchical_bb",
+    "n": 932,
+    "mean_squared_error": 0.05856451829267825,
+    "mae": 0.11350559635502055
+  },
+  {
+    "component": "ownership",
+    "model": "pair_smoothed_project_mean",
+    "n": 932,
+    "mean_squared_error": 0.06883032308059131,
+    "mae": 0.18910944206008587
+  },
+  {
+    "component": "ownership",
+    "model": "pooled_project_mean",
+    "n": 932,
+    "mean_squared_error": 0.08816659657615121,
+    "mae": 0.17423289080406212
+  },
+  {
+    "component": "results_alignment",
+    "model": "hierarchical_bb",
+    "n": 773,
+    "mean_squared_error": 0.1279065022348215,
+    "mae": 0.2846708855141085
+  },
+  {
+    "component": "results_alignment",
+    "model": "hierarchical_binomial",
+    "n": 773,
+    "mean_squared_error": 0.1384170850554828,
+    "mae": 0.26091474906979406
+  },
+  {
+    "component": "results_alignment",
+    "model": "pair_smoothed_project_mean",
+    "n": 773,
+    "mean_squared_error": 0.12557131898267374,
+    "mae": 0.2857550181052269
+  },
+  {
+    "component": "results_alignment",
+    "model": "pooled_project_mean",
+    "n": 773,
+    "mean_squared_error": 0.1931205572382594,
+    "mae": 0.41376192528571637
+  },
+  {
+    "component": "government_data",
+    "model": "hierarchical_bb",
+    "n": 772,
+    "mean_squared_error": 0.1144233590634826,
+    "mae": 0.26676649460489776
+  },
+  {
+    "component": "government_data",
+    "model": "hierarchical_binomial",
+    "n": 772,
+    "mean_squared_error": 0.12535055870351722,
+    "mae": 0.24281841828736092
+  },
+  {
+    "component": "government_data",
+    "model": "pair_smoothed_project_mean",
+    "n": 772,
+    "mean_squared_error": 0.11209144746399184,
+    "mae": 0.2657918937648887
+  },
+  {
+    "component": "government_data",
+    "model": "pooled_project_mean",
+    "n": 772,
+    "mean_squared_error": 0.17837175090857854,
+    "mae": 0.38926843825383767
+  }
+]

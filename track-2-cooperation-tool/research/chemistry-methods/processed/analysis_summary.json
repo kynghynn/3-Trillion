@@ -1,0 +1,62 @@
+{
+  "process": {
+    "n_projects": 984,
+    "n_pairs": 253,
+    "n_complete_score_pairs": 230,
+    "n_validation_pairs": 213,
+    "validation_design": "5-fold entire-project holdout within pairs with >=2 projects; singleton pairs not validated; no prospective or causal validation",
+    "score_interval": "Bonferroni union bounds of marginal component posteriors conditional on fitted empirical-Bayes hyperparameters; excludes hyperparameter uncertainty, selection bias and reporting errors",
+    "all_optimizers_success": true,
+    "large_point_shifts_over_10": 55
+  },
+  "data": {
+    "process_projects": 984,
+    "providers": 36,
+    "recipients": 43,
+    "pairs": 253,
+    "components_observed": {
+      "ownership": 969,
+      "results_alignment": 807,
+      "government_data": 805
+    },
+    "exact_sector_links": 13,
+    "target_actual_pairs": 363,
+    "eligible_closed_numeric_pairs": 188,
+    "eligible_target_projects": 64,
+    "eligible_target_countries": 14,
+    "gpedc_sector_warning": "sdg_1..8 and sdgL* are geographic dummy fields, not SDG3 or DAC sector; do not use for health tagging",
+    "sdg_3_geography": {
+      "Eastern Asia and South-eastern Asia ": 392
+    }
+  },
+  "target_model_adoption": [
+    {
+      "sector": "health",
+      "model_brier": 0.28479458227696447,
+      "pooled_brier": 0.24420736288504885,
+      "passes_pooled_baseline": false,
+      "public_ranking_enabled": false,
+      "reason": "small sample and no nested predictive gain over pooled baseline"
+    },
+    {
+      "sector": "water",
+      "model_brier": 0.18062169615473295,
+      "pooled_brier": 0.17047459325569228,
+      "passes_pooled_baseline": false,
+      "public_ranking_enabled": false,
+      "reason": "small sample and no nested predictive gain over pooled baseline"
+    },
+    {
+      "sector": "agriculture",
+      "model_brier": 0.258128709176661,
+      "pooled_brier": 0.2487684153790873,
+      "passes_pooled_baseline": false,
+      "public_ranking_enabled": false,
+      "reason": "small sample and no nested predictive gain over pooled baseline"
+    }
+  ],
+  "methodology_derived": true,
+  "scores_are_research_prototypes": true,
+  "new_investigator_ratings": 0,
+  "geographic_dummy_fields_not_used_as_sectors": true
+}

@@ -48,3 +48,14 @@
 - [추천 규칙](research/recommendations/processed/recommendation_rules.json)
 
 2023년 공통 비교자료로 수원국 24개·공여국 10개 프로필을 준비했습니다. 추천은 첫 선택 국가를 고정하고 두 번째 선택 국가와 유사한 후보를 찾습니다. 미래 케미 추정값은 비워 두었습니다. 국가등급은 원자료 하위결측과 가중치 변화의 불확실성을 함께 제공합니다.
+
+## 2026-11-06 추가 작업
+
+- [케미 산식 연구와 실증 검증](docs/chemistry-methods.md): 과정 정합성 모형과 목표·실적 표준화 모형, 교차검증 및 채택·보류 판단.
+- [사업·실적·기관 연결자료 수집 결과](docs/data-linkage.md): IATI 활동 8,077개, 공통 지표 후보 52개 및 PNG 사업 목표 변경 기록.
+- [계산식 명세](research/chemistry-methods/processed/formula_specification.json), [모형 채택 판단](research/chemistry-methods/processed/model_adoption_decisions.json).
+- [자료 준비 상태](research/data-linkage/processed/data_readiness.json), [수집 집계](research/data-linkage/processed/collection_summary.json), [원출처 목록](research/data-linkage/processed/source_manifest.json).
+
+이 절의 검증 결과가 초기 케미 4영역 제안보다 우선합니다. 과정 정합성 값은 전 분야 조사 표본의 연구용 시험값입니다. 목표·실적 모형은 비교 기준보다 나은 검증 성능을 보이지 못해 공개 순위 채택을 보류했습니다. 새 연결자료도 아직 전 세계 분야별 케미 순위를 확정하지 않습니다.
+
+오늘의 패키지는 `research/chemistry-methods/`와 `research/data-linkage/`에 있습니다. 각 폴더에서 `python3 unpack.py`로 큰 JSON을 복원할 수 있습니다. 원본·수업자료 본문은 로컬에 두고 출처·해시·가공 데이터·처리 코드를 기록했습니다. 상세한 재현 조건은 각 PACKAGE-NOTES.txt를 참고하세요.

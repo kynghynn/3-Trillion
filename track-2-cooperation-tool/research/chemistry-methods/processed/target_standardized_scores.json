@@ -1,0 +1,382 @@
+[
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "BGD",
+    "sector": "health",
+    "n_independent_activity_candidates": 2,
+    "n_target_records": 2,
+    "common_basket_indicator_count": 3,
+    "target_attainment_common_basket_score": 66.86971922647173,
+    "conditional_laplace_95": [
+      35.96491881601941,
+      90.0888280139544
+    ],
+    "raw_attainment_share": 0.5,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "KEN",
+    "sector": "health",
+    "n_independent_activity_candidates": 3,
+    "n_target_records": 4,
+    "common_basket_indicator_count": 3,
+    "target_attainment_common_basket_score": 67.60644986597536,
+    "conditional_laplace_95": [
+      37.32093801852804,
+      89.93914940142596
+    ],
+    "raw_attainment_share": 0.75,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "RWA",
+    "sector": "health",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 1,
+    "common_basket_indicator_count": 3,
+    "target_attainment_common_basket_score": 67.89305668532856,
+    "conditional_laplace_95": [
+      36.654317235285944,
+      90.79966232656986
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "SEN",
+    "sector": "health",
+    "n_independent_activity_candidates": 2,
+    "n_target_records": 2,
+    "common_basket_indicator_count": 3,
+    "target_attainment_common_basket_score": 66.57016747429935,
+    "conditional_laplace_95": [
+      35.186940268424685,
+      89.50571522743431
+    ],
+    "raw_attainment_share": 0.5,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "TZA",
+    "sector": "health",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 2,
+    "common_basket_indicator_count": 3,
+    "target_attainment_common_basket_score": 68.41954765305715,
+    "conditional_laplace_95": [
+      37.73636796082839,
+      90.62209262669806
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "BGD",
+    "sector": "water",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 4,
+    "common_basket_indicator_count": 7,
+    "target_attainment_common_basket_score": 73.1413232606186,
+    "conditional_laplace_95": [
+      35.77030120960026,
+      95.5124636609165
+    ],
+    "raw_attainment_share": 0.75,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "ETH",
+    "sector": "water",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 3,
+    "common_basket_indicator_count": 7,
+    "target_attainment_common_basket_score": 78.77122305347623,
+    "conditional_laplace_95": [
+      40.09941851735845,
+      98.18227314286044
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "KHM",
+    "sector": "water",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 3,
+    "common_basket_indicator_count": 7,
+    "target_attainment_common_basket_score": 79.99536542407263,
+    "conditional_laplace_95": [
+      43.68009915382696,
+      98.36464480773489
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "LAO",
+    "sector": "water",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 2,
+    "common_basket_indicator_count": 7,
+    "target_attainment_common_basket_score": 81.18518563753557,
+    "conditional_laplace_95": [
+      45.44678088437262,
+      98.3750198319027
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "MMR",
+    "sector": "water",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 3,
+    "common_basket_indicator_count": 7,
+    "target_attainment_common_basket_score": 59.39683318670711,
+    "conditional_laplace_95": [
+      22.16727670920193,
+      89.40819220753075
+    ],
+    "raw_attainment_share": 0.3333333333333333,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "SEN",
+    "sector": "water",
+    "n_independent_activity_candidates": 2,
+    "n_target_records": 2,
+    "common_basket_indicator_count": 7,
+    "target_attainment_common_basket_score": 77.69141531880275,
+    "conditional_laplace_95": [
+      36.12069350781133,
+      98.2928474358721
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "UGA",
+    "sector": "water",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 4,
+    "common_basket_indicator_count": 7,
+    "target_attainment_common_basket_score": 74.33972598047042,
+    "conditional_laplace_95": [
+      37.78769598698219,
+      95.91376479198958
+    ],
+    "raw_attainment_share": 0.75,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "ETH",
+    "sector": "agriculture",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 2,
+    "common_basket_indicator_count": 4,
+    "target_attainment_common_basket_score": 63.14763099223101,
+    "conditional_laplace_95": [
+      37.71494566847048,
+      84.31105887433759
+    ],
+    "raw_attainment_share": 0.5,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "KHM",
+    "sector": "agriculture",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 3,
+    "common_basket_indicator_count": 4,
+    "target_attainment_common_basket_score": 63.44803342608905,
+    "conditional_laplace_95": [
+      37.924174246250466,
+      84.40776628334658
+    ],
+    "raw_attainment_share": 0.6666666666666666,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "LAO",
+    "sector": "agriculture",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 3,
+    "common_basket_indicator_count": 4,
+    "target_attainment_common_basket_score": 64.73438982289646,
+    "conditional_laplace_95": [
+      39.62111605271366,
+      85.43324286993051
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "MMR",
+    "sector": "agriculture",
+    "n_independent_activity_candidates": 2,
+    "n_target_records": 7,
+    "common_basket_indicator_count": 4,
+    "target_attainment_common_basket_score": 61.63391956401831,
+    "conditional_laplace_95": [
+      37.22486147738173,
+      82.19296457943453
+    ],
+    "raw_attainment_share": 0.42857142857142855,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "SEN",
+    "sector": "agriculture",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 2,
+    "common_basket_indicator_count": 4,
+    "target_attainment_common_basket_score": 64.391432133295,
+    "conditional_laplace_95": [
+      38.79098819504929,
+      85.47150984153686
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "TZA",
+    "sector": "agriculture",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 3,
+    "common_basket_indicator_count": 4,
+    "target_attainment_common_basket_score": 64.93187804742553,
+    "conditional_laplace_95": [
+      39.00808085471413,
+      85.5210308516069
+    ],
+    "raw_attainment_share": 1.0,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  },
+  {
+    "provider": "FRA",
+    "agency": "AFD",
+    "recipient": "VNM",
+    "sector": "agriculture",
+    "n_independent_activity_candidates": 1,
+    "n_target_records": 3,
+    "common_basket_indicator_count": 4,
+    "target_attainment_common_basket_score": 62.240806617445635,
+    "conditional_laplace_95": [
+      37.416745934652305,
+      83.84167452607953
+    ],
+    "raw_attainment_share": 0.3333333333333333,
+    "source_output_type": "IATI type 1 outputs, not impact",
+    "human_rating_used": false,
+    "interpretation": "model-standardized attainment of agency targets for shared output indicators; not bilateral causal chemistry or cross-agency comparable",
+    "status": "research_pilot_not_validated_for_public_ranking",
+    "uncertainty": "conditional on CV-selected penalties and normal approximation; ignores target difficulty gaming, source errors, selection bias and model selection uncertainty"
+  }
+]

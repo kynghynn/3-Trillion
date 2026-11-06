@@ -1,0 +1,31 @@
+{
+  "process": "research-use provisional estimation of planning/results/data alignment only; no full sector or causal success claim",
+  "outcome": [
+    {
+      "sector": "health",
+      "model_brier": 0.28479458227696447,
+      "pooled_brier": 0.24420736288504885,
+      "passes_pooled_baseline": false,
+      "public_ranking_enabled": false,
+      "reason": "small sample and no nested predictive gain over pooled baseline"
+    },
+    {
+      "sector": "water",
+      "model_brier": 0.18062169615473295,
+      "pooled_brier": 0.17047459325569228,
+      "passes_pooled_baseline": false,
+      "public_ranking_enabled": false,
+      "reason": "small sample and no nested predictive gain over pooled baseline"
+    },
+    {
+      "sector": "agriculture",
+      "model_brier": 0.258128709176661,
+      "pooled_brier": 0.2487684153790873,
+      "passes_pooled_baseline": false,
+      "public_ranking_enabled": false,
+      "reason": "small sample and no nested predictive gain over pooled baseline"
+    }
+  ],
+  "human_scoring": "no investigator judgement scores or source ordinal ratings used in fitted models",
+  "universal_source_linking": "not identified without shared projects/items and construct invariance; no global universal score emitted"
+}

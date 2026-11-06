@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-06",
+  "requested_route": "Start with user's Chrome and local computer internet connection",
+  "browser_completed": [
+    "World Bank project P160947 summary and results tables inspected",
+    "World Bank ICR00010 PDF downloaded through Chrome",
+    "World Bank ICRR0024536 PDF downloaded through Chrome",
+    "Netherlands MFA indicator codelist XLSX downloaded through Chrome",
+    "Netherlands MFA IATI publication guidelines PDF downloaded through Chrome",
+    "IATI Datastore advanced search: actual value '*' found 58,318 activities; actual value '*' AND indicator reference code '*' found 24,871",
+    "Amref Netherlands original XML opened and actual project identifiers/sectors verified in Chrome"
+  ],
+  "failures": [
+    {"resource":"World Bank old data catalog link","outcome":"Requested page was not found"},
+    {"resource":"Netherlands MFA connecting-indicators PPTX","outcome":"Chrome ERR_BLOCKED_BY_CLIENT; not saved, not bypassed"},
+    {"resource":"IATI Datastore 24,871 activity XML export","outcome":"After export preparation, Azure blob destination ERR_BLOCKED_BY_CLIENT; not saved; not counted as collected"},
+    {"resource":"IATI Dashboard","outcome":"Automatic security check displayed; no CAPTCHA solved"},
+    {"resource":"large XML rendered in Chrome","outcome":"Native save and subsequent browser operations timed out; later debugger unattached"},
+    {"resource":"chrome://downloads/","outcome":"Browser URL policy rejected internal protocol; no alternate browser surface used to access this page"}
+  ],
+  "fallback": "After browser acquisition and inspection, local-machine curl downloads of public publisher originals listed in the already collected IATI registry snapshot. Escalated network access approved. No remote web-search download proxy, authentication extraction or browser security weakening.",
+  "interpretation": "Browser search result totals are discovery counts, not the final collected sample. Final totals come only from parsed files and hashes in processed/source_manifest.json."
+}

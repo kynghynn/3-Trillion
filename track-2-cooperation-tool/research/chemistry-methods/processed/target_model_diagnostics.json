@@ -1,0 +1,257 @@
+[
+  {
+    "sector": "health",
+    "rows": 11,
+    "countries": [
+      "BGD",
+      "KEN",
+      "RWA",
+      "SEN",
+      "TZA"
+    ],
+    "projects": 9,
+    "common_indicator_units": [
+      "Nombre de bénéficiaires totaux du projet | Nb de pers.",
+      "Nombre de personnes bénéficiant d'une meilleure protection sociale | Nb de pers.",
+      "Nombre de personnes dont l'accès aux services de santé a été amélioré | Nb de pers."
+    ],
+    "connected": true,
+    "optimizer_success": true,
+    "selected_penalty": {
+      "lambda_country_item": 8.0,
+      "lambda_project": 1.0,
+      "brier": 0.2525002251063686,
+      "n_heldout_rows": 11
+    },
+    "validation_type": "LOPO tuning only; not an unbiased nested validation estimate",
+    "penalty_grid": [
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 1.0,
+        "brier": 0.31272172588766106,
+        "n_heldout_rows": 11
+      },
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 4.0,
+        "brier": 0.3280771968542673,
+        "n_heldout_rows": 11
+      },
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 16.0,
+        "brier": 0.3329015972995813,
+        "n_heldout_rows": 11
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 1.0,
+        "brier": 0.26665080392271556,
+        "n_heldout_rows": 11
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 4.0,
+        "brier": 0.27158898048659097,
+        "n_heldout_rows": 11
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 16.0,
+        "brier": 0.27295314711227137,
+        "n_heldout_rows": 11
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 1.0,
+        "brier": 0.2525002251063686,
+        "n_heldout_rows": 11
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 4.0,
+        "brier": 0.2540057090331448,
+        "n_heldout_rows": 11
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 16.0,
+        "brier": 0.2542999018742144,
+        "n_heldout_rows": 11
+      }
+    ]
+  },
+  {
+    "sector": "water",
+    "rows": 21,
+    "countries": [
+      "BGD",
+      "ETH",
+      "KHM",
+      "LAO",
+      "MMR",
+      "SEN",
+      "UGA"
+    ],
+    "projects": 8,
+    "common_indicator_units": [
+      "Capacité de production d'eau potable financée | m3 / jour",
+      "Dont nombre de partenaires financés (donnant lieu à des rétrocessions financières) | Nb partenaires",
+      "Nombre de bénéficiaires totaux du projet | Nb de pers.",
+      "Nombre de partenaires issus de la société civile, formels ou informels, impliqués dans le projet | Nb partenaires",
+      "Nombre de personnes bénéficiant d'un service d'alimentation en eau potable géré en toute sécurité | Nb de pers.",
+      "Nombre de personnes bénéficiant d'un service élémentaire d'alimentation en eau potable | Nb de pers.",
+      "Nombre de personnes bénéficiant d'un service élémentaire d'assainissement | Nb de pers."
+    ],
+    "connected": true,
+    "optimizer_success": true,
+    "selected_penalty": {
+      "lambda_country_item": 0.5,
+      "lambda_project": 1.0,
+      "brier": 0.1639346563388449,
+      "n_heldout_rows": 21
+    },
+    "validation_type": "LOPO tuning only; not an unbiased nested validation estimate",
+    "penalty_grid": [
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 1.0,
+        "brier": 0.1639346563388449,
+        "n_heldout_rows": 21
+      },
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 4.0,
+        "brier": 0.16517087324550805,
+        "n_heldout_rows": 21
+      },
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 16.0,
+        "brier": 0.16565871465858756,
+        "n_heldout_rows": 21
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 1.0,
+        "brier": 0.16786170020979121,
+        "n_heldout_rows": 21
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 4.0,
+        "brier": 0.16820008060932873,
+        "n_heldout_rows": 21
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 16.0,
+        "brier": 0.16831980793919968,
+        "n_heldout_rows": 21
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 1.0,
+        "brier": 0.17025295976252608,
+        "n_heldout_rows": 21
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 4.0,
+        "brier": 0.17042485974419358,
+        "n_heldout_rows": 21
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 16.0,
+        "brier": 0.17042430385964932,
+        "n_heldout_rows": 21
+      }
+    ]
+  },
+  {
+    "sector": "agriculture",
+    "rows": 23,
+    "countries": [
+      "ETH",
+      "KHM",
+      "LAO",
+      "MMR",
+      "SEN",
+      "TZA",
+      "VNM"
+    ],
+    "projects": 8,
+    "common_indicator_units": [
+      "Dont nombre de partenaires financés (donnant lieu à des rétrocessions financières) | Nb partenaires",
+      "Nombre d'exploitations familiales agricoles (EFA) dont les performances économiques ont été améliorées | Nb EFA",
+      "Nombre de bénéficiaires totaux du projet | Nb de pers.",
+      "Nombre de partenaires issus de la société civile, formels ou informels, impliqués dans le projet | Nb partenaires"
+    ],
+    "connected": true,
+    "optimizer_success": true,
+    "selected_penalty": {
+      "lambda_country_item": 8.0,
+      "lambda_project": 1.0,
+      "brier": 0.25048469055871864,
+      "n_heldout_rows": 23
+    },
+    "validation_type": "LOPO tuning only; not an unbiased nested validation estimate",
+    "penalty_grid": [
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 1.0,
+        "brier": 0.2727252197786763,
+        "n_heldout_rows": 23
+      },
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 4.0,
+        "brier": 0.2751127118980512,
+        "n_heldout_rows": 23
+      },
+      {
+        "lambda_country_item": 0.5,
+        "lambda_project": 16.0,
+        "brier": 0.27596262835385466,
+        "n_heldout_rows": 23
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 1.0,
+        "brier": 0.2572408067749955,
+        "n_heldout_rows": 23
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 4.0,
+        "brier": 0.25724237412586803,
+        "n_heldout_rows": 23
+      },
+      {
+        "lambda_country_item": 2.0,
+        "lambda_project": 16.0,
+        "brier": 0.25709119560128435,
+        "n_heldout_rows": 23
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 1.0,
+        "brier": 0.25048469055871864,
+        "n_heldout_rows": 23
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 4.0,
+        "brier": 0.25112576997753705,
+        "n_heldout_rows": 23
+      },
+      {
+        "lambda_country_item": 8.0,
+        "lambda_project": 16.0,
+        "brier": 0.2512746746166488,
+        "n_heldout_rows": 23
+      }
+    ]
+  }
+]

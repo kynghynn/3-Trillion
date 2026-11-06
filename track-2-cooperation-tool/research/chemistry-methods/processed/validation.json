@@ -1,0 +1,12 @@
+{
+  "process_pairs": 253,
+  "complete_process_scores": 230,
+  "target_pilot_scores": 19,
+  "target_public_scores": 0,
+  "probability_and_interval_bounds": "passed",
+  "no_human_rating_inputs": "passed",
+  "binary_beta_binomial_identity": "passed",
+  "quadrature_convergence": "passed",
+  "sector_scope_not_fabricated": "passed",
+  "validation_is_not_external_causal_validation": true
+}

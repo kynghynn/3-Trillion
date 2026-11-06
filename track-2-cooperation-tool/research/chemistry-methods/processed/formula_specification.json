@@ -1,0 +1,66 @@
+{
+  "version": "0.4-methods-research",
+  "subjectivity_policy": {
+    "investigator_score_assignment": false,
+    "institutional_ordinal_ratings_in_fitted_models": false,
+    "raw_self_reports_still_subject_to_bias": true,
+    "indicator_selection_weights_model_assumptions_are_design_choices": true
+  },
+  "process_model": {
+    "scope": "all-sector GPEDC largest-intervention sample; no sector imputation",
+    "components": [
+      "ownership",
+      "results_alignment",
+      "government_data"
+    ],
+    "observations": {
+      "ownership": "k=1/0 explicitly reported objective source, n=1; conflicts/empty remain missing",
+      "results_alignment": "k=B2Q10x1,n=B2Q10",
+      "government_data": "k=B2Q10x2,n=B2Q10"
+    },
+    "theta_prior": "theta[g,j] ~ Normal(m[j], tau[j]^2)",
+    "latent_project_share": "q[p,j] ~ Beta(kappa[j]*sigmoid(theta[g,j]), kappa[j]*(1-sigmoid(theta[g,j])))",
+    "observation": "K[p,j] ~ Binomial(N[p,j],q[p,j]); ownership reduces to Bernoulli",
+    "hyper_estimation": "maximum marginal likelihood, normal Gauss-Hermite quadrature; no manually scored input",
+    "score": "C_process[g] = (100/3) * sum_j E[sigmoid(theta[g,j]) | observations and fitted hyperparameters]",
+    "unobserved_components": "no total; prior-only estimates never promoted to observed scores",
+    "interval": "Bonferroni union bound of marginal posterior intervals conditional on fitted hyperparameters",
+    "weights": "1/3 inherited GPEDC three-component balance; not objectively optimal or learned social values",
+    "not_measured": [
+      "goal achievement",
+      "sustainability",
+      "causal interaction",
+      "future success"
+    ]
+  },
+  "output_model": {
+    "eligibility": "closed single-recipient activities, past observation period, one numeric target and actual, target>0, forecast labels excluded",
+    "binary_measure": "Y[p,j] = 1(actual[p,j] >= target[p,j]); target>=actual is not defined as a causal benefit",
+    "linear_predictor": "logit Pr(Y[p,j]=1) = beta0 + u[recipient,sector] + v[indicator,unit] + a[project]",
+    "priors": "u,v ~ Normal(0,1/lambda); a ~ Normal(0,1/lambda_project)",
+    "common_items": "exact source indicator title and unit shared by >=2 recipient countries within a sector; connected graph required",
+    "standardization": "C_output[g] = (100/J) * sum_j E_posterior E_a [sigmoid(beta0+u[g]+v[j]+a)] over fixed sector-specific common basket",
+    "estimation": "penalized likelihood with project-level nested holdout penalty selection; Laplace approximation for conditional uncertainty",
+    "validation_gate": "all three pilot sectors failed to beat pooled baseline in nested holdout; not recommended for public rank",
+    "remaining_bias": [
+      "endogenous target ambition",
+      "missing baselines",
+      "selected closed projects",
+      "unverified independent project identities",
+      "source reporting errors",
+      "different case mix"
+    ],
+    "cross_agency_equivalence": false
+  },
+  "legacy_four_pillar_formula": {
+    "weights": [
+      0.3,
+      0.3,
+      0.25,
+      0.15
+    ],
+    "status": "not used by automatic prototypes; has no common objective inputs for all four dimensions"
+  },
+  "country_grade_combination": "display separately; GPEDC inputs overlap with country grades, so do not add as independent evidence",
+  "universal_chemistry_score": null
+}

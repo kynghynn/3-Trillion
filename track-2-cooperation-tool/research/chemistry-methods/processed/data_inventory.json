@@ -1,0 +1,20 @@
+{
+  "process_projects": 984,
+  "providers": 36,
+  "recipients": 43,
+  "pairs": 253,
+  "components_observed": {
+    "ownership": 969,
+    "results_alignment": 807,
+    "government_data": 805
+  },
+  "exact_sector_links": 13,
+  "target_actual_pairs": 363,
+  "eligible_closed_numeric_pairs": 188,
+  "eligible_target_projects": 64,
+  "eligible_target_countries": 14,
+  "gpedc_sector_warning": "sdg_1..8 and sdgL* are geographic dummy fields, not SDG3 or DAC sector; do not use for health tagging",
+  "sdg_3_geography": {
+    "Eastern Asia and South-eastern Asia ": 392
+  }
+}

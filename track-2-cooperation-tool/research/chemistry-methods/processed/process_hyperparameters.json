@@ -1,0 +1,71 @@
+{
+  "ownership": {
+    "m": 4.832631637245666,
+    "tau": 3.2572252476095214,
+    "kappa": null,
+    "nll": 237.35575268048416,
+    "optimizer_success": true,
+    "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+    "q": 81,
+    "mode": "bb",
+    "parameter_at_bound": false,
+    "rho_within_project": null,
+    "q121_parameters": {
+      "m": 4.833222172942381,
+      "tau": 3.2572794584469236,
+      "kappa": null,
+      "nll": 237.3550500133266,
+      "optimizer_success": true,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+      "q": 121,
+      "mode": "bb",
+      "parameter_at_bound": false
+    }
+  },
+  "results_alignment": {
+    "m": 0.18462316082612226,
+    "tau": 2.1351049401205,
+    "kappa": 0.7033783073515353,
+    "nll": 1333.8024254074385,
+    "optimizer_success": true,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "q": 81,
+    "mode": "bb",
+    "parameter_at_bound": false,
+    "rho_within_project": 0.5870686480414504,
+    "q121_parameters": {
+      "m": 0.18455649823820697,
+      "tau": 2.134933242519033,
+      "kappa": 0.7033585929345336,
+      "nll": 1333.80306674455,
+      "optimizer_success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "q": 121,
+      "mode": "bb",
+      "parameter_at_bound": false
+    }
+  },
+  "government_data": {
+    "m": -0.4748384511739028,
+    "tau": 2.0066600450143777,
+    "kappa": 0.8633438579688347,
+    "nll": 1342.3047349534363,
+    "optimizer_success": true,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "q": 81,
+    "mode": "bb",
+    "parameter_at_bound": false,
+    "rho_within_project": 0.5366695984336808,
+    "q121_parameters": {
+      "m": -0.4748112469958237,
+      "tau": 2.006671492797495,
+      "kappa": 0.8633500227513716,
+      "nll": 1342.304701570635,
+      "optimizer_success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "q": 121,
+      "mode": "bb",
+      "parameter_at_bound": false
+    }
+  }
+}

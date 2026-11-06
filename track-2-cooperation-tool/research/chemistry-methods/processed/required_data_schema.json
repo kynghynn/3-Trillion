@@ -1,0 +1,42 @@
+{
+  "automatic_process_minimum": [
+    "provider_country",
+    "provider_agency_id",
+    "recipient_iso3",
+    "stable_project_id",
+    "DAC_sector_code",
+    "reporting_period",
+    "objective_source_flags",
+    "total_results_indicators",
+    "country_framework_indicator_count",
+    "government_data_indicator_count",
+    "source_url",
+    "sample_selection_rule"
+  ],
+  "objective_outputs_minimum": [
+    "indicator_definition_id",
+    "unit",
+    "direction",
+    "baseline_value_and_date",
+    "original_target_and_date",
+    "revised_target_and_revision_reason",
+    "actual_value_and_date",
+    "project_closed_date",
+    "cofinancing_roles",
+    "subproject_parent_id",
+    "verification_method"
+  ],
+  "cross_agency_linking": [
+    "common_anchor_project_or_indicator_id",
+    "definition_equivalence_evidence",
+    "source_scale_or_measurement_rule",
+    "connected_linking_graph"
+  ],
+  "causal_extension": [
+    "treatment_assignment_or_timing",
+    "comparable_pre_and_post_outcome_panel",
+    "control_group_definition",
+    "clustering_and_spillovers",
+    "effect_estimate_and_standard_error"
+  ]
+}

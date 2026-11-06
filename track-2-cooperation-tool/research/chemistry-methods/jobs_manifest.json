@@ -1,0 +1,45 @@
+[
+  {
+    "file": "gpedc_method_2025.pdf",
+    "url": "https://www.effectivecooperation.org/sites/default/files/2025-07/Methodological%20Note%20_EN.pdf",
+    "retrieved_at": "2026-11-06T05:21:29.741172+00:00",
+    "ok": false,
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "file": "irt_review.pdf",
+    "url": "https://arxiv.org/pdf/2108.08604",
+    "retrieved_at": "2026-11-06T05:21:29.313407+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 852456,
+    "sha256": "8b8dca3a2cf8abf414fbba9504f54bd9f0d5902f43ed9ee1240c58bba456c8d7"
+  },
+  {
+    "file": "did_paper.pdf",
+    "url": "https://arxiv.org/pdf/1803.09015",
+    "retrieved_at": "2026-11-06T05:21:29.566818+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 828138,
+    "sha256": "88cdd094589af58608a0d6675a00b57f36c8583d5f1e40e892e06a700307867f"
+  },
+  {
+    "file": "stan_regression.html",
+    "url": "https://mc-stan.org/docs/stan-users-guide/regression.html",
+    "retrieved_at": "2026-11-06T05:21:30.345517+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 221909,
+    "sha256": "607b554e0ac5a499f69ac403269e8b90e1a9c9af34d1d0696f6f21c268e4db99"
+  },
+  {
+    "file": "beta_binomial_nist.html",
+    "url": "https://www.itl.nist.gov/div898/software/dataplot/refman2/auxillar/bbnpdf.htm",
+    "retrieved_at": "2026-11-06T05:21:30.136185+00:00",
+    "ok": true,
+    "error": "",
+    "bytes": 20298,
+    "sha256": "5e278ee080a12f27e0cc1689f9bf7acff803a9f606d24b20fc21ce7c5b74623e"
+  }
+]

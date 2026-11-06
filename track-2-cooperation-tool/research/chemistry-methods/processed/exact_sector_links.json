@@ -1,0 +1,107 @@
+[
+  {
+    "project_id": "Korea|Cambodia [KH]|2",
+    "iati_id": "KR-GOV-010-KR-GOV-051-2022010100056",
+    "dac3": [
+      "311"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "Korea|Lao People's Democratic Republic (the) [LA]|3",
+    "iati_id": "KR-GOV-010-KR-GOV-051-2019010100074",
+    "dac3": [
+      "140"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "Korea|Lao People's Democratic Republic (the) [LA]|6",
+    "iati_id": "KR-GOV-010-KR-GOV-051-2020010100023",
+    "dac3": [
+      "430"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "Korea|Philippines (the) [PH]|5",
+    "iati_id": "KR-GOV-010-KR-GOV-051-2022010100065",
+    "dac3": [
+      "210"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "New Zealand|Solomon Islands [SB]|2",
+    "iati_id": "NZ-1-ACT-0103882",
+    "dac3": [
+      "312",
+      "410"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "Australia|Tonga [TO]|5",
+    "iati_id": "AU-5-INO231",
+    "dac3": [
+      "151"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "New Zealand|Tonga [TO]|1",
+    "iati_id": "NZ-1-ACT-0103397",
+    "dac3": [
+      "510"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "New Zealand|Tonga [TO]|2",
+    "iati_id": "NZ-1-ACT-0103028",
+    "dac3": [
+      "151"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "New Zealand|Tonga [TO]|3",
+    "iati_id": "NZ-1-ACT-0102733",
+    "dac3": [
+      "510"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "New Zealand|Tonga [TO]|6",
+    "iati_id": "NZ-1-ACT-0103609",
+    "dac3": [
+      "114"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "Korea|Viet Nam [VN]|3",
+    "iati_id": "KR-GOV-010-KR-GOV-051-2021010100177",
+    "dac3": [
+      "311"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "Korea|Viet Nam [VN]|4",
+    "iati_id": "KR-GOV-010-KR-GOV-051-2021010100035",
+    "dac3": [
+      "430"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  },
+  {
+    "project_id": "Korea|Viet Nam [VN]|5",
+    "iati_id": "KR-GOV-010-KR-GOV-051-2021010100176",
+    "dac3": [
+      "311"
+    ],
+    "match_method": "unique exact normalized title + provider + recipient"
+  }
+]

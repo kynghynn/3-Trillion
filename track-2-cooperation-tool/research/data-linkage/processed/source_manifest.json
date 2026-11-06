@@ -1,0 +1,408 @@
+[
+  {
+    "file": "amrefhq-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amrefhq-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 94003,
+    "sha256": "704612837b3229922c0b34ef9892911d93d875dce49e36293306c5bde9118c19"
+  },
+  {
+    "file": "amrefkenya-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amrefkenya-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 246432,
+    "sha256": "c507f7b62c2414e88d9ee27f09bbc1de3a0d9cb15c8d257851f4cea3267eed65"
+  },
+  {
+    "file": "simavi-activities.xml",
+    "url": "http://iati.simavi.org/iati/IATI-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 2254597,
+    "sha256": "47ce5011ad4813c9de44a8b301ae0fc387ed238fe50fa9e67bc552911ec3a507"
+  },
+  {
+    "file": "cordaid-required.xml",
+    "url": "https://www.cordaid.org/en/wp-content/uploads/2026/09/Cordaid-IATI-Activity-File-2026-09-03.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 9144054,
+    "sha256": "1ba30bb3f748839dcfac06bd75dce082838c53eb000b364d2ac57d7ffcb25c16"
+  },
+  {
+    "file": "nlmfa-20202021.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20202021.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 10450487,
+    "sha256": "fa2f268ba5932e892d127c784f236ce6d747dd9284961da36967f541295cb7a7"
+  },
+  {
+    "file": "nlmfa-20222023.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20222023.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 9334235,
+    "sha256": "46112c7749a6f7d03cf17f8796d1e1626cd39292c0e65191b51bed4bf2dffbb1"
+  },
+  {
+    "file": "nlmfa-20242025.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20242025.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 8151332,
+    "sha256": "e00aed152a44e9ba916327ed93dfcfd830bb95b3ab0a44fc72432b66d9e7bf62"
+  },
+  {
+    "file": "unicef-png.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Papua_New_Guinea.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 8612661,
+    "sha256": "bd7aa2ec1d6a90c608f716a0283642880248508545292e586e08e2c97afeaf4e"
+  },
+  {
+    "file": "unicef-kenya.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Kenya.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 21464972,
+    "sha256": "3a43bc5aece441f5f40c8bb91851f2043fb46802f21590c3e3f1cb0930444eb9"
+  },
+  {
+    "file": "globalfund-png-t-wvi.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/PNG-T-WVI",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 51916,
+    "sha256": "ebc0396a5ee68b069470fc7378e00116cfe54d66f5ffec0518949b3844aae15e"
+  },
+  {
+    "file": "amreftz-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amreftz-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 27188,
+    "sha256": "d98a7a337c732aa5865821703f6b0a9cd30e960b92e023e684c8fce12a6c2118"
+  },
+  {
+    "file": "amrefug-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amrefug-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 101714,
+    "sha256": "fad93346fb22485ad17e3962bc72eb95a4332eed8264eb9710d643395f8480fa"
+  },
+  {
+    "file": "nlmfa-20162017.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20162017.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 11867595,
+    "sha256": "97783a0c63112219997677f3db06bd0b761553a17ebd3dc1912679e776222ac5"
+  },
+  {
+    "file": "nlmfa-20182019.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20182019.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 13451113,
+    "sha256": "898bb304bb052b1ec1dbd274be9c8d5ecf67781ab7fd35ff9b42fd221ae50661"
+  },
+  {
+    "file": "unicef-vietnam.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Vietnam.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 14023947,
+    "sha256": "58641af07ac4f0c7b82106c7e07d08803c34a71980581f57b6b4d8a6e5385ce4"
+  },
+  {
+    "file": "unicef-uganda.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Uganda.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 18813668,
+    "sha256": "f447e9599de71e1c3da113d831b91506b358e7f4d368a3c90cc91dfa7d8946dc"
+  },
+  {
+    "file": "unicef-tanzania.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_United_Rep._of_Tanzania.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 18966362,
+    "sha256": "065a2136ea3f7e3226bd4f4e874ddceb0ab46f6b09a2c79800cab8af12d7987f"
+  },
+  {
+    "file": "unicef-bangladesh.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Bangladesh.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 23604698,
+    "sha256": "c883cffc671b534fb7733d01e9b53915457f3022f542834a43b08ee28904072b"
+  },
+  {
+    "file": "unicef-rwanda.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Rwanda.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 14757220,
+    "sha256": "517736c0450247472e167edad5422c70d2c19c1752b15284900c672b525c9fe4"
+  },
+  {
+    "file": "unicef-nepal.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Nepal.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 21505019,
+    "sha256": "4bf2d46b47f6915e2e25cced5edefd3a979b190acd03721c47aaa7344feacf89"
+  },
+  {
+    "file": "unicef-pacific.xml",
+    "url": "https://open.unicef.org/sites/transparency/files/countrydata/iatiActivity_Fiji_(Pacific_Islands).xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 17856623,
+    "sha256": "a62d0849bc2a649fa8249772c7f239276572573488e85130c6425050c70b1f7c"
+  },
+  {
+    "file": "rutgers-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/rutgers-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 2980505,
+    "sha256": "15cb68e18e3120a6dbc13ed47f2f8a8e5055722bde9911ffdb8afd1cd01d0020"
+  },
+  {
+    "file": "ippf-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/ippf-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 2523579,
+    "sha256": "89553d9321886f6985d34a60f77e273dc61e5e9907cd665d3b68817d4fbec9e3"
+  },
+  {
+    "file": "dance4life-ke.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/dance4life-ke.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 24720,
+    "sha256": "1395ce1dc7ca1e2f13e24e69702474c4957901a1e9e7bccb70999d63b5c2a9dc"
+  },
+  {
+    "file": "dance4life-et.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/dance4life-et.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 15593,
+    "sha256": "843573f6249162209a25e64c598ab65f09b962fb7b8a64ed79c2db0b75427889"
+  },
+  {
+    "file": "globalfund-ken-t-amref.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/KEN-T-AMREF",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 209261,
+    "sha256": "9422dd79f0dcefcf0bd32468de369b2217e710a5a91e0b250ff70a26090a9d8a"
+  },
+  {
+    "file": "globalfund-uga-t-mofped.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/UGA-T-MoFPED",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 680363,
+    "sha256": "415bf2ce9f5004b3578c2c385d7d08163d7154cc8f0b180698d161f4ed3b5328"
+  },
+  {
+    "file": "globalfund-tza-t-mof.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/TZA-T-MOF",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 241752,
+    "sha256": "f284ec11ea730cfc8142613f6d90885af15a3f15ff34648f6288e6570af8111a"
+  },
+  {
+    "file": "globalfund-vnm-t-ntp.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/VNM-T-NTP",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 368045,
+    "sha256": "b22212c1dfc1742ea575e3ea83382c7c9d94dc600f136a0a9ed44f05a2ebbe83"
+  },
+  {
+    "file": "globalfund-khm-t-cenat.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/KHM-T-CENAT",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 65891,
+    "sha256": "680c78b17d2e582b2a4a51a3e82c645e2464f17ef035fd2a04bd848b5c180a17"
+  },
+  {
+    "file": "globalfund-lao-t-gfmoh.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/LAO-T-GFMOH",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 147102,
+    "sha256": "e87eea5575a087cd5f2f8c343a09a62ed9897f1967a1312464dbf41fe275115a"
+  },
+  {
+    "file": "globalfund-bgd-t-brac.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/BGD-T-BRAC",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 246185,
+    "sha256": "04054c66115f001ee216c437e511907f43f7a1ba3615ccc4884112ac51119b40"
+  },
+  {
+    "file": "globalfund-npl-t-scf.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/NPL-T-SCF",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 317782,
+    "sha256": "514209b51ed8e58f2489f6094b508faaf28429d894640ccdec84a15ec12d5a85"
+  },
+  {
+    "file": "globalfund-rwa-t-moh.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/RWA-T-MOH",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 91530,
+    "sha256": "369de0cb9b58c779a6ce3b1161f2a5fa02ba89102ea7c1fefd0b8fbb5c8e19ea"
+  },
+  {
+    "file": "globalfund-slb-t-mhms.xml",
+    "url": "https://data-service.theglobalfund.org/iati/activities-xml/SLB-T-MHMS",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 24610,
+    "sha256": "6490de940471a8d3619fed3fa7c4f91ce598358624cc9b8ca9021225513b6152"
+  },
+  {
+    "file": "amrefnl-activities.xml",
+    "url": "https://aidstream.s3.us-west-2.amazonaws.com/xml/amrefnl-activities.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 1416342,
+    "sha256": "0a266c998defb348b91d2f7605e89400930d5ae39d076f18bc548cca002b6cef"
+  },
+  {
+    "file": "nlmfa-20142015.xml",
+    "url": "https://static.rijksoverheid.nl/bz/IATIACTIVITIES20142015.xml",
+    "method": "local_computer_direct_download_after_browser_discovery",
+    "source_registry": "../track2_research_20261104/expansion/raw/registry_datasets.json",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 9326833,
+    "sha256": "71bcdd7eb9a4e828048dbf1f7fbd0ee09906a4f828d6b5f663f52f092b9fee85"
+  },
+  {
+    "file": "wb_P160947_icr.pdf",
+    "url": "https://documents1.worldbank.org/curated/en/099022825093514594/pdf/BOSIB-d40598d5-542e-4b1e-b8ef-4336b55b9c5d.pdf",
+    "method": "Chrome_browser_download",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 1926188,
+    "sha256": "6129ca0b6548675b553958f22615512e3faa2235a396c210541d064d6c63cf2c"
+  },
+  {
+    "file": "wb_P160947_iegreview.pdf",
+    "url": "https://documents1.worldbank.org/curated/en/099060925144090421/pdf/P160947-9723d848-1c30-4438-b2ee-c2df1a5fae71.pdf",
+    "method": "Chrome_browser_download",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 166795,
+    "sha256": "8c637b217f263f95a74bafd81eee48c88687dbe1aa6e0728ff4c71b1daf68d9c"
+  },
+  {
+    "file": "nlmfa_indicator_codes.xlsx",
+    "url": "https://helpdesk-opendata-minbuza.nl/wp-content/uploads/2023/07/IATI-Indicator-and-disaggregates-reference-code-list-webversion.xlsx",
+    "method": "Chrome_browser_download",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 80899,
+    "sha256": "7a2acbc00b9b28f93e438b3efe3d6be21a60b4810228dc0c6625d99590739d7d"
+  },
+  {
+    "file": "nlmfa_publication_guidelines.pdf",
+    "url": "https://helpdesk-opendata-minbuza.nl/wp-content/uploads/2021/07/how-to-use-the-iati-standard-2.pdf",
+    "method": "Chrome_browser_download",
+    "retrieved_local_date": "2026-11-06",
+    "saved": true,
+    "bytes": 925238,
+    "sha256": "e3511d39c8f2347167798b66febe9e71e546c48282305d03c550a3b870cb900a"
+  }
+]

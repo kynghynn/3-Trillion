@@ -1,0 +1,1675 @@
+[
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "1.1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r0i0p0",
+      "KE-RCO-C1-61-R222::r0i0p1",
+      "KE-RCO-C1-61-R221::r0i0p0",
+      "KE-RCO-C1-61-R221::r0i0p1",
+      "KE-NGCB-93175-C234::r0i0p0",
+      "KE-NGCB-93175-C234::r0i0p1",
+      "KE-NGCB-93175-C234::r0i0p2",
+      "KE-NGCB-93175-C234::r7i0p0",
+      "KE-NGCB-93175-C234::r7i0p1",
+      "KE-NGCB-93175-C234::r7i0p2",
+      "KE-NGCB-93175-C234::r7i0p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i0p2",
+      "UG-NGB-5914-252-M380::r0i0p0",
+      "UG-NGB-5914-252-M380::r0i0p1"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "1.2",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r0i1p0",
+      "KE-RCO-C1-61-R222::r0i1p1",
+      "KE-RCO-C1-61-R222::r0i1p2",
+      "KE-RCO-C1-61-R221::r0i1p0",
+      "KE-RCO-C1-61-R221::r0i1p1",
+      "KE-RCO-C1-61-R221::r0i1p2",
+      "KE-NGCB-93175-C234::r0i1p0",
+      "KE-NGCB-93175-C234::r0i1p1",
+      "KE-NGCB-93175-C234::r0i1p2",
+      "KE-NGCB-93175-C234::r7i1p0",
+      "KE-NGCB-93175-C234::r7i1p1",
+      "KE-NGCB-93175-C234::r7i1p2",
+      "KE-NGCB-93175-C234::r7i1p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i1p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i1p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i1p2",
+      "UG-NGB-5914-252-M380::r0i1p0",
+      "UG-NGB-5914-252-M380::r0i1p1",
+      "UG-NGB-5914-252-M380::r0i1p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "1.3",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r0i2p0",
+      "KE-RCO-C1-61-R222::r0i2p1",
+      "KE-RCO-C1-61-R222::r0i2p2",
+      "KE-RCO-C1-61-R221::r0i2p0",
+      "KE-RCO-C1-61-R221::r0i2p1",
+      "KE-RCO-C1-61-R221::r0i2p2",
+      "KE-NGCB-93175-C234::r0i2p0",
+      "KE-NGCB-93175-C234::r0i2p1",
+      "KE-NGCB-93175-C234::r0i2p2",
+      "KE-NGCB-93175-C234::r7i2p0",
+      "KE-NGCB-93175-C234::r7i2p1",
+      "KE-NGCB-93175-C234::r7i2p2",
+      "KE-NGCB-93175-C234::r7i2p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i2p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i2p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r0i2p2",
+      "UG-NGB-5914-252-M380::r0i2p0",
+      "UG-NGB-5914-252-M380::r0i2p1",
+      "UG-NGB-5914-252-M380::r0i2p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "2.1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r1i0p0",
+      "KE-RCO-C1-61-R222::r1i0p1",
+      "KE-RCO-C1-61-R222::r1i0p2",
+      "KE-RCO-C1-61-R222::r1i0p3",
+      "KE-RCO-C1-61-R222::r1i0p4",
+      "KE-RCO-C1-61-R222::r1i0p5",
+      "KE-RCO-C1-61-R222::r1i0p6",
+      "KE-RCO-C1-61-R222::r1i0p7",
+      "KE-RCO-C1-61-R221::r1i0p5",
+      "KE-RCO-C1-61-R221::r1i0p7",
+      "KE-NGCB-93175-C234::r1i0p0",
+      "KE-NGCB-93175-C234::r1i0p1",
+      "KE-NGCB-93175-C234::r1i0p2",
+      "KE-NGCB-93175-C234::r8i0p0",
+      "KE-NGCB-93175-C234::r8i0p1",
+      "KE-NGCB-93175-C234::r8i0p2",
+      "KE-NGCB-93175-C234::r8i0p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i0p2",
+      "UG-NGB-5914-252-M380::r1i0p0",
+      "UG-NGB-5914-252-M380::r1i0p1"
+    ],
+    "exact_definition_variants": 3,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "2.2",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r1i0p0",
+      "KE-RCO-C1-61-R222::r1i0p1",
+      "KE-RCO-C1-61-R222::r1i0p2",
+      "KE-RCO-C1-61-R222::r1i0p3",
+      "KE-RCO-C1-61-R222::r1i0p4",
+      "KE-RCO-C1-61-R222::r1i0p5",
+      "KE-RCO-C1-61-R222::r1i0p6",
+      "KE-RCO-C1-61-R222::r1i0p7",
+      "KE-RCO-C1-61-R221::r1i0p5",
+      "KE-RCO-C1-61-R221::r1i0p7",
+      "KE-NGCB-93175-C234::r1i1p0",
+      "KE-NGCB-93175-C234::r1i1p1",
+      "KE-NGCB-93175-C234::r1i1p2",
+      "KE-NGCB-93175-C234::r8i1p0",
+      "KE-NGCB-93175-C234::r8i1p1",
+      "KE-NGCB-93175-C234::r8i1p2",
+      "KE-NGCB-93175-C234::r8i1p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i1p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i1p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i1p2",
+      "UG-NGB-5914-252-M380::r1i1p0",
+      "UG-NGB-5914-252-M380::r1i1p1",
+      "UG-NGB-5914-252-M380::r1i1p2"
+    ],
+    "exact_definition_variants": 3,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "2.3",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r1i0p0",
+      "KE-RCO-C1-61-R222::r1i0p1",
+      "KE-RCO-C1-61-R222::r1i0p2",
+      "KE-RCO-C1-61-R222::r1i0p3",
+      "KE-RCO-C1-61-R222::r1i0p4",
+      "KE-RCO-C1-61-R222::r1i0p5",
+      "KE-RCO-C1-61-R222::r1i0p6",
+      "KE-RCO-C1-61-R222::r1i0p7",
+      "KE-RCO-C1-61-R221::r1i0p5",
+      "KE-RCO-C1-61-R221::r1i0p7",
+      "KE-NGCB-93175-C234::r1i2p0",
+      "KE-NGCB-93175-C234::r1i2p1",
+      "KE-NGCB-93175-C234::r1i2p2",
+      "KE-NGCB-93175-C234::r8i2p0",
+      "KE-NGCB-93175-C234::r8i2p1",
+      "KE-NGCB-93175-C234::r8i2p2",
+      "KE-NGCB-93175-C234::r8i2p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i2p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i2p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r1i2p2",
+      "UG-NGB-5914-252-M380::r1i2p0",
+      "UG-NGB-5914-252-M380::r1i2p1",
+      "UG-NGB-5914-252-M380::r1i2p2"
+    ],
+    "exact_definition_variants": 3,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "3.1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r2i0p0",
+      "KE-RCO-C1-61-R222::r2i0p1",
+      "KE-RCO-C1-61-R222::r2i0p2",
+      "KE-RCO-C1-61-R221::r2i0p0",
+      "KE-RCO-C1-61-R221::r2i0p1",
+      "KE-RCO-C1-61-R221::r2i0p2",
+      "KE-NGCB-93175-C234::r2i0p0",
+      "KE-NGCB-93175-C234::r2i0p1",
+      "KE-NGCB-93175-C234::r2i0p2",
+      "KE-NGCB-93175-C234::r9i0p0",
+      "KE-NGCB-93175-C234::r9i0p1",
+      "KE-NGCB-93175-C234::r9i0p2",
+      "KE-NGCB-93175-C234::r9i0p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r2i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r2i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r2i0p2",
+      "UG-NGB-5914-252-M380::r2i0p0",
+      "UG-NGB-5914-252-M380::r2i0p1",
+      "UG-NGB-5914-252-M380::r2i0p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "3.2",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r2i1p0",
+      "KE-RCO-C1-61-R222::r2i1p1",
+      "KE-RCO-C1-61-R222::r2i1p2",
+      "KE-RCO-C1-61-R221::r2i1p0",
+      "KE-RCO-C1-61-R221::r2i1p1",
+      "KE-RCO-C1-61-R221::r2i1p2",
+      "KE-NGCB-93175-C234::r2i1p0",
+      "KE-NGCB-93175-C234::r2i1p1",
+      "KE-NGCB-93175-C234::r2i1p2",
+      "KE-NGCB-93175-C234::r9i1p0",
+      "KE-NGCB-93175-C234::r9i1p1",
+      "KE-NGCB-93175-C234::r9i1p2",
+      "KE-NGCB-93175-C234::r9i1p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r2i1p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r2i1p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r2i1p2",
+      "UG-NGB-5914-252-M380::r2i1p0",
+      "UG-NGB-5914-252-M380::r2i1p1",
+      "UG-NGB-5914-252-M380::r2i1p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "4.1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r3i0p0",
+      "KE-RCO-C1-61-R222::r3i0p1",
+      "KE-RCO-C1-61-R222::r3i0p2",
+      "KE-RCO-C1-61-R221::r3i0p0",
+      "KE-RCO-C1-61-R221::r3i0p1",
+      "KE-RCO-C1-61-R221::r3i0p2",
+      "KE-NGCB-93175-C234::r3i0p0",
+      "KE-NGCB-93175-C234::r3i0p1",
+      "KE-NGCB-93175-C234::r3i0p2",
+      "KE-NGCB-93175-C234::r10i0p0",
+      "KE-NGCB-93175-C234::r10i0p1",
+      "KE-NGCB-93175-C234::r10i0p2",
+      "KE-NGCB-93175-C234::r10i0p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r3i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r3i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r3i0p2",
+      "UG-NGB-5914-252-M380::r3i0p0",
+      "UG-NGB-5914-252-M380::r3i0p1",
+      "UG-NGB-5914-252-M380::r3i0p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "4.2",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r3i1p0",
+      "KE-RCO-C1-61-R222::r3i1p1",
+      "KE-RCO-C1-61-R222::r3i1p2",
+      "KE-RCO-C1-61-R221::r3i1p0",
+      "KE-RCO-C1-61-R221::r3i1p1",
+      "KE-RCO-C1-61-R221::r3i1p2",
+      "KE-NGCB-93175-C234::r3i1p0",
+      "KE-NGCB-93175-C234::r3i1p1",
+      "KE-NGCB-93175-C234::r3i1p2",
+      "KE-NGCB-93175-C234::r10i1p0",
+      "KE-NGCB-93175-C234::r10i1p1",
+      "KE-NGCB-93175-C234::r10i1p2",
+      "KE-NGCB-93175-C234::r10i1p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r3i1p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r3i1p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r3i1p2",
+      "UG-NGB-5914-252-M380::r3i1p0",
+      "UG-NGB-5914-252-M380::r3i1p1",
+      "UG-NGB-5914-252-M380::r3i1p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "5.1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r4i0p0",
+      "KE-RCO-C1-61-R222::r4i0p1",
+      "KE-RCO-C1-61-R222::r4i0p2",
+      "KE-RCO-C1-61-R221::r4i0p0",
+      "KE-RCO-C1-61-R221::r4i0p1",
+      "KE-RCO-C1-61-R221::r4i0p2",
+      "KE-NGCB-93175-C234::r4i0p0",
+      "KE-NGCB-93175-C234::r4i0p1",
+      "KE-NGCB-93175-C234::r4i0p2",
+      "KE-NGCB-93175-C234::r11i0p0",
+      "KE-NGCB-93175-C234::r11i0p1",
+      "KE-NGCB-93175-C234::r11i0p2",
+      "KE-NGCB-93175-C234::r11i0p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r4i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r4i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r4i0p2",
+      "UG-NGB-5914-252-M380::r4i0p0",
+      "UG-NGB-5914-252-M380::r4i0p1",
+      "UG-NGB-5914-252-M380::r4i0p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "6.1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r5i0p0",
+      "KE-RCO-C1-61-R222::r5i0p1",
+      "KE-RCO-C1-61-R222::r5i0p2",
+      "KE-RCO-C1-61-R221::r5i0p0",
+      "KE-RCO-C1-61-R221::r5i0p1",
+      "KE-RCO-C1-61-R221::r5i0p2",
+      "KE-NGCB-93175-C234::r5i0p0",
+      "KE-NGCB-93175-C234::r5i0p1",
+      "KE-NGCB-93175-C234::r5i0p2",
+      "KE-NGCB-93175-C234::r12i0p0",
+      "KE-NGCB-93175-C234::r12i0p1",
+      "KE-NGCB-93175-C234::r12i0p2",
+      "KE-NGCB-93175-C234::r12i0p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r5i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r5i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r5i0p2",
+      "UG-NGB-5914-252-M380::r5i0p0",
+      "UG-NGB-5914-252-M380::r5i0p1",
+      "UG-NGB-5914-252-M380::r5i0p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "6.2",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r5i1p0",
+      "KE-RCO-C1-61-R222::r5i1p1",
+      "KE-RCO-C1-61-R222::r5i1p2",
+      "KE-RCO-C1-61-R221::r5i1p0",
+      "KE-RCO-C1-61-R221::r5i1p1",
+      "KE-RCO-C1-61-R221::r5i1p2",
+      "KE-NGCB-93175-C234::r5i1p0",
+      "KE-NGCB-93175-C234::r5i1p1",
+      "KE-NGCB-93175-C234::r5i1p2",
+      "KE-NGCB-93175-C234::r12i1p0",
+      "KE-NGCB-93175-C234::r12i1p1",
+      "KE-NGCB-93175-C234::r12i1p2",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r5i1p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r5i1p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r5i1p2",
+      "UG-NGB-5914-252-M380::r5i1p0",
+      "UG-NGB-5914-252-M380::r5i1p1",
+      "UG-NGB-5914-252-M380::r5i1p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "7.1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r6i0p0",
+      "KE-RCO-C1-61-R222::r6i0p1",
+      "KE-RCO-C1-61-R221::r6i0p0",
+      "KE-RCO-C1-61-R221::r6i0p1",
+      "KE-NGCB-93175-C234::r6i0p0",
+      "KE-NGCB-93175-C234::r6i0p1",
+      "KE-NGCB-93175-C234::r6i0p2",
+      "KE-NGCB-93175-C234::r13i0p0",
+      "KE-NGCB-93175-C234::r13i0p1",
+      "KE-NGCB-93175-C234::r13i0p2",
+      "KE-NGCB-93175-C234::r13i0p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r6i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r6i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r6i0p2",
+      "UG-NGB-5914-252-M380::r6i0p0",
+      "UG-NGB-5914-252-M380::r6i0p1",
+      "UG-NGB-5914-252-M380::r6i0p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "7.2",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368",
+      "UG-NGB-5914-252"
+    ],
+    "project_ids": [
+      "KE-NGCB-93175-C234",
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368",
+      "UG-NGB-5914-252-M380"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r6i1p0",
+      "KE-RCO-C1-61-R222::r6i1p1",
+      "KE-RCO-C1-61-R222::r6i1p2",
+      "KE-RCO-C1-61-R221::r6i1p0",
+      "KE-RCO-C1-61-R221::r6i1p2",
+      "KE-NGCB-93175-C234::r6i1p0",
+      "KE-NGCB-93175-C234::r6i1p1",
+      "KE-NGCB-93175-C234::r6i1p2",
+      "KE-NGCB-93175-C234::r13i1p0",
+      "KE-NGCB-93175-C234::r13i1p1",
+      "KE-NGCB-93175-C234::r13i1p2",
+      "KE-NGCB-93175-C234::r13i1p3",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r7i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r7i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r7i0p2",
+      "UG-NGB-5914-252-M380::r6i1p0",
+      "UG-NGB-5914-252-M380::r6i1p1"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "7.3",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368"
+    ],
+    "project_ids": [
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r6i2p0",
+      "KE-RCO-C1-61-R221::r6i2p0",
+      "KE-RCO-C1-61-R221::r6i2p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r8i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r8i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r8i0p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "http://www.amref.org/indicators.html/>",
+      "7.4",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-RCO-C1-61",
+      "TZ-BRLA-4368"
+    ],
+    "project_ids": [
+      "KE-RCO-C1-61-R221",
+      "KE-RCO-C1-61-R222",
+      "TZ-BRLA-4368-TZ-BRLA-4368"
+    ],
+    "observation_ids": [
+      "KE-RCO-C1-61-R222::r6i3p0",
+      "KE-RCO-C1-61-R221::r6i3p0",
+      "KE-RCO-C1-61-R221::r6i3p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r9i0p0",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r9i0p1",
+      "TZ-BRLA-4368-TZ-BRLA-4368::r9i0p2"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.2C",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r0i0p0",
+      "NL-KVK-41193594-YID7320ID::r60i0p0",
+      "NL-KVK-41193594-YID7320ID::r90i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "I2",
+      "2",
+      "0"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r1i0p0",
+      "NL-KVK-41193594-YID7320ID::r92i0p0",
+      "NL-KVK-41193594-YID7320ID::r144i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "I3",
+      "2",
+      "0"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r2i0p0",
+      "NL-KVK-41193594-YID7320ID::r0i0p0",
+      "NL-KVK-41193594-YID7320ID::r145i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "I1",
+      "2",
+      "0"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r3i0p0",
+      "NL-KVK-41193594-YID7320ID::r61i0p0",
+      "NL-KVK-41193594-YID7320ID::r91i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "I4",
+      "2",
+      "0"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r4i0p0",
+      "NL-KVK-41193594-YID7320ID::r2i0p0",
+      "NL-KVK-41193594-YID7320ID::r7i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "I5",
+      "2",
+      "0"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r5i0p0",
+      "NL-KVK-41193594-YID7320ID::r8i0p0",
+      "NL-KVK-41193594-YID7320ID::r9i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "I6",
+      "2",
+      "0"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r6i0p0",
+      "KE-NCB-93175-C237::r7i0p0",
+      "NL-KVK-41193594-YID7320ID::r10i0p0",
+      "NL-KVK-41193594-YID7320ID::r11i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "I7",
+      "2",
+      "0"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r8i0p0",
+      "NL-KVK-41193594-YID7320ID::r12i0p0",
+      "NL-KVK-41193594-YID7320ID::r13i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "I8",
+      "2",
+      "0"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r9i0p0",
+      "NL-KVK-41193594-YID7320ID::r14i0p0",
+      "NL-KVK-41193594-YID7320ID::r15i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW1.1A",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r10i0p0",
+      "NL-KVK-41193594-YID7320ID::r17i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW1.1B",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r11i0p0",
+      "NL-KVK-41193594-YID7320ID::r38i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW1.3A",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r12i0p0",
+      "NL-KVK-41193594-YID7320ID::r18i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW1.3B",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r13i0p0",
+      "NL-KVK-41193594-YID7320ID::r19i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.1B",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r14i0p0",
+      "NL-KVK-41193594-YID7320ID::r20i0p0",
+      "NL-KVK-41193594-YID7320ID::r21i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.1C",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r15i0p0",
+      "NL-KVK-41193594-YID7320ID::r22i0p0",
+      "NL-KVK-41193594-YID7320ID::r39i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.2A",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r16i0p0",
+      "NL-KVK-41193594-YID7320ID::r40i0p0",
+      "NL-KVK-41193594-YID7320ID::r52i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.2B",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r17i0p0",
+      "NL-KVK-41193594-YID7320ID::r58i0p0",
+      "NL-KVK-41193594-YID7320ID::r59i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.2D",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r18i0p0",
+      "NL-KVK-41193594-YID7320ID::r104i0p0",
+      "NL-KVK-41193594-YID7320ID::r143i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.2E",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r19i0p0",
+      "NL-KVK-41193594-YID7320ID::r1i0p0",
+      "NL-KVK-41193594-YID7320ID::r3i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.2F",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r20i0p0",
+      "NL-KVK-41193594-YID7320ID::r4i0p0",
+      "NL-KVK-41193594-YID7320ID::r5i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.3A",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r21i0p0",
+      "NL-KVK-41193594-YID7320ID::r23i0p0",
+      "NL-KVK-41193594-YID7320ID::r24i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.3B",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r22i0p0",
+      "NL-KVK-41193594-YID7320ID::r25i0p0",
+      "NL-KVK-41193594-YID7320ID::r26i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.3C",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r23i0p0",
+      "NL-KVK-41193594-YID7320ID::r27i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.4B",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r24i0p0",
+      "NL-KVK-41193594-YID7320ID::r28i0p0",
+      "NL-KVK-41193594-YID7320ID::r29i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.4C",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r25i0p0",
+      "NL-KVK-41193594-YID7320ID::r30i0p0",
+      "NL-KVK-41193594-YID7320ID::r31i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.4D",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r26i0p0",
+      "NL-KVK-41193594-YID7320ID::r32i0p0"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.4E",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r27i0p0",
+      "NL-KVK-41193594-YID7320ID::r33i0p0"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW3.16",
+      "2",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r28i0p0",
+      "NL-KVK-41193594-YID7320ID::r34i0p0",
+      "NL-KVK-41193594-YID7320ID::r35i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "PW5.1A",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r29i0p0",
+      "NL-KVK-41193594-YID7320ID::r36i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://www.kit.nl/project/yes-i-do/",
+      "CC.2",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-C237",
+      "NL-KVK-41193594-YID7320ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-C237::r30i0p0",
+      "NL-KVK-41193594-YID7320ID::r6i0p0"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://amref.org/",
+      "PW1.A1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-A223",
+      "NL-KVK-41193594-PTY8021ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-A223::r0i0p0",
+      "KE-NCB-93175-A223::r0i0p1",
+      "KE-NCB-93175-A223::r0i0p2",
+      "KE-NCB-93175-A223::r0i0p3",
+      "KE-NCB-93175-A223::r0i0p4",
+      "KE-NCB-93175-A223::r1i0p0",
+      "KE-NCB-93175-A223::r1i0p1",
+      "KE-NCB-93175-A223::r1i0p2",
+      "KE-NCB-93175-A223::r1i0p3",
+      "KE-NCB-93175-A223::r1i0p4",
+      "NL-KVK-41193594-PTY8021ID::r0i0p0",
+      "NL-KVK-41193594-PTY8021ID::r0i0p1",
+      "NL-KVK-41193594-PTY8021ID::r0i0p2",
+      "NL-KVK-41193594-PTY8021ID::r0i0p3",
+      "NL-KVK-41193594-PTY8021ID::r0i0p4",
+      "NL-KVK-41193594-PTY8021ID::r0i1p0",
+      "NL-KVK-41193594-PTY8021ID::r0i1p1",
+      "NL-KVK-41193594-PTY8021ID::r0i1p2",
+      "NL-KVK-41193594-PTY8021ID::r0i1p3",
+      "NL-KVK-41193594-PTY8021ID::r0i1p4",
+      "NL-KVK-41193594-PTY8021ID::r0i2p0",
+      "NL-KVK-41193594-PTY8021ID::r0i2p1",
+      "NL-KVK-41193594-PTY8021ID::r0i2p2",
+      "NL-KVK-41193594-PTY8021ID::r0i2p3",
+      "NL-KVK-41193594-PTY8021ID::r0i2p4",
+      "NL-KVK-41193594-PTY8021ID::r0i3p0",
+      "NL-KVK-41193594-PTY8021ID::r0i3p1",
+      "NL-KVK-41193594-PTY8021ID::r0i3p2",
+      "NL-KVK-41193594-PTY8021ID::r0i3p3",
+      "NL-KVK-41193594-PTY8021ID::r0i3p4"
+    ],
+    "exact_definition_variants": 6,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://amref.org/",
+      "PW2.A5",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41150298",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-A223",
+      "NL-KVK-41150298-4400",
+      "NL-KVK-41193594-PTY8021ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-A223::r8i0p0",
+      "KE-NCB-93175-A223::r8i0p1",
+      "KE-NCB-93175-A223::r8i0p3",
+      "KE-NCB-93175-A223::r8i0p4",
+      "NL-KVK-41150298-4400::r0i0p0",
+      "NL-KVK-41150298-4400::r5i0p0",
+      "NL-KVK-41193594-PTY8021ID::r1i12p0",
+      "NL-KVK-41193594-PTY8021ID::r1i12p1",
+      "NL-KVK-41193594-PTY8021ID::r1i12p2",
+      "NL-KVK-41193594-PTY8021ID::r1i12p3",
+      "NL-KVK-41193594-PTY8021ID::r1i12p4"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://amref.org/",
+      "PW3.A1",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41150298",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-A223",
+      "NL-KVK-41150298-4400",
+      "NL-KVK-41193594-PTY8021ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-A223::r10i0p0",
+      "KE-NCB-93175-A223::r10i0p1",
+      "KE-NCB-93175-A223::r10i0p2",
+      "KE-NCB-93175-A223::r10i0p3",
+      "KE-NCB-93175-A223::r10i0p4",
+      "NL-KVK-41150298-4400::r1i0p0",
+      "NL-KVK-41150298-4400::r4i0p0",
+      "NL-KVK-41193594-PTY8021ID::r2i0p0",
+      "NL-KVK-41193594-PTY8021ID::r2i0p1",
+      "NL-KVK-41193594-PTY8021ID::r2i0p2",
+      "NL-KVK-41193594-PTY8021ID::r2i0p3",
+      "NL-KVK-41193594-PTY8021ID::r2i0p4"
+    ],
+    "exact_definition_variants": 2,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://amref.org/",
+      "PW3.A2",
+      "5",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41193594"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-A223",
+      "NL-KVK-41193594-PTY8021ID"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-A223::r11i0p0",
+      "KE-NCB-93175-A223::r11i0p1",
+      "KE-NCB-93175-A223::r11i0p3",
+      "KE-NCB-93175-A223::r11i0p4",
+      "NL-KVK-41193594-PTY8021ID::r2i1p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  },
+  {
+    "key": [
+      "99",
+      "https://helpdesk-opendata-minbuza.nl/indicator-codelist",
+      "SRH016",
+      "1",
+      "1"
+    ],
+    "reporting_orgs": [
+      "KE-NCB-93175",
+      "NL-KVK-41150298"
+    ],
+    "project_ids": [
+      "KE-NCB-93175-A223",
+      "NL-KVK-41150298-4400"
+    ],
+    "observation_ids": [
+      "KE-NCB-93175-A223::r12i0p0",
+      "KE-NCB-93175-A223::r12i0p1",
+      "KE-NCB-93175-A223::r12i0p2",
+      "KE-NCB-93175-A223::r12i0p3",
+      "KE-NCB-93175-A223::r12i0p4",
+      "KE-NCB-93175-A223::r12i0p5",
+      "NL-KVK-41150298-4400::r2i0p0",
+      "NL-KVK-41150298-4400::r3i0p0"
+    ],
+    "exact_definition_variants": 1,
+    "status": "candidate_only_review_scope_units_disaggregation_and_source_dependence",
+    "independent_anchor_established": false
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-11-06",
+  "purpose": "Historical sector-specific cooperation experience; not future prediction or causal effect",
+  "needs": {
+    "stable_project_ids_and_sector_codes": "substantially_acquired; result-to-sector attribution incomplete for mixed-sector activities",
+    "comparable_results": "partially_acquired; definitions, units, periods, revisions still require validation",
+    "cross_organization_links": "explicit funding links and common-indicator candidates acquired; independent measurement bridges not established"
+  },
+  "ready_for": [
+    "source-linked project detail",
+    "activity-sector filtering with code vocabulary preserved",
+    "display of original targets/actuals and quality flags",
+    "narrow common-indicator cohort inspection",
+    "PNG P160947 target revision case study"
+  ],
+  "not_ready_for": [
+    "global calibrated bilateral sector chemistry ranking",
+    "automatic country attribution from NGO registration country",
+    "independent-replicate treatment of consortium reports",
+    "causal added effect or future success probability"
+  ],
+  "new_public_chemistry_scores": 0,
+  "readme": "README.txt",
+  "validation": "processed/validation.json"
+}

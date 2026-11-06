@@ -1,0 +1,414 @@
+[
+  {
+    "sector": "health",
+    "nested_project_holdout": [
+      {
+        "project_id": "FR-3-CBD1036",
+        "y": 1,
+        "probability": 0.6456405363330264,
+        "squared_error": 0.12557062949034517,
+        "pooled_squared_error": 0.10123966942148764
+      },
+      {
+        "project_id": "FR-3-CBD1051",
+        "y": 0,
+        "probability": 0.7949503064809054,
+        "squared_error": 0.6319459897740853,
+        "pooled_squared_error": 0.5971074380165289
+      },
+      {
+        "project_id": "FR-3-CKE1140",
+        "y": 1,
+        "probability": 0.6119896462677225,
+        "squared_error": 0.15055203460344715,
+        "pooled_squared_error": 0.12249999999999998
+      },
+      {
+        "project_id": "FR-3-CKE1140",
+        "y": 1,
+        "probability": 0.6314573240408664,
+        "squared_error": 0.13582370400311894,
+        "pooled_squared_error": 0.12249999999999998
+      },
+      {
+        "project_id": "FR-3-CKE1147",
+        "y": 0,
+        "probability": 0.9201166799984764,
+        "squared_error": 0.8466147048114185,
+        "pooled_squared_error": 0.5971074380165289
+      },
+      {
+        "project_id": "FR-3-CKE1169",
+        "y": 1,
+        "probability": 0.6707895953347057,
+        "squared_error": 0.10837949053988681,
+        "pooled_squared_error": 0.10123966942148764
+      },
+      {
+        "project_id": "FR-3-CRW1057",
+        "y": 1,
+        "probability": 0.6589895852693921,
+        "squared_error": 0.1162881029547412,
+        "pooled_squared_error": 0.10123966942148764
+      },
+      {
+        "project_id": "FR-3-CSN1676",
+        "y": 1,
+        "probability": 0.6589174962484621,
+        "squared_error": 0.11633727436541788,
+        "pooled_squared_error": 0.10123966942148764
+      },
+      {
+        "project_id": "FR-3-CSN1693",
+        "y": 0,
+        "probability": 0.7946818279974925,
+        "squared_error": 0.6315192077494364,
+        "pooled_squared_error": 0.5971074380165289
+      },
+      {
+        "project_id": "FR-3-CTZ1074",
+        "y": 1,
+        "probability": 0.6488638219983438,
+        "squared_error": 0.12329661550161078,
+        "pooled_squared_error": 0.12249999999999998
+      },
+      {
+        "project_id": "FR-3-CTZ1074",
+        "y": 1,
+        "probability": 0.6173609386731393,
+        "squared_error": 0.14641265125310102,
+        "pooled_squared_error": 0.12249999999999998
+      }
+    ],
+    "brier_model": 0.28479458227696447,
+    "brier_pooled": 0.24420736288504885,
+    "n_projects": 9,
+    "caution": "very small selected sample; not external or prospective validation"
+  },
+  {
+    "sector": "water",
+    "nested_project_holdout": [
+      {
+        "project_id": "FR-3-CBD1058",
+        "y": 1,
+        "probability": 0.8030206221600951,
+        "squared_error": 0.038800875294196034,
+        "pooled_squared_error": 0.03780864197530863
+      },
+      {
+        "project_id": "FR-3-CBD1058",
+        "y": 0,
+        "probability": 0.7953190549982098,
+        "squared_error": 0.6325323992432454,
+        "pooled_squared_error": 0.6489197530864198
+      },
+      {
+        "project_id": "FR-3-CBD1058",
+        "y": 1,
+        "probability": 0.8141915144896996,
+        "squared_error": 0.03452479328763151,
+        "pooled_squared_error": 0.03780864197530863
+      },
+      {
+        "project_id": "FR-3-CBD1058",
+        "y": 1,
+        "probability": 0.8086759918321664,
+        "squared_error": 0.03660487610140525,
+        "pooled_squared_error": 0.03780864197530863
+      },
+      {
+        "project_id": "FR-3-CET1114",
+        "y": 1,
+        "probability": 0.8023013935169045,
+        "squared_error": 0.03908473900535783,
+        "pooled_squared_error": 0.05609418282548474
+      },
+      {
+        "project_id": "FR-3-CET1114",
+        "y": 1,
+        "probability": 0.8977322857562797,
+        "squared_error": 0.010458685376635227,
+        "pooled_squared_error": 0.05609418282548474
+      },
+      {
+        "project_id": "FR-3-CET1114",
+        "y": 1,
+        "probability": 0.8458322428354439,
+        "squared_error": 0.02376769734914954,
+        "pooled_squared_error": 0.05609418282548474
+      },
+      {
+        "project_id": "FR-3-CKH1176",
+        "y": 1,
+        "probability": 0.7986216964895142,
+        "squared_error": 0.04055322112476134,
+        "pooled_squared_error": 0.05609418282548474
+      },
+      {
+        "project_id": "FR-3-CKH1176",
+        "y": 1,
+        "probability": 0.7505485154340474,
+        "squared_error": 0.06222604315215767,
+        "pooled_squared_error": 0.05609418282548474
+      },
+      {
+        "project_id": "FR-3-CKH1176",
+        "y": 1,
+        "probability": 0.8377529405158234,
+        "squared_error": 0.026324108311261946,
+        "pooled_squared_error": 0.05609418282548474
+      },
+      {
+        "project_id": "FR-3-CLA1124",
+        "y": 1,
+        "probability": 0.44754482917643146,
+        "squared_error": 0.3052067157696983,
+        "pooled_squared_error": 0.05062499999999999
+      },
+      {
+        "project_id": "FR-3-CLA1124",
+        "y": 1,
+        "probability": 0.8705920237843378,
+        "squared_error": 0.016746424308233407,
+        "pooled_squared_error": 0.05062499999999999
+      },
+      {
+        "project_id": "FR-3-CMM1033",
+        "y": 0,
+        "probability": 0.9384673106626857,
+        "squared_error": 0.880720893182454,
+        "pooled_squared_error": 0.7541551246537397
+      },
+      {
+        "project_id": "FR-3-CMM1033",
+        "y": 0,
+        "probability": 0.9276443261277767,
+        "squared_error": 0.860523995797057,
+        "pooled_squared_error": 0.7541551246537397
+      },
+      {
+        "project_id": "FR-3-CMM1033",
+        "y": 1,
+        "probability": 0.9276443261277767,
+        "squared_error": 0.005235343541503538,
+        "pooled_squared_error": 0.01731301939058171
+      },
+      {
+        "project_id": "FR-3-CSN1545",
+        "y": 1,
+        "probability": 0.8748710943962561,
+        "squared_error": 0.015657243017590652,
+        "pooled_squared_error": 0.045918367346938785
+      },
+      {
+        "project_id": "FR-3-CSN1612",
+        "y": 1,
+        "probability": 0.8748710943962561,
+        "squared_error": 0.015657243017590652,
+        "pooled_squared_error": 0.045918367346938785
+      },
+      {
+        "project_id": "FR-3-CUG1061",
+        "y": 1,
+        "probability": 0.8021696418218249,
+        "squared_error": 0.03913685061690504,
+        "pooled_squared_error": 0.03780864197530863
+      },
+      {
+        "project_id": "FR-3-CUG1061",
+        "y": 1,
+        "probability": 0.7969700505359159,
+        "squared_error": 0.04122116037938856,
+        "pooled_squared_error": 0.03780864197530863
+      },
+      {
+        "project_id": "FR-3-CUG1061",
+        "y": 0,
+        "probability": 0.7944295161620603,
+        "squared_error": 0.6311182561494851,
+        "pooled_squared_error": 0.6489197530864198
+      },
+      {
+        "project_id": "FR-3-CUG1061",
+        "y": 1,
+        "probability": 0.807765624240398,
+        "squared_error": 0.036954055223683856,
+        "pooled_squared_error": 0.03780864197530863
+      }
+    ],
+    "brier_model": 0.18062169615473295,
+    "brier_pooled": 0.17047459325569228,
+    "n_projects": 8,
+    "caution": "very small selected sample; not external or prospective validation"
+  },
+  {
+    "sector": "agriculture",
+    "nested_project_holdout": [
+      {
+        "project_id": "FR-3-CET1105",
+        "y": 1,
+        "probability": 0.6644685144775941,
+        "squared_error": 0.11258137777687245,
+        "pooled_squared_error": 0.11621900826446283
+      },
+      {
+        "project_id": "FR-3-CET1105",
+        "y": 0,
+        "probability": 0.6677832949497753,
+        "squared_error": 0.44593452901397856,
+        "pooled_squared_error": 0.434400826446281
+      },
+      {
+        "project_id": "FR-3-CKH1268",
+        "y": 1,
+        "probability": 0.6473828201478842,
+        "squared_error": 0.1243388755268594,
+        "pooled_squared_error": 0.12755102040816324
+      },
+      {
+        "project_id": "FR-3-CKH1268",
+        "y": 1,
+        "probability": 0.6279824799790024,
+        "squared_error": 0.13839703520257338,
+        "pooled_squared_error": 0.12755102040816324
+      },
+      {
+        "project_id": "FR-3-CKH1268",
+        "y": 0,
+        "probability": 0.644185541813019,
+        "squared_error": 0.41497501228093286,
+        "pooled_squared_error": 0.41326530612244905
+      },
+      {
+        "project_id": "FR-3-CLA1133",
+        "y": 1,
+        "probability": 0.6085470049959176,
+        "squared_error": 0.15323544729766614,
+        "pooled_squared_error": 0.16383219954648526
+      },
+      {
+        "project_id": "FR-3-CLA1133",
+        "y": 1,
+        "probability": 0.5836387126936893,
+        "squared_error": 0.17335672156736823,
+        "pooled_squared_error": 0.16383219954648526
+      },
+      {
+        "project_id": "FR-3-CLA1133",
+        "y": 1,
+        "probability": 0.6083635397255432,
+        "squared_error": 0.15337911701630613,
+        "pooled_squared_error": 0.16383219954648526
+      },
+      {
+        "project_id": "FR-3-CMM1036",
+        "y": 1,
+        "probability": 0.6728765517508155,
+        "squared_error": 0.10700975039443689,
+        "pooled_squared_error": 0.09580498866213152
+      },
+      {
+        "project_id": "FR-3-CMM1036",
+        "y": 0,
+        "probability": 0.6698553702918622,
+        "squared_error": 0.4487062171088478,
+        "pooled_squared_error": 0.4767573696145125
+      },
+      {
+        "project_id": "FR-3-CMM1036",
+        "y": 0,
+        "probability": 0.695850065480261,
+        "squared_error": 0.4842073136288835,
+        "pooled_squared_error": 0.4767573696145125
+      },
+      {
+        "project_id": "FR-3-CMM1037",
+        "y": 0,
+        "probability": 0.6707906667328616,
+        "squared_error": 0.449960118575917,
+        "pooled_squared_error": 0.45562500000000006
+      },
+      {
+        "project_id": "FR-3-CMM1037",
+        "y": 1,
+        "probability": 0.6317895297405234,
+        "squared_error": 0.1355789504087049,
+        "pooled_squared_error": 0.10562499999999997
+      },
+      {
+        "project_id": "FR-3-CMM1037",
+        "y": 0,
+        "probability": 0.647226647960675,
+        "squared_error": 0.4189023338304115,
+        "pooled_squared_error": 0.45562500000000006
+      },
+      {
+        "project_id": "FR-3-CMM1037",
+        "y": 1,
+        "probability": 0.65184259808854,
+        "squared_error": 0.12121357650573793,
+        "pooled_squared_error": 0.10562499999999997
+      },
+      {
+        "project_id": "FR-3-CSN1814",
+        "y": 1,
+        "probability": 0.5935404064994629,
+        "squared_error": 0.16520940114862184,
+        "pooled_squared_error": 0.14927685950413222
+      },
+      {
+        "project_id": "FR-3-CSN1814",
+        "y": 1,
+        "probability": 0.6183896856363176,
+        "squared_error": 0.14562643202874853,
+        "pooled_squared_error": 0.14927685950413222
+      },
+      {
+        "project_id": "FR-3-CTZ1097",
+        "y": 1,
+        "probability": 0.608547004995917,
+        "squared_error": 0.15323544729766667,
+        "pooled_squared_error": 0.16383219954648526
+      },
+      {
+        "project_id": "FR-3-CTZ1097",
+        "y": 1,
+        "probability": 0.5836387126936897,
+        "squared_error": 0.17335672156736787,
+        "pooled_squared_error": 0.16383219954648526
+      },
+      {
+        "project_id": "FR-3-CTZ1097",
+        "y": 1,
+        "probability": 0.6083635397255436,
+        "squared_error": 0.15337911701630588,
+        "pooled_squared_error": 0.16383219954648526
+      },
+      {
+        "project_id": "FR-3-CVN1259",
+        "y": 0,
+        "probability": 0.7783825861565171,
+        "squared_error": 0.6058794504317078,
+        "pooled_squared_error": 0.4767573696145125
+      },
+      {
+        "project_id": "FR-3-CVN1259",
+        "y": 0,
+        "probability": 0.7314520471293645,
+        "squared_error": 0.535022097249738,
+        "pooled_squared_error": 0.4767573696145125
+      },
+      {
+        "project_id": "FR-3-CVN1259",
+        "y": 1,
+        "probability": 0.6486095217744956,
+        "squared_error": 0.12347526818754868,
+        "pooled_squared_error": 0.09580498866213152
+      }
+    ],
+    "brier_model": 0.258128709176661,
+    "brier_pooled": 0.2487684153790873,
+    "n_projects": 8,
+    "caution": "very small selected sample; not external or prospective validation"
+  }
+]

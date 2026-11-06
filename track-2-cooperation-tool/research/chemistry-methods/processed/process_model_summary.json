@@ -1,0 +1,10 @@
+{
+  "n_projects": 984,
+  "n_pairs": 253,
+  "n_complete_score_pairs": 230,
+  "n_validation_pairs": 213,
+  "validation_design": "5-fold entire-project holdout within pairs with >=2 projects; singleton pairs not validated; no prospective or causal validation",
+  "score_interval": "Bonferroni union bounds of marginal component posteriors conditional on fitted empirical-Bayes hyperparameters; excludes hyperparameter uncertainty, selection bias and reporting errors",
+  "all_optimizers_success": true,
+  "large_point_shifts_over_10": 55
+}

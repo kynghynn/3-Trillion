@@ -1,0 +1,855 @@
+[
+  {
+    "result_project_id": "NL-KVK-41193594-RH8026BE",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8026BE",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "KE-NCB-93175-A223",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004324",
+    "path": [
+      "KE-NCB-93175-A223",
+      "NL-KVK-41150298-4400",
+      "XM-DAC-7-PPR-4000004324"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201315",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000007215",
+    "path": [
+      "NL-KVK-41160054-201315",
+      "XM-DAC-7-PPR-4000007215"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200894",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000002459",
+    "path": [
+      "NL-KVK-41160054-200894",
+      "XM-DAC-7-PPR-4000002459"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200015",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000000408",
+    "path": [
+      "NL-KVK-41160054-200015",
+      "XM-DAC-7-PPR-4000000408"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "GB-CHC-229476-GUSO-ippf-pakistan",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "GB-CHC-229476-GUSO-ippf-pakistan",
+      "GB-CHC-229476-GUSO-ippfglobal",
+      "NL-KVK-41193594-AD7100GUS",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-GUS7130ID",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "NL-KVK-41193594-GUS7130ID",
+      "NL-KVK-41193594-AD7100GUS",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200305",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001163",
+    "path": [
+      "NL-KVK-41160054-200305",
+      "NL-KVK-41160054-200311",
+      "XM-DAC-7-PPR-4000001163"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113818",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000000089",
+    "path": [
+      "NL-KVK-41160054-113818",
+      "XM-DAC-7-PPR-4000000089"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200308",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001161",
+    "path": [
+      "NL-KVK-41160054-200308",
+      "XM-DAC-7-PPR-4000001161"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-112548",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28433",
+    "path": [
+      "NL-KVK-41160054-112548",
+      "XM-DAC-7-PPR-28433"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8022ID",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8022ID",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-HHH9000",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-250000479",
+    "path": [
+      "NL-KVK-41193594-HHH9000",
+      "XM-DAC-7-PPR-250000479"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41150298-4400",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004324",
+    "path": [
+      "NL-KVK-41150298-4400",
+      "XM-DAC-7-PPR-4000004324"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8000",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200659",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004135",
+    "path": [
+      "NL-KVK-41160054-200659",
+      "XM-DAC-7-PPR-4000004135"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "GB-CHC-229476-GUSO-ippf-ethiopia",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "GB-CHC-229476-GUSO-ippf-ethiopia",
+      "GB-CHC-229476-GUSO-ippfglobal",
+      "NL-KVK-41193594-AD7100GUS",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200504",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001161",
+    "path": [
+      "NL-KVK-41160054-200504",
+      "NL-KVK-41160054-200559",
+      "XM-DAC-7-PPR-4000001161"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201084",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000002459",
+    "path": [
+      "NL-KVK-41160054-201084",
+      "XM-DAC-7-PPR-4000002459"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "UG-NGB-5914-252-M389",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004238",
+    "path": [
+      "UG-NGB-5914-252-M389",
+      "XM-DAC-7-PPR-4000004238"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-GUS7120PK",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "NL-KVK-41193594-GUS7120PK",
+      "NL-KVK-41193594-GUS7100AD",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113261",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28433",
+    "path": [
+      "NL-KVK-41160054-113261",
+      "NL-KVK-41160054-112548",
+      "XM-DAC-7-PPR-28433"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113286",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28911",
+    "path": [
+      "NL-KVK-41160054-113286",
+      "XM-DAC-7-PPR-28911"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113820",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000000089",
+    "path": [
+      "NL-KVK-41160054-113820",
+      "XM-DAC-7-PPR-4000000089"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200666",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000002459",
+    "path": [
+      "NL-KVK-41160054-200666",
+      "XM-DAC-7-PPR-4000002459"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-GG8000",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004340",
+    "path": [
+      "NL-KVK-41193594-GG8000",
+      "XM-DAC-7-PPR-4000004340"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-550407",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000003705",
+    "path": [
+      "NL-KVK-41160054-550407",
+      "XM-DAC-7-PPR-4000003705"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "GB-CHC-229476-XM-DAC-7PPR-4000000707",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000000707",
+    "path": [
+      "GB-CHC-229476-XM-DAC-7PPR-4000000707",
+      "XM-DAC-7-PPR-4000000707"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200635",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004735",
+    "path": [
+      "NL-KVK-41160054-200635",
+      "XM-DAC-7-PPR-4000004735"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8024NP",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8024NP",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201319",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000006858",
+    "path": [
+      "NL-KVK-41160054-201319",
+      "XM-DAC-7-PPR-4000006858"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200535",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001163",
+    "path": [
+      "NL-KVK-41160054-200535",
+      "XM-DAC-7-PPR-4000001163"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113415",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-29410",
+    "path": [
+      "NL-KVK-41160054-113415",
+      "XM-DAC-7-PPR-29410"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200957",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004812",
+    "path": [
+      "NL-KVK-41160054-200957",
+      "XM-DAC-7-PPR-4000004812"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "GB-CHC-229476-GUSO-ippf-kenya",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "GB-CHC-229476-GUSO-ippf-kenya",
+      "GB-CHC-229476-GUSO-ippfglobal",
+      "NL-KVK-41193594-AD7100GUS",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201276",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000007075",
+    "path": [
+      "NL-KVK-41160054-201276",
+      "XM-DAC-7-PPR-4000007075"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113187",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-29422",
+    "path": [
+      "NL-KVK-41160054-113187",
+      "XM-DAC-7-PPR-29422"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-GUS7140ET",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "NL-KVK-41193594-GUS7140ET",
+      "NL-KVK-41193594-GUS7100AD",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200383",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001960",
+    "path": [
+      "NL-KVK-41160054-200383",
+      "XM-DAC-7-PPR-4000001960"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8001",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8029MO",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8029MO",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113792",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000000169",
+    "path": [
+      "NL-KVK-41160054-113792",
+      "XM-DAC-7-PPR-4000000169"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-11.0431",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004146",
+    "path": [
+      "NL-KVK-41160054-11.0431",
+      "XM-DAC-7-PPR-4000004146"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200892",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001163",
+    "path": [
+      "NL-KVK-41160054-200892",
+      "NL-KVK-41160054-200891",
+      "XM-DAC-7-PPR-4000001163"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113374",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28911",
+    "path": [
+      "NL-KVK-41160054-113374",
+      "XM-DAC-7-PPR-28911"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200677",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001163",
+    "path": [
+      "NL-KVK-41160054-200677",
+      "XM-DAC-7-PPR-4000001163"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200677",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000003867",
+    "path": [
+      "NL-KVK-41160054-200677",
+      "XM-DAC-7-PPR-4000003867"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200254",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001744",
+    "path": [
+      "NL-KVK-41160054-200254",
+      "XM-DAC-7-PPR-4000001744"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-PTY8021ID",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004324",
+    "path": [
+      "NL-KVK-41193594-PTY8021ID",
+      "NL-KVK-41193594-PTY8000",
+      "NL-KVK-41150298-4400",
+      "XM-DAC-7-PPR-4000004324"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "GB-CHC-229476-GB-CHC-229476-Safe_Abortion_Action_Fund_Round_6",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000005634",
+    "path": [
+      "GB-CHC-229476-GB-CHC-229476-Safe_Abortion_Action_Fund_Round_6",
+      "XM-DAC-7-PPR-4000005634"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201214",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000006597",
+    "path": [
+      "NL-KVK-41160054-201214",
+      "XM-DAC-7-PPR-4000006597"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201320",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000006858",
+    "path": [
+      "NL-KVK-41160054-201320",
+      "XM-DAC-7-PPR-4000006858"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-GG8001",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004340",
+    "path": [
+      "NL-KVK-41193594-GG8001",
+      "NL-KVK-41193594-GG8000",
+      "XM-DAC-7-PPR-4000004340"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8023KE",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8023KE",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200676",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28433",
+    "path": [
+      "NL-KVK-41160054-200676",
+      "XM-DAC-7-PPR-28433"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201321",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000006858",
+    "path": [
+      "NL-KVK-41160054-201321",
+      "XM-DAC-7-PPR-4000006858"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8021BU",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8021BU",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-40594571-SEHATI",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28425",
+    "path": [
+      "NL-KVK-40594571-SEHATI",
+      "XM-DAC-7-PPR-28425"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201318",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000006858",
+    "path": [
+      "NL-KVK-41160054-201318",
+      "XM-DAC-7-PPR-4000006858"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201317",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000006858",
+    "path": [
+      "NL-KVK-41160054-201317",
+      "XM-DAC-7-PPR-4000006858"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113262",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28433",
+    "path": [
+      "NL-KVK-41160054-113262",
+      "NL-KVK-41160054-112548",
+      "XM-DAC-7-PPR-28433"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "GB-CHC-229476-GUSO-ippf-uganda",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "GB-CHC-229476-GUSO-ippf-uganda",
+      "GB-CHC-229476-GUSO-ippfglobal",
+      "NL-KVK-41193594-AD7100GUS",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8029TU",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8029TU",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200470",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001163",
+    "path": [
+      "NL-KVK-41160054-200470",
+      "NL-KVK-41160054-200535",
+      "XM-DAC-7-PPR-4000001163"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-AD5000RHRN",
+    "funder_country": "NLD",
+    "funder_project_id": "NL-1-PPR-27558",
+    "path": [
+      "NL-KVK-41193594-AD5000RHRN",
+      "NL-1-PPR-27558"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200311",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001163",
+    "path": [
+      "NL-KVK-41160054-200311",
+      "XM-DAC-7-PPR-4000001163"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-201115",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000002459",
+    "path": [
+      "NL-KVK-41160054-201115",
+      "XM-DAC-7-PPR-4000002459"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "GB-CHC-229476-GUSO-ippf-ghana",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "GB-CHC-229476-GUSO-ippf-ghana",
+      "GB-CHC-229476-GUSO-ippfglobal",
+      "NL-KVK-41193594-AD7100GUS",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-GUS7075GH-GUS7050GH",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28432",
+    "path": [
+      "NL-KVK-41193594-GUS7075GH-GUS7050GH",
+      "NL-KVK-41193594-GUS7100AD",
+      "XM-DAC-7-PPR-28432"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200891",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000001163",
+    "path": [
+      "NL-KVK-41160054-200891",
+      "XM-DAC-7-PPR-4000001163"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200856",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004238",
+    "path": [
+      "NL-KVK-41160054-200856",
+      "UG-NGB-5914-252-M389",
+      "XM-DAC-7-PPR-4000004238"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8027ET",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8027ET",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8046IPPFAR",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8046IPPFAR",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8020BD",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8020BD",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-D4LRH8100",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-D4LRH8100",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-RH8025UG",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004333",
+    "path": [
+      "NL-KVK-41193594-RH8025UG",
+      "NL-KVK-41193594-RH8001",
+      "NL-KVK-41193594-RH8000",
+      "XM-DAC-7-PPR-4000004333"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-200452",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000002459",
+    "path": [
+      "NL-KVK-41160054-200452",
+      "XM-DAC-7-PPR-4000002459"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-GG8021JD",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004340",
+    "path": [
+      "NL-KVK-41193594-GG8021JD",
+      "NL-KVK-41193594-GG8001",
+      "NL-KVK-41193594-GG8000",
+      "XM-DAC-7-PPR-4000004340"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41160054-113260",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-28433",
+    "path": [
+      "NL-KVK-41160054-113260",
+      "NL-KVK-41160054-112548",
+      "XM-DAC-7-PPR-28433"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  },
+  {
+    "result_project_id": "NL-KVK-41193594-GG8020ID",
+    "funder_country": "NLD",
+    "funder_project_id": "XM-DAC-7-PPR-4000004340",
+    "path": [
+      "NL-KVK-41193594-GG8020ID",
+      "NL-KVK-41193594-GG8001",
+      "NL-KVK-41193594-GG8000",
+      "XM-DAC-7-PPR-4000004340"
+    ],
+    "interpretation": "funding provenance only; does not attribute the whole result to one donor"
+  }
+]
