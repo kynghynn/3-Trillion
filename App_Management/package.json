@@ -1,0 +1,13 @@
+{
+  "name": "manus-medical-transport-v19",
+  "private": true,
+  "version": "19.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run build && node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "typecheck": "node --check < src/App.tsx",
+    "verify": "npm run build && node scripts/verify.mjs",
+    "preview": "node scripts/serve.mjs"
+  }
+}
