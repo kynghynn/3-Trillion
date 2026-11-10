@@ -39,12 +39,7 @@ const observer = new IntersectionObserver(entries => entries.forEach(entry => {
 }), { threshold: .08 });
 document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
-const chain = [
-  { kicker:'01 / CONFIRM AVAILABILITY', title:'The journey starts<br>before the boat.', copy:'A delivery plan only works when medicines are available. First, confirm the designated supply pathway, allocated stock and the funding to keep it moving.', detail:'Supply responsibility & available stock' },
-  { kicker:'02 / PREPARE IN LORENGAU', title:'One hub.<br>A clearer picture.', copy:'Connect facility orders with available stock at the Lorengau hub. Check quantities, packaging and dispatch records so each delivery starts with the right medicines.', detail:'Stock visibility & planned dispatch' },
-  { kicker:'03 / CONNECT BY SEA', title:'A dependable<br>way across.', copy:'Use qualified transport suited to the route. Agree delivery windows, protect the cargo and prepare alternatives for weather disruption or vessel breakdown.', detail:'Safe transport & contingency planning' },
-  { kicker:'04 / COMPLETE THE HANDOVER', title:'All the way<br>to the shelf.', copy:'Check medicines on arrival, confirm usable quantities and update facility records. Safe storage and the next stock report complete the connection back to the hub.', detail:'Verified receipt & a continuous feedback loop' }
-];
+const chain = [{"kicker": "01 / CONFIRM AVAILABILITY", "title": "The journey starts<br>before the boat.", "copy": "Secure allocated medicines through the supply institution designated by the national and provincial health authorities. Confirm stock, the ordering pathway and the funds behind each allocation.", "detail": "Public supply first · 20 tracked medicines", "checks": ["Prioritise 20 MPHA-approved essential medicine items and strengths for tracking; begin with non-refrigerated products.", "Antibiotics and antimalarials follow national guidance and facility prescribing and handling permissions.", "Confirm the first two deliveries’ available or allocated stock before regular operations."]}, {"kicker": "02 / PREPARE IN LORENGAU", "title": "One hub.<br>A clearer picture.", "copy": "The Lorengau hub checks usable stock, calculates each facility’s replenishment, packs medicines and records dispatch. Facility consumption and stockout days inform the next order.", "detail": "Check → calculate → pack → dispatch", "checks": ["Required quantity = expected demand + safety stock − usable stock − confirmed incoming stock; never below zero.", "Account for delivery lead time, weather delays, expiry and storage capacity.", "Issue stock with the earliest expiry first and verify quantities, packaging and dispatch records."]}, {"kicker": "03 / CONNECT BY SEA", "title": "A dependable<br>way across.", "copy": "Use qualified local transport from Lorengau to the selected facilities. The planning baseline considers two visits per month; actual routes, maximum intervals and safe operating days require field assessment.", "detail": "Two visits per month under review · routes to be verified", "checks": ["Select routes through field assessment and trial voyages, checking distances, landing access and vessel suitability.", "Confirm available operating funds and fuel before departure, with any advance payments defined in the contract.", "Verify voyage, fuel and handover records for monthly payment. Keep a qualified backup option for breakdowns or cancellations."]}, {"kicker": "04 / COMPLETE THE HANDOVER", "title": "All the way<br>to the shelf.", "copy": "A delivery is complete when the designated health-facility worker confirms receipt—not when the boat reaches the jetty. The facility checks the medicines and keeps the stock record current.", "detail": "Verified receipt · daily stock and stockout records", "checks": ["Check item, strength, quantity, batch, expiry, damage and any required temperature record.", "Isolate and report questionable stock for a qualified pharmacy assessment; exclude it from usable stock.", "Record consumption, usable stock and stockout days by tracked item, then report back to the hub."]}];
 const routeTabs = [...document.querySelectorAll('.route-node')];
 let selectedStep = 0;
 function selectStep(index, focus = false) {
@@ -55,6 +50,8 @@ function selectStep(index, focus = false) {
   document.querySelector('#step-kicker').textContent = entry.kicker;
   document.querySelector('#step-title').innerHTML = entry.title;
   document.querySelector('#step-copy').textContent = entry.copy;
+  const checks = document.querySelector('#step-checks');
+  checks.replaceChildren(...entry.checks.map(text => { const li = document.createElement('li'); li.textContent = text; return li; }));
   document.querySelector('#step-detail strong').textContent = entry.detail;
   const panel = document.querySelector('#route-panel');
   panel.setAttribute('aria-labelledby', routeTabs[selectedStep].id);
@@ -164,7 +161,7 @@ function setLanguage(nextLanguage) {
   word = 0;
   rotating = document.querySelector('.rotating-word');
   if (rotating) rotating.textContent = words[word];
-  document.querySelector('#brief-dialog>.text-link').href = (document.body.dataset.fileRoot || '/') + (language === 'ko' ? 'project-note-ko.txt' : 'project-note.txt');
+  document.querySelector('#proposal-download').href = (document.body.dataset.fileRoot || './') + 'documents/project-proposal-ko.md';
   document.title = language === 'ko' ? '3-Trillion — 필요한 약이, 필요한 곳에.' : '3-Trillion — Essential medicines. All the way.';
   document.querySelector('meta[name="description"]').content = language === 'ko' ? '3-Trillion이 제안하는 파푸아뉴기니 마누스주 외곽 보건소 필수의약품 공급망 개선 시범사업.' : '3-Trillion proposes a locally led essential medicines supply chain pilot for outer health facilities in Manus Province, Papua New Guinea.';
   const pageName = document.body.dataset.page;
@@ -172,12 +169,22 @@ function setLanguage(nextLanguage) {
   if(pageName === 'contact') document.title = language === 'ko' ? '연락하기 — 3-Trillion' : 'Contact — 3-Trillion';
   updateAutoplayLabel();
   document.dispatchEvent(new CustomEvent('site:language', {detail:{language}}));
+  // Carry the chosen language between local HTML files, whose storage may be isolated.
+  document.querySelectorAll('a[href]').forEach(link => {
+    const href = link.getAttribute('href');
+    if (link.hasAttribute('download') || /^(?:[a-z]+:|#|\/\/)/i.test(href) || !href.split(/[?#]/)[0].endsWith('.html')) return;
+    const [beforeHash, hash] = href.split('#');
+    const [path, query] = beforeHash.split('?');
+    const params = new URLSearchParams(query || '');
+    params.set('lang', language);
+    link.setAttribute('href', path + '?' + params.toString() + (hash ? '#' + hash : ''));
+  });
   try { localStorage.setItem('3trillion-language', language); } catch {}
 }
 document.querySelectorAll('[data-language]').forEach(button => button.addEventListener('click', () => setLanguage(button.dataset.language)));
 let savedLanguage = 'en';
 try { savedLanguage = localStorage.getItem('3trillion-language') || 'en'; } catch {}
-setLanguage(savedLanguage);
+setLanguage(new URLSearchParams(location.search).get('lang') || savedLanguage);
 
 // Keep the opening exactly one viewport tall, including the responsive header.
 const siteHeader = document.querySelector('.header');
