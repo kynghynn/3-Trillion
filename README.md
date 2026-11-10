@@ -7,7 +7,7 @@ Team 3-Trillion research project for International Political Economy of Developm
 ## 주요 작업물
 
 - [트랙2 도구 설계·지표·자료 준비](track-2-cooperation-tool/): 국가 협력관행 등급과 분야별 케미 연구, 자료 보완·통계 점검·양방향 추천 데이터 준비.
-- [팀 홈페이지 전체 소스](site/): 2026년 10월 21일 제작한 Project · People · Contact, 한국어/영어 전환.
+- [팀 홈페이지 전체 소스](site/): 2026년 11월 10일 갱신한 Project · People · Contact, 한국어/영어 전환과 지역 개념도, 사업 필요성·성과지표·협력 역할 소개.
 - [마누스주 필수의약품 공급망 사업기획서](track-1-aid-project/docs/project-proposal.md): 2026년 10월 20일 작성한 공개자료 조사 및 실행설계 초안.
 - [3주차 개인 아이디어](docs/ideas/week-03/): 초기 구상 기록을 보존합니다.
 - [저장소 운영 규칙](CONTRIBUTING.md)
@@ -23,12 +23,14 @@ Team 3-Trillion research project for International Political Economy of Developm
 
 로컬 서버를 사용하려면 저장소 루트에서 `python3 -m http.server 8000`을 실행한 뒤 `http://localhost:8000/`을 엽니다.
 
+[오프라인 전달용 ZIP](downloads/3-trillion-track1-offline.zip)을 내려받아 전체 압축을 해제한 뒤 `index.html`을 열 수도 있습니다. 재생성: `python3 scripts/package-offline.py /tmp/3-trillion-offline`. 기획서 전문은 사이트의 프로젝트 노트에서 내려받을 수 있습니다.
+
 ## 현재 상태와 공개용 변경
 
 - 사업은 사전타당성 기획 단계이며 현지 협약, 재원, 시행이 확정되지 않았습니다.
 - 공식 GitHub Tag/Release는 아직 부여하지 않았습니다. 기획서 본문의 v1.0은 기존 문서의 표기이며 저장소 공식 릴리스가 아닙니다.
-- 공개 규칙에 따라 개인 이메일을 제거하고 문의는 GitHub Issues로 연결했습니다. 메일링리스트는 팀 공용 메일 마련 전까지 비활성 상태입니다.
-- 교수님 사진 파일은 재배포 동의가 확인되지 않아 제외하고 [서울대학교 공식 프로필](https://psir.snu.ac.kr/people/c/P250728025802) 링크를 유지했습니다. 팀원 이미지는 실제 사진이 아닌 임시 SVG입니다.
+- 사용자에게 사용 허가를 확인한 팀원 사진·소속·이메일을 People에 반영했습니다. Contact의 구독·해지 양식은 요청 초안 작성·복사·저장과 이메일 앱 연결을 제공하며, 자동 발송·등록하지 않습니다.
+- 사용자에게 교수님 사진·정보 사용 허가를 확인한 뒤 공식 프로필 출처와 함께 반영했습니다.
 - 중요한 변경은 별도 브랜치와 Pull Request를 사용하고 팀원 1명 이상 검토 후 main에 합칩니다.
 
 ## 라이선스
