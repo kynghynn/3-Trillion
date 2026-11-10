@@ -6,6 +6,8 @@ Team 3-Trillion research project for International Political Economy of Developm
 
 ## 주요 작업물
 
+- [트랙2 웹사이트](track-2-cooperation-tool/website/dist/index.html): 세계지도·국가 비교·한영 전환·최신/과거 자료·방법론·추가 근거 탐색.
+
 - [트랙2 도구 설계·지표·자료 준비](track-2-cooperation-tool/): 국가 협력관행 등급과 분야별 케미 연구, 자료 보완·통계 점검·양방향 추천 데이터 준비.
 - [팀 홈페이지 전체 소스](site/): 2026년 11월 10일 갱신한 Project · People · Contact, 한국어/영어 전환과 지역 개념도, 사업 필요성·성과지표·협력 역할 소개.
 - [마누스주 필수의약품 공급망 사업기획서](track-1-aid-project/docs/project-proposal.md): 2026년 10월 20일 작성한 공개자료 조사 및 실행설계 초안.
@@ -15,7 +17,7 @@ Team 3-Trillion research project for International Political Economy of Developm
 
 ## 프로젝트 구성
 
-트랙 1은 파푸아뉴기니 마누스주의 필수의약품 공급망 개선 사업안입니다. 트랙 2는 기존 AidXray 구상을 폐기하고 국가 협력관행 등급과 국가쌍·분야별 케미 도구를 설계하는 연구입니다. 설계와 데이터 준비를 진행했으며 웹사이트와 검증된 케미 종합점수는 아직 구현하지 않았습니다. 현재 홈페이지는 트랙 1 기획을 소개하며 통합 분석이 완료됐다는 의미는 아닙니다.
+트랙 1은 파푸아뉴기니 마누스주의 필수의약품 공급망 개선 사업안입니다. 트랙 2는 기존 AidXray 구상을 폐기하고 국가 협력관행 등급과 국가쌍·분야별 케미 도구를 설계하는 연구입니다. 트랙2 세계지도 웹사이트를 구현했습니다. 최신 정합성 모형과 과거 서술형 참고값을 구분해 탐색하며, 미래 성공확률이나 인과적 케미를 검증한 도구는 아닙니다. 현재 홈페이지는 트랙 1 기획을 소개하며 통합 분석이 완료됐다는 의미는 아닙니다.
 
 ## 홈페이지 실행
 
